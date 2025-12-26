@@ -28,6 +28,15 @@ export class ProductosPage {
     this.cargarProductosDesdeLocalStorage();
   }
 
+  // leer los archivos cssv locales y parsear
+
+  async cargarCsvDesdeAssets(path: string) {
+    const res = await fetch(path);
+    if (!res.ok) throw new Error('No se pudo leer ' + path);
+    const text = await res.text();
+    // parsear con PapaParse como ya hacés
+    return text;
+  }
 
 
   // Lista acumulada (sin borrar anteriores)
@@ -179,12 +188,12 @@ export class ProductosPage {
   }
 
   borrarProductosCargados() {
-  localStorage.removeItem(this.LS_PRODUCTOS);
-  this.productosMap.clear();
-  this.totalProductos = 0;
-  this.archivosCargados = [];
-  this.mensaje = 'Piezas cargadas borradas.';
-}
+    localStorage.removeItem(this.LS_PRODUCTOS);
+    this.productosMap.clear();
+    this.totalProductos = 0;
+    this.archivosCargados = [];
+    this.mensaje = 'Piezas cargadas borradas.';
+  }
 
 
 }

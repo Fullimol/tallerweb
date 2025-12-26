@@ -32,7 +32,7 @@
 
                 <div class="col-12 col-md-auto d-grid">
                     <button type="button" class="btn btn-success" (click)="buscarYAgregar()">
-                        Agregar
+                       <i class="bi bi-plus-circle"></i> Agregar
                     </button>
                 </div>
             </div>
@@ -53,7 +53,7 @@
 
 
                     <button type="button" class="btn btn-danger" (click)="vaciar()">
-                        Vaciar todo
+                        <i class="bi bi-x-circle"></i> Vaciar todo
                     </button>
                 </div>
             </div>
@@ -76,7 +76,7 @@
                             <td class="text-end">{{ item.precio_c_iva | number:'1.2-2' }}</td>
                             <td class="text-end">
                                 <button type="button" class="btn btn-sm btn-danger" (click)="eliminarItem(item.codigo)">
-                                    X
+                                    <i class="bi bi-x"></i>
                                 </button>
                             </td>
                         </tr>
