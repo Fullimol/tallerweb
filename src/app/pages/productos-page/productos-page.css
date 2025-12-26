@@ -1,0 +1,101 @@
+/* .container {
+  max-width: 980px;
+  margin: 24px auto;
+  padding: 0 12px;
+  font-family: system-ui, Arial, sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 14px;
+  margin: 12px 0;
+}
+
+.row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-top: 10px;
+}
+
+input[type="text"], input[type="number"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+input[type="text"] {
+  flex: 1;
+}
+
+button {
+  padding: 10px 12px;
+  border: 1px solid #333;
+  border-radius: 8px;
+  background: #fff;
+  cursor: pointer;
+}
+
+button.danger {
+  border-color: #b00020;
+}
+
+.muted {
+  color: #444;
+}
+
+.message {
+  margin-top: 10px;
+  color: #b00020;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border-bottom: 1px solid #eee;
+  padding: 10px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid #eee;
+}
+
+.switch {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.top-actions {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 12px 0;
+}
+
+@media (max-width: 640px) {
+  .top-actions button {
+    width: 100%;
+  }
+} */

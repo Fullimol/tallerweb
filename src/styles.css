@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+  font-size: 22px; /* default Bootstrap = 16px */
+}
+
+/* font en version mobile */
+
+@media (max-width: 576px) {
+  html {
+    font-size: 18px;
+  }
+
+  .procutoItem{
+    /* font-size: 14px; */
+    max-width: 90px;
+  }
+}

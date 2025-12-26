@@ -1,0 +1,128 @@
+<div class="container py-3">
+
+
+    <!-- Archivos cargados -->
+    <div class="card mb-3" *ngIf="archivosCargados.length > 0">
+        <div class="card-body">
+            <div class="d-flex flex-column flex-md-row justify-content-md-between gap-2">
+                <div>
+                    <div class="fw-semibold">Archivos cargados: {{ archivosCargados.length }}</div>
+                    <div class="text-muted small">Productos únicos cargados: {{ totalProductos }}</div>
+                </div>
+            </div>
+
+            <ul class="list-group list-group-flush mt-2">
+                <li class="list-group-item px-0 py-1" *ngFor="let a of archivosCargados">
+                    {{ a }}
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Buscar -->
+    <div class="card mb-3">
+        <div class="card-body">
+            <h5 class="card-title mb-3">Buscar por código y agregar</h5>
+
+            <div class="row g-2 align-items-center">
+                <div class="col-12 col-md">
+                    <input type="text" class="form-control" placeholder="Código (ej: AD-5218)"
+                        [(ngModel)]="codigoBuscado" (keyup.enter)="buscarYAgregar()" />
+                </div>
+
+                <div class="col-12 col-md-auto d-grid">
+                    <button type="button" class="btn btn-success" (click)="buscarYAgregar()">
+                        Agregar
+                    </button>
+                </div>
+            </div>
+
+            <div *ngIf="mensaje" class="alert alert-warning mt-3 mb-0">
+                {{ mensaje }}
+            </div>
+        </div>
+    </div>
+
+    <!-- Tabla -->
+    <div class="card" *ngIf="seleccionados.length > 0">
+        <div class="card-body">
+            <div class="d-flex flex-column flex-md-row justify-content-md-between align-items-md-center gap-2 mb-2">
+                <h5 class="card-title m-0">Productos seleccionadas</h5>
+
+                <div class="d-flex flex-column flex-sm-row gap-2">
+
+
+                    <button type="button" class="btn btn-danger" (click)="vaciar()">
+                        Vaciar todo
+                    </button>
+                </div>
+            </div>
+
+            <div class="table-responsive">
+                <table class="table table-sm align-middle">
+                    <thead class="table-light">
+                        <tr>
+                            <th style="width: 140px;">Código</th>
+                            <th>Producto</th>
+                            <th class="text-end" style="width: 160px;">Precio</th>
+                            <th style="width: 80px;"></th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <tr *ngFor="let item of seleccionados">
+                            <td class="font-monospace">{{ item.codigo }}</td>
+                            <td class="procutoItem">{{ item.producto }}</td>
+                            <td class="text-end">{{ item.precio_s_iva | number:'1.2-2' }}</td>
+                            <td class="text-end">
+                                <button type="button" class="btn btn-sm btn-danger" (click)="eliminarItem(item.codigo)">
+                                    X
+                                </button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="d-flex flex-column flex-md-row justify-content-center gap-2 mt-2">
+                <div class="btn btn-light text-start fs-2 text-center">
+                    <span class="fw-semibold">Total:</span>
+                    $ {{ totalSinIva | number:'1.2-2' }}
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-md-between gap-2 mb-3">
+        <!-- <h2 class="m-0">Buscador de productos (CSV)</h2> -->
+
+        <div class="dropdown text-center mt-3">
+            <button class="btn btn-secondary dropdown-toggle btn-sm" type="button" data-bs-toggle="dropdown"
+                aria-expanded="false">
+                Acciones
+            </button>
+
+            <ul class="dropdown-menu">
+                <li>
+                    <button type="button" class="dropdown-item" (click)="fileInput.click()">
+                        Seleccionar archivos CSV
+                    </button>
+                </li>
+
+                <li>
+                    <hr class="dropdown-divider" />
+                </li>
+
+                <li>
+                    <button type="button" class="dropdown-item text-danger" (click)="borrarProductosCargados()">
+                        Borrar Productos cargadas
+                    </button>
+                </li>
+            </ul>
+
+            <input #fileInput type="file" multiple accept=".csv" (change)="onFilesSelected($event)" hidden />
+        </div>
+
+    </div>
+</div>
