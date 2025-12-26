@@ -6,7 +6,7 @@ import Papa from 'papaparse';
 type Producto = {
   codigo: string;
   producto: string;
-  precio_s_iva: number;
+  precio_c_iva: number;
 };
 
 @Component({
@@ -101,7 +101,7 @@ export class ProductosPage {
   }
 
   get totalSinIva(): number {
-    return this.seleccionados.reduce((acc, p) => acc + (p.precio_s_iva || 0), 0);
+    return this.seleccionados.reduce((acc, p) => acc + (p.precio_c_iva || 0), 0);
   }
 
   // ---------- CSV parsing ----------
@@ -142,7 +142,7 @@ export class ProductosPage {
     return {
       codigo: String(r.codigo ?? '').trim(),
       producto: String(r.producto ?? '').trim(),
-      precio_s_iva: toNumber(r.precio_s_iva),
+      precio_c_iva: toNumber(r.precio_c_iva),
     };
   }
 

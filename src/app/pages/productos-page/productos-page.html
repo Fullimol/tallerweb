@@ -73,7 +73,7 @@
                         <tr *ngFor="let item of seleccionados">
                             <td class="font-monospace">{{ item.codigo }}</td>
                             <td class="procutoItem">{{ item.producto }}</td>
-                            <td class="text-end">{{ item.precio_s_iva | number:'1.2-2' }}</td>
+                            <td class="text-end">{{ item.precio_c_iva | number:'1.2-2' }}</td>
                             <td class="text-end">
                                 <button type="button" class="btn btn-sm btn-danger" (click)="eliminarItem(item.codigo)">
                                     X
