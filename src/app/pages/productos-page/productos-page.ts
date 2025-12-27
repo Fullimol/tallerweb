@@ -56,7 +56,7 @@ async ngOnInit() {
     } finally {
       this.isLoading = false;
     }
-  }, 1500);
+  }, 1000);
 }
 
 
@@ -75,7 +75,7 @@ async ngOnInit() {
       this.guardarProductosEnLocalStorage();
       this.guardarArchivosEnLocalStorage();
 
-      this.mensaje = `Piezas cargadas: ${this.totalProductos}`;
+      this.mensaje = `​✅ Piezas cargadas: ${this.totalProductos}`;
     } catch (e) {
       this.mensaje = 'No se pudo descargar la lista.';
       throw e; // 👈 clave
@@ -87,7 +87,7 @@ async ngOnInit() {
     const raw = localStorage.getItem(this.LS_PRODUCTOS);
 
     if (!raw) {
-      this.mensaje = 'Sin conexión y sin datos guardados.';
+      this.mensaje = '❌🔌 Sin conexión y sin datos guardados.';
       return;
     }
 
@@ -106,9 +106,9 @@ async ngOnInit() {
       this.archivosCargados = [this.CSV_NAME];
 
       this.mensaje =
-        'Sin conexión. Usando última lista guardada.';
+        '⚠️🔌Sin conexión. Usando última lista guardada.';
     } catch {
-      this.mensaje = 'Error leyendo datos guardados.';
+      this.mensaje = '❌ Error leyendo datos guardados.';
     }
   }
 
@@ -154,23 +154,23 @@ async ngOnInit() {
 
     const code = this.codigoBuscado.trim().toUpperCase();
     if (!code) {
-      this.mensaje = 'Ingresá un código.';
+      this.mensaje = '❗ Ingresá un código.';
       return;
     }
     if (this.productosMap.size === 0) {
-      this.mensaje = 'No hay productos cargados.';
+      this.mensaje = '❌ No hay productos cargados.';
       return;
     }
 
     const prod = this.productosMap.get(code);
     if (!prod) {
-      this.mensaje = `No se encontró el código: ${code}`;
+      this.mensaje = `❗ No se encontró el código: "${code}"`;
       return;
     }
 
     const yaAgregado = this.seleccionados.some((p) => p.codigo.toUpperCase() === code);
     if (yaAgregado) {
-      this.mensaje = `El código ${code} ya está agregado.`;
+      this.mensaje = `✔️ El código ${code} ya está agregado.`;
       this.codigoBuscado = '';
       return;
     }
@@ -222,40 +222,8 @@ async ngOnInit() {
     localStorage.setItem(this.LS_PRODUCTOS, JSON.stringify(productosArray));
   }
 
-  private cargarProductosDesdeLocalStorage() {
-    const raw = localStorage.getItem(this.LS_PRODUCTOS);
-    if (!raw) return;
-
-    try {
-      const productos: Producto[] = JSON.parse(raw);
-
-      this.productosMap.clear();
-      for (const p of productos) {
-        const key = (p.codigo ?? '').trim().toUpperCase();
-        if (!key) continue;
-        this.productosMap.set(key, p);
-      }
-
-      this.totalProductos = this.productosMap.size;
-      this.mensaje = `Piezas cargadas: ${this.totalProductos}`;
-    } catch {
-      localStorage.removeItem(this.LS_PRODUCTOS);
-    }
-  }
-
   private guardarArchivosEnLocalStorage() {
     localStorage.setItem(this.LS_ARCHIVOS, JSON.stringify(this.archivosCargados));
-  }
-
-  private cargarArchivosDesdeLocalStorage() {
-    const raw = localStorage.getItem(this.LS_ARCHIVOS);
-    if (!raw) return;
-
-    try {
-      this.archivosCargados = JSON.parse(raw);
-    } catch {
-      localStorage.removeItem(this.LS_ARCHIVOS);
-    }
   }
 
   borrarProductosCargados() {
