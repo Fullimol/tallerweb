@@ -6,7 +6,7 @@ import Papa from 'papaparse';
 type Producto = {
   codigo: string;
   producto: string;
-  precio_c_iva: number;
+  precio_c_iva: number; // (mantenido como vos lo usás hoy)
 };
 
 @Component({
@@ -24,51 +24,117 @@ export class ProductosPage {
   codigoBuscado = '';
   mensaje = '';
 
-  ngOnInit() {
-    this.cargarProductosDesdeLocalStorage();
-  }
-
-  // leer los archivos cssv locales y parsear
-
-  async cargarCsvDesdeAssets(path: string) {
-    const res = await fetch(path);
-    if (!res.ok) throw new Error('No se pudo leer ' + path);
-    const text = await res.text();
-    // parsear con PapaParse como ya hacés
-    return text;
-  }
-
-
-  // Lista acumulada (sin borrar anteriores)
   seleccionados: Producto[] = [];
 
-  async onFilesSelected(event: Event) {
-    this.mensaje = '';
-    const input = event.target as HTMLInputElement;
-    if (!input.files || input.files.length === 0) return;
+  // ---------- Local Storage ----------
+  private readonly LS_PRODUCTOS = 'productos_csv';
+  private readonly LS_ARCHIVOS = 'csv_archivos_cargados';
 
-    const files = Array.from(input.files);
+  // ✅ CSV del repo/deploy: public/csv/listaprecios.csv
+  private readonly CSV_NAME = 'listaprecios.csv';
+  private readonly CSV_URL = '/csv/listaprecios.csv';
 
-    for (const file of files) {
-      if (!file.name.toLowerCase().endsWith('.csv')) continue;
 
-      const productos = await this.parseCsv(file);
-
-      for (const p of productos) {
-        const key = p.codigo.trim().toUpperCase();
-        if (!key) continue;
-        this.productosMap.set(key, p); // último CSV pisa
-      }
-
-      this.archivosCargados.push(file.name);
+  async ngOnInit() {
+    try {
+      // Intentar siempre traer el CSV del deploy
+      await this.cargarDesdeRepoYGuardar();
+    } catch {
+      // Si falla (offline, error, etc), usar último guardado
+      this.usarLocalStorageComoFallback();
     }
-
-    this.totalProductos = this.productosMap.size;
-    input.value = '';
-    this.mensaje = `Cargados ${this.archivosCargados.length} archivo(s). Productos únicos: ${this.totalProductos}.`;
-    this.guardarProductosEnLocalStorage();
   }
 
+
+
+  private async cargarDesdeRepoYGuardar() {
+    this.mensaje = 'Cargando lista de precios...';
+
+    try {
+      const csvText = await this.descargarCsv(this.CSV_URL);
+      await this.parseCsvTextYGuardarEnMap(csvText);
+
+      this.archivosCargados = [this.CSV_NAME];
+      this.totalProductos = this.productosMap.size;
+
+      // Guardar como respaldo
+      this.guardarProductosEnLocalStorage();
+      this.guardarArchivosEnLocalStorage();
+
+      this.mensaje = `Piezas cargadas: ${this.totalProductos}`;
+    } catch (e) {
+      this.mensaje = 'No se pudo descargar la lista.';
+      throw e; // 👈 clave
+    }
+  }
+
+  //en caso de no poder descargar el csv, usar el ultimo guardado en localstorage
+  private usarLocalStorageComoFallback() {
+    const raw = localStorage.getItem(this.LS_PRODUCTOS);
+
+    if (!raw) {
+      this.mensaje = 'Sin conexión y sin datos guardados.';
+      return;
+    }
+
+    try {
+      const productos: Producto[] = JSON.parse(raw);
+
+      this.productosMap.clear();
+      for (const p of productos) {
+        const key = (p.codigo ?? '').trim().toUpperCase();
+        if (!key) continue;
+        this.productosMap.set(key, p);
+      }
+
+      this.totalProductos = this.productosMap.size;
+
+      this.archivosCargados = [this.CSV_NAME];
+
+      this.mensaje =
+        'Sin conexión. Usando última lista guardada.';
+    } catch {
+      this.mensaje = 'Error leyendo datos guardados.';
+    }
+  }
+
+
+
+  private async descargarCsv(url: string): Promise<string> {
+    // cache busting: cada carga pide el CSV del deploy actual
+    const res = await fetch(`${url}?v=${Date.now()}`, { cache: 'no-store' });
+    if (!res.ok) throw new Error('No se pudo leer ' + url);
+    return await res.text();
+  }
+
+  private parseCsvTextYGuardarEnMap(csvText: string): Promise<void> {
+    return new Promise((resolve, reject) => {
+      Papa.parse(csvText, {
+        header: true,
+        skipEmptyLines: true,
+        complete: (result) => {
+          try {
+            const rows = (result.data as any[]).map((r) => this.normalizeRow(r));
+
+            this.productosMap.clear();
+            for (const p of rows) {
+              if (!p.codigo || !p.producto) continue;
+              const key = p.codigo.trim().toUpperCase();
+              if (!key) continue;
+              this.productosMap.set(key, p);
+            }
+
+            resolve();
+          } catch (e) {
+            reject(e);
+          }
+        },
+        error: (err: unknown) => reject(err),
+      });
+    });
+  }
+
+  // ---------- Búsqueda ----------
   buscarYAgregar() {
     this.mensaje = '';
 
@@ -78,7 +144,7 @@ export class ProductosPage {
       return;
     }
     if (this.productosMap.size === 0) {
-      this.mensaje = 'Primero cargá al menos un CSV.';
+      this.mensaje = 'No hay productos cargados.';
       return;
     }
 
@@ -88,8 +154,7 @@ export class ProductosPage {
       return;
     }
 
-    // Si querés permitir repetidos, sacá este if y siempre pusheá
-    const yaAgregado = this.seleccionados.some(p => p.codigo.toUpperCase() === code);
+    const yaAgregado = this.seleccionados.some((p) => p.codigo.toUpperCase() === code);
     if (yaAgregado) {
       this.mensaje = `El código ${code} ya está agregado.`;
       this.codigoBuscado = '';
@@ -102,7 +167,7 @@ export class ProductosPage {
 
   eliminarItem(codigo: string) {
     const code = codigo.trim().toUpperCase();
-    this.seleccionados = this.seleccionados.filter(x => x.codigo.trim().toUpperCase() !== code);
+    this.seleccionados = this.seleccionados.filter((x) => x.codigo.trim().toUpperCase() !== code);
   }
 
   vaciar() {
@@ -113,25 +178,7 @@ export class ProductosPage {
     return this.seleccionados.reduce((acc, p) => acc + (p.precio_c_iva || 0), 0);
   }
 
-  // ---------- CSV parsing ----------
-  private parseCsv(file: File): Promise<Producto[]> {
-    return new Promise((resolve, reject) => {
-      Papa.parse(file, {
-        header: true,
-        skipEmptyLines: true,
-        complete: (result) => {
-          try {
-            const rows = (result.data as any[]).map((r) => this.normalizeRow(r));
-            resolve(rows.filter(r => r.codigo && r.producto));
-          } catch (e) {
-            reject(e);
-          }
-        },
-        error: (err) => reject(err),
-      });
-    });
-  }
-
+  // ---------- Normalización ----------
   private normalizeRow(r: any): Producto {
     const toNumber = (v: any) => {
       if (v === null || v === undefined) return 0;
@@ -155,11 +202,7 @@ export class ProductosPage {
     };
   }
 
-
-
   // ---------- Local Storage ----------
-  private readonly LS_PRODUCTOS = 'productos_csv';
-
   private guardarProductosEnLocalStorage() {
     const productosArray = Array.from(this.productosMap.values());
     localStorage.setItem(this.LS_PRODUCTOS, JSON.stringify(productosArray));
@@ -182,18 +225,38 @@ export class ProductosPage {
       this.totalProductos = this.productosMap.size;
       this.mensaje = `Piezas cargadas: ${this.totalProductos}`;
     } catch {
-      // Si hay basura en el storage, lo limpiamos
       localStorage.removeItem(this.LS_PRODUCTOS);
+    }
+  }
+
+  private guardarArchivosEnLocalStorage() {
+    localStorage.setItem(this.LS_ARCHIVOS, JSON.stringify(this.archivosCargados));
+  }
+
+  private cargarArchivosDesdeLocalStorage() {
+    const raw = localStorage.getItem(this.LS_ARCHIVOS);
+    if (!raw) return;
+
+    try {
+      this.archivosCargados = JSON.parse(raw);
+    } catch {
+      localStorage.removeItem(this.LS_ARCHIVOS);
     }
   }
 
   borrarProductosCargados() {
     localStorage.removeItem(this.LS_PRODUCTOS);
+    localStorage.removeItem(this.LS_ARCHIVOS);
+
     this.productosMap.clear();
     this.totalProductos = 0;
     this.archivosCargados = [];
     this.mensaje = 'Piezas cargadas borradas.';
   }
 
-
+  // Opcional: forzar recarga desde el repo aunque exista localStorage
+  async recargarLista() {
+    this.borrarProductosCargados();
+    await this.cargarDesdeRepoYGuardar();
+  }
 }

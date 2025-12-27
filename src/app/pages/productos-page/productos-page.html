@@ -1,8 +1,7 @@
 <div class="container py-3">
 
-
     <!-- Archivos cargados -->
-    <div class="card mb-3" *ngIf="archivosCargados.length > 0">
+    <!-- <div class="card mb-3" *ngIf="archivosCargados.length > 0">
         <div class="card-body">
             <div class="d-flex flex-column flex-md-row justify-content-md-between gap-2">
                 <div>
@@ -17,7 +16,7 @@
                 </li>
             </ul>
         </div>
-    </div>
+    </div> -->
 
     <!-- Buscar -->
     <div class="card mb-3">
@@ -26,13 +25,13 @@
 
             <div class="row g-2 align-items-center">
                 <div class="col-12 col-md">
-                    <input type="text" class="form-control" placeholder="Código (ej: AD-5218)"
+                    <input type="text" class="form-control" placeholder="Poner código SIN guión..."
                         [(ngModel)]="codigoBuscado" (keyup.enter)="buscarYAgregar()" />
                 </div>
 
                 <div class="col-12 col-md-auto d-grid">
                     <button type="button" class="btn btn-success" (click)="buscarYAgregar()">
-                       <i class="bi bi-plus-circle"></i> Agregar
+                        <i class="bi bi-plus-circle"></i> Agregar
                     </button>
                 </div>
             </div>
@@ -94,10 +93,12 @@
         </div>
     </div>
 
-    <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-md-between gap-2 mb-3">
-        <!-- <h2 class="m-0">Buscador de productos (CSV)</h2> -->
+    <p class="text-center">(Precios del 15/12/2025)</p>
+
+    <!-- <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-md-between gap-2 mb-3">
 
         <div class="dropdown text-center mt-3">
+
             <button class="btn btn-secondary dropdown-toggle btn-sm" type="button" data-bs-toggle="dropdown"
                 aria-expanded="false">
                 Acciones
@@ -124,5 +125,5 @@
             <input #fileInput type="file" multiple accept=".csv" (change)="onFilesSelected($event)" hidden />
         </div>
 
-    </div>
+    </div> -->
 </div>
