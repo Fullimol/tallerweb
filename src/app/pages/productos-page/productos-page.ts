@@ -33,7 +33,7 @@ export class ProductosPage {
   // cambiar la fecha esta cada vez que se actualice el CSV en el repo/deploy 
   // (USAR LA FECHA DE PRECIOS QUE INDICA EL PDF DE "TUBOSILEN" )
   private readonly CSV_VERSION = '15-12-2025'; 
-  fechaVersion = "26/12 (test)";
+  fechaVersion = this.CSV_VERSION;
   // ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
   // ---------- Local Storage ----------
