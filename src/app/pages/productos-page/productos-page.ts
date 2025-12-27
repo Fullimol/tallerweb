@@ -106,7 +106,7 @@ async ngOnInit() {
       this.archivosCargados = [this.CSV_NAME];
 
       this.mensaje =
-        '⚠️🔌Sin conexión. Usando última lista guardada.';
+        '⚠️🔌 SIN CONEXIÓN. Usando última lista guardada.';
     } catch {
       this.mensaje = '❌ Error leyendo datos guardados.';
     }
@@ -164,7 +164,7 @@ async ngOnInit() {
 
     const prod = this.productosMap.get(code);
     if (!prod) {
-      this.mensaje = `❗ No se encontró el código: "${code}"`;
+      this.mensaje = `❗ NO SE ENCONTRÓ el código: "${code}"`;
       return;
     }
 
