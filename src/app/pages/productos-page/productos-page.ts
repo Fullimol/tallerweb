@@ -170,7 +170,7 @@ async ngOnInit() {
 
     const yaAgregado = this.seleccionados.some((p) => p.codigo.toUpperCase() === code);
     if (yaAgregado) {
-      this.mensaje = `✔️ El código ${code} ya está agregado.`;
+      this.mensaje = `✔️ El código "${code}" ya está agregado.`;
       this.codigoBuscado = '';
       return;
     }
