@@ -18,6 +18,8 @@ type Producto = {
 export class ProductosPage {
   productosMap = new Map<string, Producto>();
 
+  isLoading = false;
+
   archivosCargados: string[] = [];
   totalProductos = 0;
 
@@ -41,15 +43,19 @@ export class ProductosPage {
   private readonly CSV_URL = '/csv/listaprecios.csv';
 
 
-  async ngOnInit() {
+async ngOnInit() {
+  this.isLoading = true;
+
+  setTimeout(async () => {
     try {
-      // Intentar siempre traer el CSV del deploy
       await this.cargarDesdeRepoYGuardar();
     } catch {
-      // Si falla (offline, error, etc), usar último guardado
       this.usarLocalStorageComoFallback();
+    } finally {
+      this.isLoading = false;
     }
-  }
+  }, 1800);
+}
 
 
 

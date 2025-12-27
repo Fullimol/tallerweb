@@ -1,6 +1,6 @@
 {
   "name": "Taller Web",
-  "short_name": "tallerweb",
+  "short_name": "Taller Web",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
