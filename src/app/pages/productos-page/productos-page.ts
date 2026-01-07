@@ -2,6 +2,7 @@ import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import Papa from 'papaparse';
+import { RouterLink, RouterModule } from "@angular/router";
 
 type Producto = {
   codigo: string;
@@ -13,7 +14,7 @@ type Producto = {
   selector: 'app-productos-page',
   templateUrl: './productos-page.html',
   styleUrls: ['./productos-page.css'],
-  imports: [CommonModule, FormsModule],
+  imports: [CommonModule, FormsModule, RouterLink, RouterModule],
 })
 export class ProductosPage {
   productosMap = new Map<string, Producto>();

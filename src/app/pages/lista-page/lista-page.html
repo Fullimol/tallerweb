@@ -1,0 +1,45 @@
+<div class="container py-3 vh-100 d-flex flex-column">
+
+  <!-- BLOQUE FIJO ARRIBA -->
+  <div class="sticky-top bg-white pt-1">
+    <div class="d-flex align-items-center justify-content-between mb-3">
+      <h4 class="m-0">📄 Lista completa</h4>
+      <a routerLink="/" class="btn btn-danger btn-sm"><i class="bi bi-arrow-left-circle"></i> Volver</a>
+    </div>
+
+    @if (productos.length === 0) {
+      <div class="alert alert-warning mb-0">
+        No hay productos cargados todavía. Volvé a la página principal y esperá que cargue el CSV.
+      </div>
+    } @else {
+      <div class="mb-3">
+        <input
+          class="form-control"
+          placeholder="Filtrar por código o producto..."
+          [(ngModel)]="filtro"
+        />
+        <div class="text-secondary mt-2">
+          Mostrando {{ productosFiltrados.length }} de {{ productos.length }}
+        </div>
+      </div>
+    }
+  </div>
+
+  <!-- LISTA SCROLLEABLE -->
+  @if (productos.length > 0) {
+    <div class="flex-grow-1 overflow-auto">
+      <div class="d-flex flex-column gap-2 pb-3">
+        @for (p of productosFiltrados; track p.codigo) {
+          <div class="border rounded p-2 bg-light">
+            <div class="fw-bold">{{ p.codigo }}</div>
+            <div>{{ p.producto }}</div>
+            <div class="text-secondary">
+              ${{ p.precio_c_iva | number:'1.2-2' }}
+            </div>
+          </div>
+        }
+      </div>
+    </div>
+  }
+
+</div>
