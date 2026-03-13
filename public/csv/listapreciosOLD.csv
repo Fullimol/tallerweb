@@ -1,0 +1,2000 @@
+codigo,producto,precio_c_iva
+AD5218,Adaptador Ford Focus 1.6 (04/10),91250.49
+AD5219,Adaptador Multiple Ford Focus II 1.6,96779.19
+AD5220,Adaptador Multiple Ford Focus II 2.0,96457.13
+AD5222,Adaptador Ford Focus III 2.0 (13/20),87761.5
+AD5236,Adaptador Ford Fiesta 1.6 (02/14),83843.09
+AD5237,Adaptador Ford Ecosport 2.0 (03/10),74127.6
+AD5245,Adaptador Multiple Ford Ecosport Kinetic 1.6,88351.94
+AD5251,Adapt. Múltiple Ford Ka 1.0 y 1.6 (10/14),91250.49
+AD5260,Adapt. Múlt. Ford Fiesta Kinetic 1.6 (10/20) y Ka - 1.5,88405.62
+AD5416,Adapt. Múltiple VW Gol 1.6 MI (98/11),47235.55
+AD5417,Adapt. Múlt. VW Gol Power 1.4 (12/15),44551.71
+AD5419,Adapt. Múlt. Gol Trend y Voyage 1.6,38164.17
+AD5445,"Adapt. Múlt. VW Fox, Cross Fox y Suran 1.6 (04/10)",78099.68
+AD5446,"Adap. Múlt. VW Fox, Cross Fox y Suran 1.6 (10/19)",81051.9
+AD5465,Adapt. Múlt. VW Bora 2.0,85453.4
+AD5600,Adaptador Múltiple Fiat Uno y Duna 1.6 (88/98),35963.43
+AD5616,Adaptador Múltiple Fiat 147 Tipo 1.4,35426.66
+AD5646,Adapt. Múlt. Fiat Palio y Siena - Fire 1.4 (07/11),73054.07
+AD5647,Adapt. Múlt. Fiat Palio Fire 1.4 (11/14),80944.55
+AD5648,Adaptador Múltiple Fiat Palio 1.6 E.torQ,66290.79
+AD5833,Adaptador Múltiple Peugeot 206 1.6 16V,69081.99
+AD5834,Adaptador Múltiple Peugeot 207 1.4,64143.72
+AD5835,Adaptador Múltiple Peugeot 207 1.6 16V,73537.16
+AD5837,Adaptador Múltiple Peugeot 208 1.5,39237.71
+AD5838,Adaptador Múltiple Peugeot 208 1.6 16V (13/19),39237.64
+AD5840,Adaptador Múltiple Peugeot 307 1.6 16V,39076.68
+AD6059,Adaptador Múltiple Renault Clio 1.2 16V (03/12),26569.99
+AD6060,Adaptador Múltiple Renault Clio Mio 1.2 (12/17),39452.42
+AD6070,Adaptador Múltiple R.Megane 1.6 8V (97/01),69726.11
+AD6094,Adap. Múltip. Renault Logan y Sandero 1.6 8V (13/19),87117.38
+AD6095,Adapt. Múltip. Renault Sandero y Logan 1.6 16V (13/19),76757.76
+AD6200,Adaptador Múltiple corto Chev. Corsa 1.6 (95/09),37949.47
+AD6201,Adaptador Múltiple largo Chev. Corsa 1.6 (95/09),81266.61
+AD6202,Adapt. Múltiple  Corsa Classic 1.4,85453.4
+AD6230,"Adapt. Múltip. Ch. Astra, Astra II y Zafira - 2.0 8V (99/06)",74664.37
+AD6232,"Adapt. Múltiple Chev. Astra, Astra II y Zafira - 2.0 16V",74825.4
+AD6250,"Adapt. Múltip. Ch. Astra, Astra II y Vectra - 2.0 8V (07/11)",77831.3
+AD6251,Adaptador Múltiple Vectra 2.0 y 2.2 16V (97/06),97799.05
+AD6252,Adaptador Múltiple Vectra 2.4 16V (07/11),78368.06
+AD6280,Adap. Múltiple Chevrolet Prisma y Onix 1.4 (13/21),96779.19
+AD6410,Adaptador Múltiple Toyota Hilux 3.0 4x2 (01/05),54642.94
+C13,Cola Chevrolet 400 (62/65) y 400 Super (66/74),27536.18
+C40,Cola Chevrolet Pick Up (66/72),20289.81
+C45,Cola Chevrolet Pick Up (73/78),30756.78
+C49,Cola Chevrolet Pick Up C-20 Naf. y D-20 Diesel,31991.35
+C52,Cola Chevrolet Pick Up D-20 - Turbo (96/98),34138.42
+C90,Cola Dodge 1500 (71/82),21363.35
+C91,Cola Volkswagen 1500 (83/92),22597.91
+C214,"Cola Fiat 147 y Spazio - 1100, 1300",15673.61
+C215,Cola Spazio 1.4 Tipo,17176.56
+C216,Cola elim. Sil. Tras. F. Fiorino - Tipo 1.4 y 1300 Diesel,19055.25
+C240,Cola Ford Falcon (82/92),8105.19
+C241,Cola Falcon Rural y Ranchero (82/89),10681.67
+C280,Cola F100 - 8 Cilindros Fase II (72/81),25281.75
+C282,Cola F100 6 cilindros (82/84) y Perkins (82/90),16317.73
+C283,Cola F100 6 cilindros (82/84) y Perkins (82/90),31293.55
+C284,Cola F100 6 cilindros (86/89) y 6 cil. Max Econo (90/92),28072.94
+C285,Cola derecha F100 (71/81),29951.63
+C286,Cola izquierda F100 (71/81),29951.63
+C289,Cola F100 6 cilindros Max Econo (95/96),30756.78
+C290,Cola F100 - 6 cilind. (69/81) y 8 cilind. (66/72),25281.75
+C297,Cola Ford F100 - Deutz (8290),49973.06
+C298,Cola Ford F100 4.9 I y Turbo MWM (96/99),9447.11
+C302,"Cola F100 - Perkins 6, 6/305, 4 Pot. y 4/203 (64/83)",25281.75
+C308,Cola F100-Diesel MWM 4 cil.(93/95),35856.07
+C309,Cola F100 HSD - Maxion 2.5 TD (96/99),43317.14
+C310,Cola F. F100 Super Dutty - 3.9 TD Cummins (00/06),32742.82
+C313,Sobre dif. Ford Taunus GLX (79/82),21846.44
+C333,Cola Ford Focus 1.6 S/Baúl,17230.24
+C334,Cola Ford Focus 1.6 I C/Baúl (04/12),19860.4
+C365,Cola Jeep Ika,13204.48
+C370,Cola Estanciera Ika,32152.38
+C420,Sobre Diferencial Doble Torino 380W,31400.9
+C435,Cola Renault 4L y 4S,21578.06
+C466,Sobre diferencial Renault 18 y Break GTX (82/93),20558.2
+C510,Sobre diferencial Peug. 504 (83/90) y 505 (81/92),17981.71
+C523,Cola Peug. Pick Up 504 Nafta (81/99) y Diesel (93/99),23510.42
+C550,Cola Rastrojero Indenor,15780.97
+C561,Cola Mercedes Benz Sprinter 310D (97/00),41653.16
+C586,Cola Toyota Hilux 3.0 TDI Cab.doble 4x2 (05/15),46054.66
+C591,"Bronco F.100 en caño Ø3""",187385.56
+C630,Cola Scania Camión 113 (Chasis largo),82232.79
+C630/1,Cola Scania Camión 113 (Chasis corto),62962.84
+C638,"Cola Reforma Scania 380, P94, T/R 114 y T/R 124",46967.16
+C654,Cola Ford Cargo y Volkswagen (96/20),71712.15
+C655,Cola Ford Cargo y Volkswagen (96/20),84057.8
+C656,Cola Camión F. Cargo 1722 para tractor semi (98/20),69565.08
+C680,Cola Mercedes Benz 608,27267.79
+C690,"Cola Mercedes Benz 1112, 1114, 911",38808.3
+C701,Cola Fiat Iveco 150(hasta 95),23725.13
+C720,"Cola Universal larga  Ø2"" - 1m x 1m",32152.38
+C722,"Cola Universal larga  Ø2"" 1/2 - 1m x 1m",38808.3
+C723,"Cola Universal larga  Ø3"" - 1m x 1m",47342.9
+C724,"Cola Universal larga  Ø3"" 1/2 - 1m x 1m",62694.45
+C725,"Cola Universal larga  Ø4"" - 1m x 1m",73376.13
+C726,"Cola Universal larga  Ø4"" 1/2 - 1m x 1m",82018.08
+C735,"Sobrediferencial universal camión Ø4""",56414.27
+C736,"Sobrediferencial Universal Camión Ø4"" 1/2",62962.84
+C737,"Curva de 90° - Ø1"" 1/4",7997.84
+C739,"Curva de 90° - Ø1"" 3/4",9822.85
+C739/1,"Curva de 45° - Ø1"" 3/4",8588.28
+C740,"Curva de 90° - Ø2""",10144.91
+C740/1,"Curva de 45° - Ø1"" 3/4",9017.7
+C741,"Curva de 90° - Ø2"" 1/4",10950.06
+C741/1,"Curva de 45° - Ø2"" 1/4",10144.91
+C742,"Curva de 90° - Ø2"" 1/2",13150.81
+C742/1,"Curva de 45° - Ø2"" 1/2",11486.83
+C743,"Curva de 90° - Ø3""",15244.2
+C743/1,"Curva de 45° - Ø3""",13204.48
+C743/2,"Curva de 90° - Ø3"" c/boquilla",16747.15
+C744,"Curva de 90° - Ø3"" 1/2",21846.44
+C744/1,"Curva de 45° - Ø3"" 1/2",19055.25
+C745,"Curva de 90° - Ø4""",25013.37
+C745/1,"Curva de 45° - Ø4""",21739.09
+C745/2,"Curva de 90° - Ø4"" c/boquilla",27482.5
+C746,"Curva de 90° - Ø4"" 1/2",29897.95
+C746/1,"Curva de 45° - Ø4"" 1/2",27214.12
+C815,Tapa p/Tractor Massey Ferguson 4-203 y 6-305,49221.59
+C816,Tapa p/Tractor Massey Ferguson 6-354 FII y FIV,50509.83
+C831,"Tapa p/Tractor 3""",53139.99
+C836,"Tapa p/Tractor 3""1/2",54213.52
+C880,Cola Reforma Deutz Fahr AX 4.170,51518.42
+C5200,Cola Elimina Sil. Trasero Ford Escort 1.6,30381.04
+C5218,Cola Ford Focus 1.6 - Zetec 1.8 I s/baúl (00/10),29253.83
+C5219,Cola Ford Focus 1.6 y 2.0 I - C/Baúl (00/10),31669.29
+C5220,Cola  Ford Focus II 1.6 y 2.0 s/Baul (08/13),30864.14
+C5222,COLA LIBRE FORD FOCUS III 2.0 (13/20),39506.09
+C5240,"Cola Derecha Ø2"" Ford F100 - Max Econo (90/94)",49919.38
+C5241,"Cola izquierda Ø2"" Ford F100 - Max Econo (90/94)",49328.94
+C5251,Cola Ford Ka 1.0 y 1.6 (10/14),25657.49
+C5415,"Cola VW Gol 1.6 I, 1.8 I y 2.0 I (96/99)",34353.12
+C5416,"Cola VW Gol 1.6 MI, Power - 1.4 y 1.0 I parag. envol.",35963.43
+C5419,Cola VW Gol Trend 1.6,37949.47
+C5445,Cola VW Fox y Cross Fox 1.6,41277.43
+C5480,COLA VW UP 1.0 (14/21),38432.56
+C5491/1,"Cola Deportiva Ø3"" VW Amarok 3.0 V6 (18->)",90626.1
+C5600,"Cola elimina sil. trasero Ø2"" Fiat Uno",40472.27
+C5601,"Cola Elimina Sil. Trasero Ø2"" Fiat Duna",43585.53
+C5602,"Cola Elimina Sil. Trasero Ø2"" 1/4  Fiat Uno",38808.3
+C5604,Cola Fiat Uno Evo 1.4 (10/16),35695.04
+C5605,"Cola elimina Sil. trasero Ø2"" 1/4 Fiat Duna",42404.64
+C5610,Cola Elimina sil. trasero Fiat 128,26516.32
+C5615,"Cola Elimina Sil. Trasero Fiat 147 - 1100, 1300 y Tipo",24154.54
+C5627,"Cola Elimina Sil. Tras. F. Palio 1.6 16V, 1.7 TD y 1.3 Fire",36446.52
+C5629,Cola Elimina Sil. Tras. F. Palio Weekend 1.6 I y 1.7 Diesel,32528.11
+C5646,Cola  Fiat Palio 1.4 Fire (07/14),35695.04
+C5649,Cola Fiat Palio 1.6 E.torQ (12/17),38647.26
+C5650,Cola Fiat Punto 1.4 y 1.8,37842.11
+C5670,Cola libre Fiat Cronos 1.3 (18->),45517.83
+C5810,Cola Elimina Sil. Tras. Peugeot 205,30864.14
+C5833,Cola Peugeot 206 1.6 16V (04/13),31508.26
+C5837,Cola Peugeot 208 1.5 y 1.6 16V,35211.95
+C5839,Cola libre Peugeot 208 1.6 16V (19 ->),33064.88
+C6010,Salto y cola Elimina Sil. Trasero R.18,41331.1
+C6200,Cola Elimina Sil. Trasero Chev. Corsa 1.6 I s/Baúl,28931.77
+C6201,Cola Elimina Sil. Tras. Chevrolet Corsa 1.6 I c/baúl,33225.91
+C6280,Cola Chevrolet Onix 1.4 (13/19),32903.85
+C6420,Cola Deportiva Toyota Pick Up Hilux 2.8 (16->),77294.45
+C20162,Cola VW Saveiro 1.6 Reforma Gas (10/22),15577.48
+C20200,COLA VW UP 1.0 (14/21),19162.6
+C30710,Cola Fiat Doblo 1.4 16V Reforma Gas,18840.54
+C30600,COLA Fiat Mobi 1.0 8v y 1.0 3 cil. (16 ->)  NUEVO - NUEVO - NUEVO,24156.02
+C30800,COLA Fiat Qubo 1.4 (12-16)  NUEVO - NUEVO - NUEVO,14936.0
+C40340,Cola Ford Focus II - 1.6 y 2.0 s/Baúl (08/13),17713.33
+C90720,Cola camión Iveco Tector 170 E28 (16->),81051.9
+CATL45,Catalizador Motores 1000 - 1600 c.c.,239073.58
+CATL51,Catalizador Motores 1600 - 2200 c.c.,252924.88
+D12,Salida Chevrolet 400 Super (66/74),35856.07
+D30,Salida Chevette y GMC 500 (92/93),57004.72
+D32,Salida Chevrolet Corsa 1.6 I 16V con y sin baúl (95/09),26086.9
+D33/3,Salida Chevrolet Corsa Diesel con y sin baúl (96/06),69994.49
+D37,Salida Chevrolet Corsa 1.8 I con y sin baúl (02/11),96725.52
+D37/1,Salida Chev. Corsa 1.8 con y s/baúl (02/11) y Meriva 1.8,39828.15
+D40,Salida Chevrolet Pick Up (66/72),38164.17
+D45,Salida Chevrolet Pick Up (73/78),35534.01
+D46,Salida Chevrolet Pick Up  Reforma Gas  (73/78),27697.21
+D51,Salida Chevrolet D-20 (93/96) y Silverado Maxion (97/02),65968.73
+D52,Sal.Chevr.Pick-up D-20-Turbo(96/98),74664.37
+D58,Salida Chevrolet S-10 - Maxion y Blazer 2.5  TD (97/00),52495.87
+D67,Salida Chev. Vectra 2.2 y 2.0 CD 16V,139666.92
+D70,Salida Ch. Vectra 2.0 GT y Astra II 2.0 8V s/Baúl (07/11),102952.02
+D74,Salida Chevrolet Astra - 2.0 con y sin baúl (99/06),109876.32
+D78,Salida Chevrolet Meriva 1.8 I (03/13),96457.13
+D90,Salida Dodge 1500 (71/73),50348.8
+D100,Salida Dodge 1500 (73/82),38378.88
+D101,Salida Dodge 1500 (73/82) y VW 1500 (83/92),64036.37
+D104/1,Salida VW Golf - 2.0 GTI (96/99) c/antirrígido,108427.05
+D110,Salida VW Polo - 1.6 I (97/09),59795.91
+D111,Salida VW Polo - Diesel 1.9 (96/09),85936.49
+D111/3,Salida VW Polo Diesel 1.9 (96/09) c/Flexible,92485.05
+D127,Salida VW Gacel GL y Senda 1.6(83/95) y Gol Nac. 1.6(93/95),41760.52
+D133,Salida VW Gacel GL y Senda 1.8 (88/95) y Gol 1.8 (92/93),57058.39
+D134,Salida VW Gol 1.8 (94/95) y Saveiro 1.8 (94/97),57434.13
+D140,Salida VW Saveiro 1.6 (92/94) y Gol Brasilero 1.6 (91/92),56575.3
+D142,Salida VW Senda Diesel (90/95) y Saveiro 1.6 Diesel (92/94),38486.23
+D145,Salida VW Gol - 1.6 I (96/98),47557.61
+D145/1,Salida VW Gol Diesel 1.6 (96/99),73805.54
+D147,Salida VW Gol 1.6 MI (98/11) y Gol Power 1.6 (09/11),57273.1
+D147/1,Salida VW Gol Diesel 1.9 (99/05),84487.21
+D148,Salida valiant IV - 2' mod. 68-71,50295.12
+D162,"Salida Fiat Palio, Palio Weekend y Siena 1.6 I (97/01)",112506.48
+D162/1,Salida Fiat Palio 1.6 16V (97/99),100053.47
+D162/3,"Salida Fiat Palio, Palio Weekend y Siena 1.6 I (97/01)",51851.75
+D162/4,"Salida Fiat Palio, Palio Weekend y Siena 1.6I (97/01) c/Flex",110627.8
+D163,Salida Fiat Palio y Siena - Diesel 1.7 (97/01),73590.83
+D163/1,"Salida Fiat Palio, Palio Weekend y Siena - Turbo Diesel 1.7",82715.88
+D177,Salida Fiat Palio Fire 1.3 (01/06),89747.54
+D177/3,Salida Fiat Palio Fire 1.3 (01/06) c/Flexible,101985.84
+D185,Salida Fiat 1500,36607.55
+D190,"Salida Fiat 128 - 1100, 1300 (71/91)",27053.09
+D195,Salida Fiat Duna - 1300 (88/90),51153.95
+D196,"Salida Fiat Uno 1500, Tipo 1.6 y Duna 1500, Tipo 1.6 y 1.4",49812.03
+D197,Salida Fiat Duna y Duna Weekend - Diesel 1300,54642.94
+D197/1,Salida Fiat Duna y Duna Weekend - Diesel 1.7 (92/97),35372.98
+D200,Salida Fiat 125 y 125 Multicarga,46162.01
+D206,Salida Fiat Uno Fire 1.3 I (04/15),83682.06
+D206/1,Salida Fiat Uno Fire 1.3 I (04/15),52388.51
+D214,"Salida Fiat 147 y Spazio - 1100, 1300 (83/91)",19860.4
+D215,Salida Fiat Spazio y Fiorino - Diesel 1300,47235.55
+D216,Salida Fiat Spazio y Fiorino Tipo 1.4,49328.94
+D217,Salida Fiat Regatta 1.5 (85/90),42404.64
+D222,Salida Fiat Regatta - 1.6 (90/95),54428.23
+D226,"Salida Ford Falcon - 170, 187 (62/92)",35319.31
+D227,"Salida 2do tramo F. Falcon 170, 187 (62/69) y 188 (70/82)",25281.75
+D230,Salida enterizo Ford Falcon - 188 (70/82),45464.21
+D231,Salida 1er tramo Ford Falcon - 188 (70/82),25281.75
+D235,Salida enterizo c/Dif. Ford Falcon - 221 (70/82),51422.33
+D236,Salida 1er trramo Ford Falcon - 221 (70/82),28556.03
+D237,Salida 1er trramo Ford Falcon - 221 (70/82),28126.62
+D240,"Salida enterizo c/Dif. Ford Falcon 188, 221 (82/89)",51046.6
+D241,"Salida 1er tramo Ford Falcon 188, 221 (82/89)",28556.03
+D242,"Salida 2do tramo Ford Falcon 188, 221 (82/89)",28126.62
+D244,Salida enterizo Ford Falcon - Max Econo (90/92),107246.16
+D250,Salida Ford Escort - 1.6 (86/90),52495.87
+D252,"Salida Ford Escort - Audi 1.6, 1.8, XR3 (91/92)",54803.97
+D252/1,"Salida c/Flex. Ford Escort - Audi 1.6, 1.8, XR3 (93/94)",88244.59
+D252/2,"Salida s/Flex. Ford Escort - Audi 1.6, 1.8, XR3 (93/94)",50509.83
+D260,Salida Ford Orion y Escort y VW Pointer (94/96),100912.3
+D260/1,Salida s/Flex. Ford Orion y Escort y VW Pointer (94/96),63123.87
+D263,Salida c/tuerca Sonda F. Escort Rural y Zetec 1.8 16V(97/03),134084.54
+D264,Salida Ford Escort - Diesel 1.8 sin Baúl (97/03),95974.04
+D280,Salida Ford F100 - 8 cilindros Fase II (72/81),49006.88
+D281,Salida Ford F100 - 8 cilindros Fase II (72/81),31883.99
+D290,Salida Ford F100 6 cilindros (69/81),30273.69
+D291,Salida Ford F100 Reforma Gas (69/89),26086.9
+D295,Salida Ford F100 - 6 cilindros Max Econo (93/96),55394.41
+D296,Salida Ford F100 Reforma Gas (90/96),53837.79
+D297,Salida Ford F100 Motor Deutz,53354.7
+D299,Salida Ford F100 - Turbo MWM (96/99),26569.99
+D302,Salida Ford F100 - Perkins 4/203 (69/81),45142.15
+D303,Salida Ford F100 Perkins 4 potenciado (69/81),44498.03
+D304,Salida Ford F100 Perkins 6 (64/68),45786.27
+D305,Salida Ford F100 Perkins 6/305 (73/83),52066.45
+D306,Salida Ford F100 Perkins 4/203 (82/90),33762.68
+D307,Salida  Ford F100 Perkins 4 potenciado (82/90),32152.38
+D308,Salida Ford F100 Diesel MWM 4 cilindros (93/95),37359.02
+D309,Salida Ford F100 HSD - Maxion 2.5 TD (96/99),24637.63
+D310,Salida Ford F100 Super Dutty - Cummins 3.9 TD (00/06),22973.65
+D315,Salida Ford Taunus GLX (79/82),14975.82
+D315/1,Salida Ford Taunus GLX (79/82) c/Protectores,31347.23
+D320,"Salida Ford Galaxy 2.0 (92/95) y VW Carat - 1.8, 2.0 (87/91)",60440.03
+D321,Salida Ford Galaxy - 2.0 I (93/95),63714.31
+D324,Salida c/reemp. Cataliz. Ford Fiesta y Ecosport 1.6I (02/07),64948.88
+D327,Salida c/reemplaza Catalizador Ford Ka 1.0 I (97/08),49812.03
+D333,Salida c/Reemp. Catal. Ford Focus 1.6 I con y s/Baúl (04/08),68115.8
+D340,Salida Ford Sierra 1.6 GL (87/92),56843.69
+D342,Salida Ford Sierra 2.3 (84/93),45249.51
+D344,Salida Ford Sierra XR4 Coupe y Ghia S (85/93),41921.55
+D367,Salida Jeep Ika,28717.06
+D370,Salida Ford Ranger 2.8 (02/04),27536.18
+D371,Salida Ford Ranger 3.0 (06/12),19484.66
+D380,Salida Renault R19 RN 1.6 s/Baúl y RE 1.6 c/Baúl,26086.9
+D382,Salida Renault R19 RT - 1700  c/Baúl  (92/94),43907.59
+D383,Salida Renault R19 - Diesel 1.9 (95/99) con y s/Baúl,26408.96
+D384,Salida Renault R19 RN - 1.6 I (95/97),34889.89
+D390,Salida Renault Clio 1.4 I (94/99),44659.06
+D391,Salida Renault Clio 1.6 I (96/99),34997.25
+D392,Salida Renault Clio y Express - Diesel 1.9 (96/00),25764.84
+D393,Salida Renault Clio II - Diesel 1.9 con y s/Baúl (00/03),66237.12
+D393/1,Salida Renault Clio II - 1.5 DCI  con y s/Baúl  (03/10),65270.94
+D394,Salida Renault Clio II - 1.6 16V  con y s/Baúl  (00/09),101395.39
+D394/3,Salida Renault Clio II -1.6 16V con y s/Baúl (00/09) c/Flex.,106655.72
+D396,Salida Renault Clio II - 1.2 16V con y s/Baúl,51529.69
+D406,Salida Renault Megane RT - 1.6 I (97/99),61084.15
+D406/1,Salida Renault Megane 1.6 16V y Scenic 1.6 y 2.0 16V,102683.64
+D406/3,Salida Renault Megane 1.6 16V y Scenic 1.6 y 2.0 16V c/Flex.,108212.34
+D407,"Salida Renault Megane RT, RXE y Scenic 2.0 I",81642.35
+D408,Salida Renault Megane y Scenic - TD 1.9,81588.67
+D408/3,Salida Renault Megane y Scenic 1.9 TD  c/Flexible,86795.32
+D409,Salida Renault Megane II - 1.6 16V c/Baúl (06/11),107943.96
+D420,Salida Torino 380W - 7 bancadas (76/82),91035.78
+D424,Salida Renault Trafic - 1400,41975.22
+D425,Salida Renault Trafic 2000 y Diesel,60225.32
+D430,Salida Renault 4L y 4S,8749.31
+D435,"Salida Renault 4L y 4S, Renault 6 - 2da serie",8749.31
+D440,"Salida Renault 21, 21 Alize y 21 Nevada (89/96)",59795.91
+D460,Salida Renault 12 - 1400 y 12 Break,36929.61
+D462,Salida Renault 12 1600 Caja 5ta.,37412.7
+D467,Salida Renault 18 y Break GTX (82/93) y Fuego (83/89),59956.94
+D468,Salida Renault 18 - Diesel (89/93),61889.3
+D475,Salida Renault 18 - 1400 (84/88),36607.55
+D476,Salida Renault 18 - 1600 Paragolpes envolvente (89/91),44283.32
+D480,Salida Renault 11 TL - 1400 (84/86),13794.93
+D480/1,Salida Renault 9 y 11 TS - 1400; Renault 9 y 11 - 1600,13258.16
+D481,Salida Renault 9 TXE - 1600 (88/93),17552.3
+D487,Salida Renault Kangoo 1.6 16V (05/18),101234.36
+D490,Salida Peugeot 404 (66/80) y Pick Up T5 (73/81),35265.63
+D495,Salida Peugeot 404 Diesel (71/78),21846.44
+D500,Salida Peugeot 504 (69/82),33655.33
+D510,Salida Peugeot 505 (81/82) y Pick Up 504 Nafta (81/99),37305.35
+D511,Salida Peugeot 504 (83/98) y 505 (83/94),39667.12
+D522,Salida Peugeot Pick Up 504 Diesel ligero (93/99),17928.04
+D530,Salida Peugeot 504 Diesel Ligero (88/98),31991.35
+D535,Salida Peugeot 405 SR (93/99),31883.99
+D540,Salida Peugeot 306 1.8 I (96/98) Reemplaza Catalizador,69940.81
+D549,Salida Peugeot 206 Diesel 1.9 (99/06),62211.36
+D550,Salida Rastrojero Indenor,32903.85
+D551,Salida Peugeot 206 1.6 16V y 1.4 8V (04/09) Reemp. Cataliz.,58185.6
+D551/1,Reemplaza Catalizador Peugeot 206 y 307 1.6 16V,45625.24
+D551/2,Camara reempl. Catal. Universal,36560.23
+D580,Salida Toyota Pick Up - Diesel  (81/83),57970.9
+D582,Salida Toyota Pick Up Hilux 4x2 - 2.8 Diesel (96/01),58668.69
+D583,Salida Toyota Pick Up Hilux 4x4 - 2.8 Diesel (96/01),59420.17
+D584,Salida Toyota Pick Up Hilux - Diesel 3.0 Doble Cab. (02/05),62426.07
+D630,Salida Scania Camion 113,132957.33
+D651,"Salida Ford F600, F700 - Perkins 6/354 (66/72)",29951.63
+D651/1,"Salida Ford F600, F700 - Perkins 6/354 (73/90)",29951.63
+D655,Salida Camión Ford Cargo 1722 (98/20),127911.71
+D680,Salida Camión Mercedes Benz 608,35158.28
+D681,Salida Mercedes Benz 710 (93/00),61835.62
+D691,"Salida Camión M. Benz 1112, 1114, 911",52388.51
+D692,Salida Camión M. Benz 1114 (84/90),53301.02
+D694,Salida Camión Mercedes Benz 1517,59259.14
+D695/1,Salida Camión M. Benz 1620 (94/98),92324.02
+D697,"Salida Mercedes Benz 1215, 1720",69189.34
+D700,Salida Camión Fiat 619,53193.67
+D704,Salida Iveco Daily 4910 Turbo (98/00),27750.88
+D2264,Salida Ford Fiesta Diesel 1.8 (95/96),71604.79
+D2265,Salida Ford Fiesta 1.3 I (95/96),55233.38
+D2560,Salida Peugeot 307 1.6 16V con y s/Baúl (01/12),61728.27
+D2650,"Salida Fiat Uno 70S, SX y 1300 IE (92/94)",49812.03
+D5240,Salida Derecha c/Silenc. Ford F100 - Max Econo (90/94),101502.75
+D5241,Salida Izquierda c/Silenc. Ford F100 - Max Econo (90/94),108588.08
+D5275,Downpipe Ford Ranger 2.2 XL y XLT (11/16),154428.03
+D5276,Downpipe Ford Ranger 2.2 150 CV (17/20),178796.44
+D5277,Downpipe Ford Ranger 2.2 160 CV (21/23),189754.71
+D5278,Downpipe Ford Ranger 3.2 XLS 200CV (17 ->),182232.59
+D5279,Downpipe Ford Ranger 3.2  200CV (11/16),158028.89
+D5280,"Downpipe Ford Ranger 3.2 XLT, LTD y FX4 (18 ->)",193236.32
+D5282,Downpipe Ford Ranger 3.0 V6 (23 ->),238780.54
+D5283,Downpipe Ford Ranger 2.0 BiTurbo (23 ->),150261.99
+D5284,Downpipe Ford Ranger 2.0 T (23 ->),142378.3
+D5290,Downpipe Ford Transit 2.2 TD (12/23),187755.13
+D5292,Downpipe Ford Transit  2.0 T (23 ->),206965.05
+D5300,Downpipe Ford Maverick 2.0 T (21 ->),232431.17
+D5301,Downpipe acople orig. Ford Maverick 2.0 T (21 ->),213253.14
+D5433,Salida VW Polo 1.6 MSI (17->),86956.35
+D5460,Salida Motor VW Bora 1.8T,187868.65
+D5475,Salida Motor VW Vento 2.0 T (07/15),168759.72
+D5476,Downpipe  VW Vento 1.4 T (19/23),216716.66
+D5477,Downpipe  VW Vento 1.4 T Sin Brida (19/23),204270.61
+D5480,Salida VW Up 1.0 (14/21),92324.02
+D5487,Downpipe VW Amarok 2.0 TDI 122CV y 140CV (10/18),113472.66
+D5488,Downpipe VW Amarok 2.0 140CV (18->),159742.03
+D5489,Downpipe VW Amarok 2.0 163CV (10/13),115512.38
+D5490,Downpipe VW Amarok 3.0 V6 (18 ->),195920.16
+D5491,Downpipe VW Amarok 2.0 180CV (14/18),115297.67
+D5492,Downpipe VW Amarok 2.0 180CV (18 ->),145195.63
+D5600,Salida Fiat Uno y Duna (88/98),44659.06
+D5610,"Salida Fiat 128 (71/91) caño Ø2""",47987.02
+D5615,"Salida Fiat 147 - 1100, 1300 (83/91)",46108.33
+D5660,Downpipe Fiat Toro 2.0 TD (16 ->),169081.78
+D5670,Salida Fiat Cronos 1.3 (18->),127321.04
+D5827,Downpipe Peugeot Partner 1.6 HDI (17/21),98281.96
+D5836,"Downpipe Peugeot 207, 208 y 308 1.6 THP",103864.52
+D6140,Downpipe Alaskan - Frontier 2.3 TD (18 ->),113132.57
+D6200,Salida Chevrolet Corsa 1.6 c/ y s/Baúl (95/09) y Pick Up 1.6,46376.72
+D6220,Downpipe Chevrolet S-10 2.8 TD (13/18),98496.85
+D6222,Downpipe Chevrolet S-10 2.8 TD (18/22),105474.83
+D6275,Downpipe Chevrolet Cruze 1.4 T (16/24),128814.19
+D6285,Downpipe Chevrolet Tracker 1.2 T (20->),143272.95
+D6420,Downpipe Toyota Hilux 2.8 y 2.4 (18 ->),171765.62
+D6420/1,Downpipe Toyota Hilux 2.8 y 2.4 (16/18)  s/Tuercas Sensores,140671.56
+D7200,Downpipe M. Benz Vito 111  1.6 CDI,115190.12
+D7400,Downpipe Iveco Daily 70-170 ( 20 ->),250567.83
+D20114,"Salida Fox, Cross Fox y Suran 1.6 (04/10)",110091.03
+D20147,Salida VW Gol Power 1.4 (12/15),67095.95
+D30500,Salida Fiat Cronos 1.3 AT y MT (18->),68598.77
+D30800,Salida Fiat Qubo 1.4 (12-16)  NUEVO - NUEVO - NUEVO,63626.64
+D40108,Salida Ford Ecosport 1.5 (17/22),97798.88
+D40311,Salida Ford F100 - Cummins TD 3.9 (06/12),30058.98
+D40330,Salida Ford Focus 1.8 s/Baúl (00/05) y 2.0 c/Baúl (00/08),76918.79
+D50399,Salida Renault Clio Mio 1.2 (12/17),54803.97
+D50401,Salida Renault Sandero y Logan 1.6 16V (13/19),52871.52
+D50450,Salida Renault Sandero y Logan 1.6 8V (08/13),61728.27
+D50490,Salida Kangoo II 1.6 Sce (18->),56132.41
+D50700,"Salida Reemp. Catal. R. Duster,Logan,Oroch y Sandero 1.6 16V",51368.66
+D50704,Salida Reemp. Catal. Renault Duster 2.0 4x4 (12/18),114224.14
+D60112,Salida Peugeot Partner 1.4 (10/17),75523.2
+D60200,Salida Peugeot 307 1.6 16V (10/12) y 308 1.6 16V (12/22),65485.64
+D60560,Salida Peugeot 207 - 1.4 (08/16) y 1.6 16V (08/13),95920.36
+D60600,Salida Peugeot 208 - 1.5 8V (13/17) y 1.6 16V (13/19),67471.56
+D60602,Salida Reemp. Catalizador Peugeot 208 1.6 16V (19 ->),59366.49
+D80088,Salida Citroen C3 Picasso y C3 Aircross (10/21),66881.24
+D90657,Salida Camión Ford Cargo 1722 - Electronico (06/11),76757.76
+D90658,Salida Camión Ford Cargo 1722 (12/20),73805.54
+DC551,Salida c/Catalizador Peugeot 206 1.6 16V y 1.4 8V  (04/08),280997.82
+DC2560,Salida c/Catalizador Peugeot 307 1.6 16V c/ y s/Baúl (01/12),281319.88
+DC2564,Múltiple c/Cat. Peugeot 307 y 408; Citroen C4 y Picasso 2.0,365001.94
+DC10032,"Múlt. c/Catal. Ch. Corsa, Celta, Onix, Prisma y Agile - 1.4",360493.1
+DC10085,Salida c/Catalizador Chevrolet Aveo 1.6 (08/14),317659.04
+DC10800,Múlt. c/Cataliz. Ch. Cruze 1.8 (10/15) y Tracker 1.8 (12/20),348684.21
+DC10900,"Catalizador Inter. Ch. Prisma, Onix y Joy - 1.4 y Spin - 1.8",257648.43
+DC20157,"Múlt. c/Cataliz. VW Gol Trend, Suran, Fox y Voyage - 1.6",351207.02
+DC20200,Salida c/Catalizador VW UP 1.0 (14/21),331722.35
+DC30170,"Múltiple c/Cataliz. Fiat Palio, Strada y Siena - 1.6 E.torQ",350938.63
+DC30180,"Múlt. c/Catal. Fiat Palio, Siena y Strada - Fire 1.4 (07/14)",349972.45
+DC30190,"Múltip. c/Catal. Fiat Palio, Siena y Strada 1.4 Fire (14/20)",383788.81
+DC40100,Múltple c/Catalizador  Ford Ecosport Kinetic - 1.6  (12/17),401824.2
+DC40105,Múltiple c/Catalizador Ford Ecosport Kinetic 2.0 (13/17),434513.34
+DC40324,"Múltiple c/Cataliz. Ford Focus, Fiesta One y Ecosport - 1.6",374126.99
+DC40326,Múlt. c/Cataliz. Fiesta Kinetic 1.6 (10/20) y Ka 1.5 (16/21),402038.91
+DC40340,Múltiple c/Catalizador Ford Focus II - 2.0 (08/13),465109.09
+DC40341,Múltiple c/Catalizador Ford Focus II 1.6 (08/13),409499.97
+DC40343,Múltiple c/Catalizador  Ford Focus III 2.0  (13/20),410466.16
+DC50400,Múltiple c/Cataliz. Renault Logan y Sandero 1.6 8V (13/19),370262.27
+DC50401,Salida c/Catalizador Renault Sandero y Logan 1.6 16V (13/19),260869.04
+DC50700,"Salida c/Cataliz. R. Duster, Logan, Oroch y Sandero 1.6 16V",260332.27
+DC50702,Salida c/Catalizador Renault Duster y Oroch 2.0 16V,311325.19
+DC60200,Salida c/Catalizador Peugeot 307 y 308 1.6 16V,258238.88
+DC60600,Salida c/Cataliz. Peug. 208 1.6 16V (13/19) y 1.5 8V (13/17),279119.13
+DC70100,Salida c/Catalizador  Toyota Etios 1.5  (13->),267310.25
+DE10032,"Múlt. Reemp. Catal. Chev. Corsa, Celta, Onix y Agile - 1.4",152012.57
+DE20112,Salida Reempl. Catalizador VW Polo 1.6 MSI (17->),146483.87
+DE20157,"Múlt. Reemp. Cataliz. VW Gol Trend, Suran, Fox y Voyage- 1.6",140955.16
+DE30180,"Múlt. Reemp. Catal. Palio, Siena y Strada - Fire 1.4 (07/14)",147503.73
+DE40340,Múltiple Reemp. Catalizador Ford Focus II - 2.0 (08/13),204937.58
+I32,Intermedia Chevrolet Corsa elimina catalizador,35426.66
+I60,Interm. Chevrolet Luv e Isuzu - Diesel 2.5 (95/99),45839.95
+I80,Intermedia Citroen 3CV Y AMI 8,19162.6
+I100,Precamara Dodge 1500 (73/82),55126.03
+I101,Intermedia Dodge 1500 (73/82),18679.51
+I104,Intermedia Volkswagen Golf - 2.0 GTI (96/99),16478.76
+I110,Precamara Reempl. Catalizador VW Polo 1.6 I,42297.28
+I140,Prec. interm. anula cat. VW Saveiro - 1.8 (94/97),54267.2
+I140/2,"Prec. Reempl. Catalizador Boquilla Ø1"" 7/8",36822.26
+I147,Intermedia Reempl. Catalizador VW Gol 1.6 MI,53032.64
+I147/1,Reemplaza Catalizador VW Gol Diesel 1.9,48845.85
+I147/2,"Turbo Reempl. Catalizador Boquilla Ø2""1/8",21953.79
+I148,Intermedia VW Gol 1.0 I (00/02),26516.32
+I162,Intermedia Fiat Palio - 1.6 I (97/01),47450.25
+I162/1,Intermedia Fiat Palio - 1.6 16V (97/99),50617.18
+I168,Reempl. Catalizador F. Palio 1.8 y Strada 1.8,61406.21
+I177,Reempl. Catalizador F. Palio Fire 1.3,33494.3
+I178,Intermedia Fiat Palio Fire 1.4,49704.68
+I185,Intermedia Fiat 1500,32152.38
+I196,Intermedia Fiat Uno y Duna,24154.54
+I196/1,Intermedia Fiat Uno 1500 Brasilero,22490.56
+I200,Intermedia Fiat 125,18411.13
+I216,Intermedia Fiat Spazio M.Tipo 1.4,23027.33
+I250,Intermedia Ford Escort 1.6,23993.51
+I252/1,Intermedia Ford Escort - Audi 1.6,28931.77
+I299,Intermedia Ford F-100 Turbo MWM (96/99),26355.29
+I306,Interm. F-100 Perkins 4/203 y Potenciado (82/90),16478.76
+I307,Interm. F-100 Perkins 4/203 y Potenciado (82/90),23456.74
+I308,Interm. F-100 Diesel MWM 4 cilindros (93/95),21631.73
+I309,Interm. F-100 HSD - Maxion 2.5 TD (96/99),20665.55
+I310,Interm. F-100 Super Dutty-Cummins TD 3.9 (00/06),34836.22
+I322,Intermedia s/silenc. Ford Fiesta 1.0 I (98),44444.35
+I325,Intermedia Ford Ka 1.3 I (97/99),59956.94
+I326,Intermedia Ford Ka 1.3 I (97/99),22705.27
+I327,Intermedia c/Turbo Ford Ka 1.0 I (97/08),56253.24
+I329,Intermedia c/Turbo Ford Ka 1.0 (08/10),54052.49
+I366,Intermedio chasis largo Jeep Ika,23510.42
+I370,Intermedia Ford Ranger 2.8 TD (96/98),39881.83
+I385,Intermedia R19 RT 1.8 I,41009.04
+I390,Interm. elim. Catalizador R Clio 1.4 I y 1.6 I,62426.07
+I393/1,Intermedia Clio II 1.5 DCI,21256.0
+I394,Intermedia R.Clio II 1.6 I 16V C/S/Baúl,94202.71
+I396,Intermedio c/turbo Renault Clio II 1.2 16V,41814.19
+I406,Precam. Interm. R. Megane RT - 1.6 I (97/99),90499.01
+I406/1,Intermedia R. Megane - 1.6 I 16V (00/09),46591.42
+I407,Precam. Intermedia R. Megane RT,48792.17
+I407/1,Interm. Reemp. Catalizador R. Megane RT y Scenic,64197.4
+I408,Intermedia R.Megane - 1.9 TD (97/09),56790.01
+I410/2,"Turbo reemplaza catalizador Boq. Ø2""",27965.59
+I425,Interm.corta R.Trafic 1400-2000 y Diesel,24369.25
+I426,Interm. larga R. Trafic 2000 y Diesel,28824.42
+I435,Intermedia 4L y 4S,13687.57
+I445,Intermedio Renault 6 2da Serie,29146.48
+I447,Intermedia R.Twingo (94/01),23242.04
+I460,Interm. 2do tramo Renault 12 - 1400 y Break,43370.82
+I460/1,"Prec. sin caño R.12 - 1400, Break y 1600 Caja 5ta",33601.65
+I461,"Int. 3er tramo R.12 - 1400, Break y 1600 Caja 5ta",26731.02
+I462,Precam. 2do tramos Renault 12 - 1600 Caja 5ta,41438.46
+I475,Precam. 2do tr. Renault 18 - 1400 (84/88),45410.54
+I475/1,Precam. 2do tr. Renault 18 - 1600 - Parag. envolv.,41653.16
+I476,Interm. 3er tr. R.18 - 1600 - Parag. envolv.,27804.56
+I490,Intermedia Peugeot 404 (66/80),26355.29
+I505,Resonador Peugeot 504 (69/82),61513.56
+I506,Interm. anula reson. Peugeot 504 (69/82),23939.83
+I510,Reson. Peugeot 504 (83/98) y 505 (83/92),46967.16
+I522,Interm. Peug. Pick Up 504 Nafta y Dies. Ligero,18303.77
+I528,Interm. Peugeot Partner - Diesel 1.9 (98/10),29575.89
+I547,Intermedia Peugeot 206 - 1.6 I Nacional (99/03),39130.36
+I549,Intermedia Peugeot 206 Diesel 1.9 (99/06),26033.23
+I551,Intermedia Peugeot 206 1.6 16V,27589.85
+I552,Intermedia Peugeot 206 1.4,28824.42
+I690,Interm. Corta Merc. Benz 1112 - 1114 - 911,10466.97
+I691,Interm. Larga Mercedes Benz 1112 - 1114 - 911,19377.31
+I694,Intermedia Corta Mercedes Benz 1517,11916.24
+I695,Intermedia Larga Mercedes Benz 1517,21578.06
+I697,Intermedia Mercedes Benz 1215 - 1720,25067.05
+I698,Intermedia Mercedes Benz 1938 (92/96),43424.5
+I2265,Intermedia Elim. Catalizador F. Fiesta 1.3 I (95/96),51529.69
+I2404,Intermedia c/Turbo Suzuki Fun 1.0 I,57004.72
+I2560,Intermedia Peugeot 307 - 308 1.6 16V,26516.32
+I5202,Intermedia c/silenc. Ford Escort Brida 3 agujeros,93934.32
+I5205,Int. c/sil. Ford Escort XR3 2.0 I,85674.81
+I5210,Intermedia c/silenc. Ford Escort 1.8 I 16V,98228.46
+I5218,Intermedia c/silenc. Ford Focus 1.8 I,99624.06
+I5219,Intermedia c/silenc.  Ford Focus II 1.6,102790.99
+I5220,Intermedia c/Silenc. Ford Focus II 2.0,119860.2
+I5228,Intermedia c/Silenc. Ford Ka 1000,76650.41
+I5233,Int. c/sil. Diesel Ford Fiesta 1.3I,82554.85
+I5236,Intermedia c/silenc. Ford Fiesta - 1.6 I (02/14),75254.81
+I5251,Intermedia c/silenc.  Ford Ka 1.0 y 1.6 (10/14),74449.66
+I5260,Intermedia c/silenc. Ford Fiesta Kinetic Design 1.6,91411.52
+I5275,Intermedia Ford Ranger 2.2 y 3.2  (11/16),55770.15
+I5277,Intermedia Ford Ranger 2.2 y 3.2  (20/23),51224.34
+I5278,"Interm. Elimina DPF Ford Ranger 2,2 y 3,2 (17/20)",62372.39
+I5283,Intermedia Ford Ranger 2.0 Turbo y Bi Turbo (23 ->),47881.9
+I5290,"Imterm. Elimina DPF Ford Transit 2,2 TD (12/23)",54961.13
+I5300,Intermedia c/silenc. Ford Maverick 2.0 T (21 ->),139863.57
+I5400,"Intermedia s/silenc. VW Senda, Gacel y Gol 1.6",37359.02
+I5411,"Intermedia s/silenc. VW Senda, Gol, Saveiro",37949.47
+I5415,"Intermedia c/silenc. VW Gol 1.6 I, 1.8 I, 2.0 I",79065.86
+I5417,Intermedia  VW Gol - 1.6 MI (98/11),86687.96
+I5418,Intermedia c/silenc.  VW Gol 1.4,78475.42
+I5419,Intermedia c/Silenc. VW Gol Trend 1.6,99731.41
+I5419/1,Intermedia Libre VW Gol Trend 1.6,68115.8
+I5433,Intermedia c/silenc. VW Polo 1.6 MSI (17 ->),79709.98
+I5435,"Intermedia c/silenc.  Golf - 1.8 I, 2.0 I y GTD",67525.36
+I5437,Intermedia c/silenc.  VW Golf IV - 1.6 I (99/12),65378.29
+I5445,Intermedia c/Silenc. VW Fox 1.6 (04/19),63016.51
+I5460,Intermedia Libre VW Bora 1.8 T (03/15),85668.1
+I5465,Intermedia Libre VW Bora 2.0,65861.38
+I5470,Intermedia c/silenc. VW Vento 2.5,94739.48
+I5475,Intermedia c/silenc. VW Vento 2.0 T (07/15),123456.54
+I5475/1,Intermedia libre VW Vento 2.0 T (07/15),102565.3
+I5476,Intermedia c/silenc. VW Vento 1.4 T (19/23),94829.57
+I5480,Intermedia c/Silenc. VW Up 1.0 (14/21),90445.33
+I5490,Elimina DPF VW Amarok 3.0 V6 (18 ->),51529.69
+I5491,Intermedia VW Amarok 3.0 V6 (18 ->),77401.88
+I5491/1,"Intermedia Ø 3""  VW Amarok 3.0 V6 (18 ->)",79359.14
+I5600,Intermedia c/silenc.  Fiat Uno y Duna,96832.87
+I5600/1,Intermedia Libre Fiat Uno y Duna,62318.71
+I5604,Intermedia c/silenc.  Fiat Uno Evo 1.4 (10/16),72463.62
+I5616,Intermedia Libre Fiat 147 motor Tipo (90/96),46215.69
+I5627,Intermedia c/silenc. Fiat Palio 1.6,76167.32
+I5645,Intermedia c/Silenc. Fiat Palio 1.8 (04/10),90821.07
+I5646,Intermedia c/Silenc. Fiat Palio 1.4 Fire,76167.32
+I5648,Intermedia c/Silenc. Fiat Palio 1.6 EtorQ,75362.17
+I5650,Intermedia c/Silenc. Fiat Punto 1.4 y 1.8,81642.35
+I5670,Intermedia c/silenc.  Fiat Cronos 1.3 (18 ->),84272.4
+I5800,Intermedia c/silenc. Peugeot 505 (83/93),72839.36
+I5831,Intermedia c/silenc. Peugeot 206 - Nacional,75684.23
+I5833,Intermedia c/silenc. Peugeot 206 16V (04/08),79334.25
+I5834,Intermedia c/silenc.  Peugeot 207 1.4,88083.56
+I5837,Intermedia c/silenc.  Peugeot 208 1.5 (13/17),94685.8
+I5838,"Internedia c/silenc. Peugeot 208 1,6 16V (13/19)",95759.16
+I5839,Intermedia c/silenc. 208 1.6 16V  (19 ->),89854.89
+I5862,"Interm. Elimina DPF P. Expert y Cit. Jumpy 1,6 HDI  (22->)",25281.7
+I5870,Interm. Elimina DPF Peu. Boxer y Cit. Jumper 2.2 HDI (18/22),56145.79
+I6010,Intermedia c/silenc. R 18 - 2.0 paragolpes viejo,91143.13
+I6051,Intermedia Renault Laguna - 2.2 I (95 -),75254.81
+I6055,Intermedia c/silenc. Renault Clio 1.4 y 1.6,91035.78
+I6058,Int. c/sil. Clio II- 1.6 y Dies,73107.74
+I6059,Intermedia c/silenc. Clio II -1.6 I 16V,64787.85
+I6060,Intermedia c/silenc.  Clio II - 1.2 I 16V - S/Baul,65861.38
+I6061,Intermedia c/silenc. Clio II 1.2 16V c/ y s/baul (03/12),58883.4
+I6062,Intermedia c/silenc.  Renault Clio Mio 1.2,73483.48
+I6065,Interm. c/Silenc. Renault Express - 1.9 Diesel (96/00),78797.48
+I6070,Intermedia c/silenc. Renault Megane,68008.45
+I6072,Intermedia c/silenc. Renault Megane II,64251.08
+I6094,Intermedia c/silenc. R. Logan y Sandero 1.6 8V y 16V (13/19),89210.77
+I6120,Intermedia c/silenc.  Renault Fluence 2.0 (10/18),75845.26
+I6130,Intermedia c/silenc. Renault Kwid 1.0 (17 ->),70155.52
+I6200,"Intermadia c/silenc. Ch. Corsa 1.6, Classic 1.4 y Celta 1.4",88459.29
+I6210,Intermedia c/silenc. Chevrolet Corsa 1.6 I Pick Up (96/99),95813.01
+I6222,Interm. Elimina DPF Chevrolet S-10 2.8 TD (18/22),138217.65
+I6232,Intermedia c/silenc. Chevrolet  Astra 2.0 S/Baúl,77079.82
+I6270,Intermedia c/silenc.  Chevrolet Agile - 1.4 (09/17),90176.95
+I6276,Intermedia Chevrolet Cruze 1.4 T (16/24),79039.71
+I6280,Intermedia c/silenc. Chevrolet Onix 1.4 (13/19),98282.14
+I6800,Intermedia c/silenc. Citroen C3 1.6 16V (03/13),94632.12
+I6802,Intermadia c/silenc. Citroen C3 1.6 16V (13/22),75254.81
+I7000,Silenc. Intermedio RAM 1500 5.7 V8 (13->),90176.95
+I10032,Intermedia Chevrolet Agile y Corsa 1.4 (09/17),73215.1
+I10250,Intermedia Chevr. Tracker 1.8 (12/20),91143.13
+I10300,Reempl. Catal. Chevrolet Prisma y Onix 1.4 y Spin 1.8 (13->),37480.63
+I10301,Intermedia Chevrolet Onix 1.4 (13->),33655.33
+I10350,Intermedia Chevrolet S-10 2.8 (13/17),123456.54
+I10800,Intermedia Chevrolet Cruze 1.8 (10/15),78099.68
+I10900,Intermedia Chevrolet Spin 1.8 (12->),69243.02
+I10901,Intermedia c/Turbo Chevrolet Spin 1.8 (12->),53139.99
+I20114,Intermedia VW Fox y Suran 1.6 (10/19),21148.64
+I20148,Reemplaza Catalizador VW Gol 1.6 (09/11),59634.88
+I20157,Intermedia VW Gol Trend 1.6,68330.51
+I20158,Intermedia Trasera VW Gol Trend 1.6,26945.73
+I20161,Intermedia VW Saveiro 1.6 (10/22),27965.59
+I20700,Intermedia VW Amarok 2.0 TDI (10 ->),22812.62
+I30170,Intermedia Fiat Palio E.torQ 1.6 (12/17),64090.05
+I30176,Intermedia Fiat Palio Weekend 1.6 E.torQ (10/17),71121.7
+I30181,Intermedia Fiat Palio Weekend Fire 1.4,54750.29
+I30190,Intermedio Fiat Fiorino 1.4 Fire (14->),51529.69
+I30204,Intermedia Libre Fiat Fiorino - 1.3 Fire,33279.59
+I30206,Intermedia Libre Fiat Uno Fire - 1.3 (04/15),33923.71
+I30400,Intermedia Libre Fiat Strada 1.4 Fire (09/20),26247.93
+I30499,Intermedia Libre Fiat Cronos 1.3 MT (18->),46806.05
+I30500,Intermedia Libre Fiat Cronos 1.3 AT (18->),45732.53
+I30600,Intermedia Fiat Mobi 1.0 8v Fire (16-21) NUEVO - NUEVO - NUEVO,65135.99
+I40324,Intermedia Ford Ecosport 1.6 (08/12),26355.29
+I40325,Caño Reforma Gas Ecosport 1.6 (08/12),19055.23
+I40329,Intermedia Ford Ka 1.0 y 1.6 (10/14),74986.43
+I40330,Intermedia Ford Focus 1.8,112238.1
+I40333,Intermedia Ford Focus 1.6 (08/12),32474.44
+I50100,Intermedio c/turbo Renault Kwid 1.0 (17 ->),36983.29
+I50399,Intermedia c/Turbo Renault Clio Mio,42243.61
+I50400,Intermedia Renault Sandero y Logan 1.6 8V,31132.52
+I50401,Intermedia c/Turbo R. Logan y Sandero 1.6 8V (13/19),50026.74
+I60109,Intermedia Peugeot Partner 1.6 HDI (10 ->),51279.05
+I60110,Intermedia Peugeot Partner 1.6 HDI (10 ->),39184.03
+I60302,Intermedia Peugeot 408 - 1.6 16V (15/21),29253.83
+I60560,Intermedia Peugeot 207 1.4 s/Baúl,39130.36
+I60561,Intermedia Peugeot 207 1.4 c/Baúl,41331.1
+I60562,Intermedia Peugeot 207 1.6 16V s/Baul (08/13),22168.5
+I60563,Intermedia Peugeot 207 1.6 16V c/Baúl (09/12),24369.25
+I60600,Intermedia Peugeot 208 1.5,49382.62
+I60602,Intermedio Peugeot 208 1.6 16V (19 ->),43585.53
+I70100,Turbo Delantero Toyota Etios 1.5 s/Baul (13->),55018.68
+I70101,Turbo Delantero Toyota Etios 1.5 c/Baul (13->),55018.68
+I80100,Intermedia Citroen C3 1.5 8V (13 ->),50241.44
+I80601,Intermedio Jeep Compass 2.4 (17 ->),20182.46
+I90638,Intermedia Camión Scania 114,48201.73
+I90696,Intermedia Camion M.Benz 1634,67740.07
+I90800,Intermedia Camion VW 19320 y 25370 (08/15),77831.31
+MU5220,"Múltiple Ford Focus II, Focus III y Ecosport - 2.0",134406.6
+MU5250,"Múltiple Ford Fiesta, Ecosport, Focus y Ka - 1.6; F. Ka 1.0",110735.15
+MU5260,"Múltiple F. Fiesta Kinetic, Ecosport Kinetic y Focus II -1.6",112989.57
+MU5416,Múltiple VW Gol - 1.6 MI (98/11),129360.98
+MU5417,Múltiple VW Gol Power 1.4 (12/15),117337.39
+MU5419,"Múltiple VW Gol Trend, Voyage, Suran, Fox y Cross Fox - 1.6",108051.31
+MU5465,Múltiple VW Bora - 2.0 (03/15),123724.92
+MU5600,"Múltiple Fiat 147 Tipo, Uno y Duna",101985.84
+MU5646,Múltiple Fiat Palio  y Siena -  Fire 1.4,114492.52
+MU5647,Múltiple Fiat Palio 1.4 Fire (11/14) y Uno Evo 1.4 (10/16),111003.53
+MU5648,Múltiple Fiat Palio y Strada - 1.6 E.torQ,107729.25
+MU5833,M£ltiple Peugeot 206 y 307 1.6 16V,120235.93
+MU5834,Múltiple Peugeot 207 1.4 (08/16) y 208 1.5 (13/17),112935.9
+MU6059,Múltiple Renault Clio II - 1.2 16V (03/12),112077.07
+MU6060,Múltiple Renault Clio Mio 1.2 (12/17),109554.26
+MU6070,"Múltiple Renault Megane, Logan y Sandero - 1.6 8V",109876.32
+MU6200,Múltiple Chevrolet Corsa 1.6  (95/09),149543.44
+MU6201,"Múltiple Ch. Corsa 1.6; Corsa II, Agile, Celta y Onix - 1.4",118035.19
+MU6230,"Múltiple Chevrolet Astra, Astra II y Zafira - 2.0 8V",121041.09
+MU6232,"Múltiple Ch. Astra y Zafira 2.0 16V; Vectra 2.0, 2.2 y 2.4",131132.32
+MU6250,Múltiple Chevrolet Astra II y Vectra - 2.0 8V (07/11),121041.09
+MU6410,Múltiple Toyota Pick Up Hilux 3.0 4x2 (01/05),134513.95
+S10,Silenciador Chevrolet 400 (62/65),40150.21
+S80,Disparador Citr”en 3CV y Ami 8,92324.02
+S81,Sil. Central Orig. c/cola Citroen 3CV y Ami 8,51422.33
+S170,Conjunto Completo Fiat 600 y 750,66827.56
+S175,Conjunto Completo Silenciador Fiat 600,105904.24
+S190,"Silenc. Delantero Fiat 128 - 1100, 1300 (71/91)",95007.86
+S191,"Silenc. trasero Fiat 128 - 1100, 1300 (71/91)",80354.1
+S270,Silenc. F100 8 cil. (66/72) y 6 cil. (69/81),54965.0
+S280,"Sil. F100 8 Cil. Fase II (72/81), 6 cil. (82/89) y Perkins 4",55233.38
+S365,Silenciador Jeep Ika,33440.62
+S435,Silenciador Renault 4L y 4S,68276.83
+S445,Precam. Delantera Renault R6 - 2da Serie,44122.29
+S446,Precam. Trasera Renault R6 - 2da Serie,41814.19
+S480/1,Precamara R11 y R9,53515.73
+S550,Silenciador Rastrojero Indenor,38539.91
+S635,Silenc. Interm. Scania Camión 113 y Colectivo,129575.69
+S680,Silenciador Mercedes Benz 608,64895.2
+S681,Silenciador Mercedes Benz 710 (93/00),100965.98
+S690,"Silenc. Universal - Tapa 180 x 900 mm - Boq. Ø 2"" 5/8",60386.35
+S690/1,"Silenc. Universal - Tapa 180 x 900 mm - Boq. Ø 2"" 5/8 c/Int.",95007.86
+S696,"Silenciador Camion Mercedes Benz 1634, 1632 - 1938e",350026.13
+S698,Silenc. Mercedes Benz 1938 (92/96),180031.84
+S752,"Silenc. Universal - Tapa 160 x 600 mm - Boq. Ø 2"" 5/8",44659.06
+S752/1,"Silenc. Universal - Tapa 160 x 600 mm - Boq. Ø 2"" 5/8 c/Int.",74342.31
+S753,"Silenc. Universal - Tapa 160 x 600 mm - Boq. Ø 3"" 1/8",46054.66
+S753/1,"Silenc. Universal - Tapa 160 x 600 mm - Boq. Ø 3"" 1/8 c/int.",75576.87
+S754,"Silenc. Universal - Tapa 180 x 900 mm - Boq. Ø 3"" 1/8",61728.27
+S754/1,"Silenc. Universal - Tapa 180 x 900 mm - Boq. Ø3"" 1/8 c/Int.",96242.42
+S755,"Silenc. Universal - Tapa 180 x 900 mm - Boq. Ø3"" 5/8",66559.18
+S755/1,"Silenc. Universal - Tapa 180 x 900 mm - Boq. Ø3"" 5/8 c/int.",92216.67
+S760/1,"Silenc. Universal - Tapa 250 x 1000 mm - Boq. Ø3"" 1/8 c/Int.",156521.42
+S761,"Silenc. Universal - Tapa 250 x 1000 mm - Boq. Ø3"" 5/8",103435.11
+S761/1,"Silenc. Universal - Tapa 250 x 1000 mm - Boq. Ø3"" 5/8 c/Int.",159849.38
+S762,"Silenc. Universal - Tapa 250 x 1000 mm - Boq. Ø4"" 1/8",106011.59
+S762/1,"Silenc. Universal - Tapa 250 x 1000 mm - Boq. Ø4"" 1/8 c/Int.",162157.48
+S768,"Silenc. Univ. Ovalado Boq. Ø3""1/8 desplazada - 900mm",87224.73
+S768/1,"Silenc. Univ. Ovalado Boq. Ø3""1/8 desplazada - 900mm c/int.",132957.33
+S769,"Silenc. Univ. Ovalado Boq. Ø3""1/2 desplazada - 900mm",90821.07
+S769/1,"Silenc. Univ. Ovalado Boq. Ø3""5/8 desplazada - 900mm c/Int.",140472.07
+S770,"Silenc. Univ. Ovalado Boq. Ø4""1/8 desplazada - 900mm",93504.91
+S770/1,"Silenc. Univ. Ovalado Boq. Ø4""1/8 desplazada - 900mm c/int.",138647.06
+S771,Silenc. Univ. Oval. - Ent. desp. y sal. al centro -  900mm,93504.91
+S771/1,Silenc. Univ. Oval.-Ent. desp. y sal. al centro-900mm c/int.,138647.06
+S780,"Silenc. Universal - Tapa 250 x 600 mm - Boq. Ø3"" 1/8",79119.54
+S780/1,"Silenc. Universal - Tapa 250 x 600 mm - Boq. Ø3"" 1/8 c/Int.",109715.29
+S781,"Silenc. Universal - Tapa 250 x 600 mm - Boq. Ø3"" 5/8",82876.91
+S781/1,"Silenc. Universal - Tapa 250 x 600 mm - Boq. Ø3"" 5/8 c/Int.",110252.06
+S782,"Silenc. Universal - Tapa 250 x 600 mm - Boq. Ø4"" 1/8",85238.69
+S782/1,"Silenc. Universal - Tapa 250 x 600 mm - Boq. Ø4"" 1/8 c/Int.",112399.13
+S790/2,"Silenc. Univ. Ovalado Boq. Ø4""1/8 desplazada - 600mm",82340.14
+S815,Silenc. Tractor M. Ferguson 4-203 y 6-305,49704.68
+S816,Silenc. Tractor M. Ferguson 6-354 FII y FIV,52442.19
+S840,Silenciador Tractor Fiat 700,55018.68
+S850,Silenciador Cosechadora Vasalli RV 170 y V 1550,132259.53
+S5000,"Cámara Universal Red.    300mm x 5""    Boquilla Ø2"" 1/8",33279.59
+S5000/1,"Cámara Universal Red.    300mm x 4""    Boquilla Ø2"" 1/8",30220.01
+S5001,"Cámara Universal Red.    400mm x 5""    Boquilla Ø2"" 1/8",40257.57
+S5001/1,"Cámara Universal Red.    400mm x 4""    Boquilla Ø2"" 1/8",34728.86
+S5002,"Cámara Universal Red.    500mm x 5""    Boquilla Ø2"" 1/8",47933.34
+S5002/1,"Cámara Universal Red.    500mm x 4""    Boquilla Ø2"" 1/8",41009.04
+S5003,"Cámara Universal Oval.   300mm x 5""    Boquilla Ø2"" 1/8",35158.28
+S5004,"Cámara Universal Oval.   400mm x 5""    Boquilla Ø2"" 1/8",40955.37
+S5005,"Cámara Universal Oval.   500mm x 5""    Boquilla Ø2"" 1/8",48416.43
+S5010,"Cámara Universal Red.    300mm x 5""    Sin Boquilla",32903.85
+S5010/1,"Cámara Universal Red.    300mm x 4""    Sin Boquilla",28609.71
+S5011,"Cámara Universal Red.    400mm x 5""    Sin Boquilla",38700.94
+S5011/1,"Cámara Universal Red.    400mm x 4""    Sin Boquilla",33118.56
+S5012,"Cámara Universal Red.    500mm x 5""    Sin Boquilla",46376.72
+S5012/1,"Cámara Universal Red.    500mm x 4""    Sin Boquilla",39130.36
+S5013,"Cámara Universal Oval.   300mm x 5""    Sin Boquilla",36339.16
+S5014,"Cámara Universal Oval.   400mm x 5""    Sin Boquilla",39345.06
+S5015,"Cámara Universal Oval.   500mm x 5""    Sin Boquilla",46859.81
+S5021,"Cámara Universal Oval.  2 entr y 2 sal.   300mm-Boq. Ø2"" 1/8",49704.68
+S5022,"Cámara Universal Oval.  2 entr y 2 sal.   400mm-Boq. Ø2"" 1/8",57112.07
+S5030,"Cámara Universal Oval.  1 entr y 2 sal.   400mm-Boq. Ø2"" 1/8",58722.37
+S5031,"Cámara Universal Oval.  1 entr y 2 sal.   500mm-Boq. Ø2"" 1/8",64734.17
+S5050,"Cámara Univ. Oval. entr y  sal. desplaz.  400mm-Boq. Ø2"" 1/8",55340.74
+S5055,Cámara Universal Oval.  1 entr y 2 sal.   400mm  Sin Boq.,58239.28
+S5060,Cámara Universal Oval.  1 entr y 2 sal.   500mm  Sin Boq.,62801.81
+S5070,"Cámara Universal Red. 400mm x 5""  Sin Boq.   Caño Ø2"" 1/2",39828.15
+S5071,"Cámara Universal Red. 500mm x 5""  Sin Boq.   Caño Ø2"" 1/2",48255.4
+S5080,"Cámara Universal Red. 400mm x 6""  Sin Boq.   Caño Ø3""",50992.92
+S5081,"Cámara Universal Red. 500mm x 6""  Sin Boq.   Caño Ø3""",60117.97
+S5100,Cámara Universal Cola  Acero Inox. con Chanfle,52603.22
+S5110,Cámara Universal con Boq. y Cola Acero Inox. con Chanfle,54213.52
+S5111,Cámara Universal con Boq. y Cola Acero Inox. Recta,54213.52
+S5218,Silenc. Tras. Ford Focus 1.6 y Zetec 1.8 I   s/Baúl,53301.02
+S5220,Silenc. Tras. Ford Focus II - 1.6 y 2.0 (09/13)   s/Baúl,55931.18
+S5222,Silenc. Tras. Ford Focus III - 2.0 (13/20),81373.96
+S5228,Silenc. Tras. Ford Ka - 1.0 I y 1.6 I (03/08),58185.6
+S5236,Silenc. Tras. Ford Fiesta - 1.6 I y Ecosport 1.6 I,57326.78
+S5238,Silenc. Tras. Ford Ecosport 1.6 I (03/12) y 2.0 (03/10),58346.63
+S5251,Silenc. Tras. Ford Ka 1.0 y 1.6 (10/14),52388.51
+S5252,Silenc. Tras. Ford Ka - 1.5 (16/20),67901.1
+S5260,Silenc. Tras. Ford Fiesta Kinetic - 1.6 16V s/Baúl (10/20),67256.98
+S5275,Silenc. Tras. Ford Ranger 2.2 y 3.2,129897.75
+S5282,Silenc. Tras. con cola Ford Ranger 3.0 V6 (23 ->),116438.91
+S5283,Silenc. Tras. con cola Ford Ranger 2.0 T y BiT (23 ->),112109.34
+S5292,Sil. Interm. y Tras. Ford Transit  2.0 Turbo (23 ->),200468.0
+S5300,Silenc. Tras. Ford Maverick 2.0 T (21 ->),107478.93
+S5400,"Silenc. Tras. con Cola VW Senda - 1.8, 1.6 y Diesel",89318.12
+S5401,"Silenc. Tras. con Cola   VW Saveiro 1.6, 1.8 (92/97)",89318.12
+S5402,"Silenc. Tras. s/Brida con Cola VW Senda - 1.8, 1.6 y Diesel",79709.98
+S5410,Silenc. Tras. con Cola VW Gol 1.8 y Nacional 1.6 (92/95),83521.03
+S5411,Silenc. Tras. s/Brida c/Cola VW Gol 1.8 y Nacio. 1.6 (92/95),74986.43
+S5415,"Silenc. Tras. VW Gol 1.6 I, 1.8 I, 2.0 I y Dies. 1.6 (96/98)",68169.48
+S5416,"Silenc. Tras. VW Gol 1.6 MI, Power 1.4 y 1.0 I Parag. Envol.",69940.81
+S5419,Silenc. Tras. VW Gol Trend 1.6 (08/22),70692.29
+S5420,Silenc. Tras. VW Voyage 1.6 (07/20),74986.43
+S5433,Silenc. Tras. VW Polo 1.6 MSI (17->),100053.47
+S5435,"Silenc. Tras. VW Golf - 1.8 I, 2.0 I y GTD 1.9 (96/99)",72195.24
+S5437,Silenc. Tras. VW Golf IV - 1.6 I (99/12),74932.75
+S5445,Silenc. Tras. c/Cola VW Fox y Cross Fox - 1.6 (04/19),74288.63
+S5460,Silenc. Tras. VW Bora - 1.8 T (03/15),113741.05
+S5465,Silenc. Tras. VW Bora - 2.0 (03/15),105904.24
+S5470,Silenc. Tras. VW Vento - 2.5 (07/17),92592.4
+S5475,Silenc. Tras. VW Vento - 2.0 T (07/15),107085.13
+S5476,Silenc. Tras. VW Vento 1.4 T (19/23),117721.24
+S5480,Silenc. Tras. VW UP - 1.0 (14/21),63338.57
+S5491,"Silenc. Tras. c/Cola 2"" 1/2 VW Amarok - 3.0 V6 (18->)",128394.8
+S5491/1,"Silenc. Tras. c/Cola 3""   VW Amarok - 3.0 V6 (18->)",131900.53
+S5600,"Silenc. Tras.  2""  Fiat Uno (88/98)",69887.14
+S5602,"Silenc. Tras. 2"" 1/4  Fiat Uno (88/98)",68115.8
+S5604,Silenc. Tras. Fiat Uno Evo 1.4 (10/16),66076.09
+S5610,"Silenc. Tras. c/Cola 2""   Fiat 128 (71/91)",82501.17
+S5611,"Silenc. Tras. s/Brida, c/Cola 2""   Fiat 128 (71/91)",73966.57
+S5615,"Silenc. Tras. c/cola 2""   Fiat 147 - 1100, 1300 (83/91)",80944.55
+S5616,"Silenc. Tras. s/Brida, c/cola 2"" Fiat 147-1100, 1300 (83/91)",72409.94
+S5627,"Silenc. Tras.  Fiat Palio 1.6 16V, 1.7 TD y 1.3 Fire",66666.53
+S5630,Silenc. Tras.   Fiat Strada 1.8 I (04/10),65807.7
+S5645,Silenc. Tras. Fiat Palio 1.8 (04/10) y 1.6 E.torQ (10/11),66451.82
+S5646,Silenc. Tras. Fiat Palio - 1.4 Fire (07/14),65915.06
+S5649,Silenc. Tras. Fiat Palio E.torQ 1.6 (12/17),71175.38
+S5650,Silenc. Tras. Fiat Punto 1.4 (07/18) y 1.8 (07/11),66827.56
+S5670,Silenc. Tras.  Fiat Cronos 1.3 (18->),73912.84
+S5801,Silenc. Tras. Peugeot 504 y 505 (83/98),70745.97
+S5810,Sil. Tras. Peugeot 205 (94/99),60171.64
+S5820,Sil. Tras. Peugeot 306 s/ba£l  ( 96 - 98),61030.47
+S5822,Sil. Tras. Peugeot 306 - 1.8MPI-s/ba£l,63231.22
+S5831,Silenc. Tras.   Peugeot 206 - 1.6 I Nacional (00/04),62640.77
+S5833,Silenc. Tras. Peugeot 206 1.6 16V y 207 1.6 16V y 1.4,65968.73
+S5837,Silenc. Tras. Peugeot 208 1.5 (13/17) y 1.6 16V (13/19),62855.48
+S5839,Silenc. Tras. Peugeot 208 1.6 16V (19 ->),61996.65
+S6020,Sil. Tras. R 11  (84-95),71658.47
+S6052,Sil. Tras. Renault Laguna - 2.2 I (95-02),89371.8
+S6056,Silenc. Tras. Renault Clio 1.6 I y Diesel 1.9 (96/99),65646.67
+S6058,"Silen. Tras. R.Clio II 1.6I, 1.9 Dies, 1.5 DCI y 1.2I s/Baúl",70692.29
+S6059,"Silen. Tras. R.Clio II 1.6I, 1.9 Dies, 1.5 DCI y 1.2I C/Baúl",76274.67
+S6061,Silenc. Tras. Renault Clio II - 1.2 16V   s/Baúl   (03/12),63499.6
+S6062,Silenc. Tras. Renault Clio II - 1.2 16V   c/Baúl   (03/10),68759.93
+S6063,Silenc. Tras. Renault Clio Mio - 1.2 (12/17),65109.91
+S6065,Silenc. Tras. Renault Express - Diesel 1.9 (96/00),73698.19
+S6070,"Silenc. Tras. R. Megane - 1.6 I 8V, 1.9 TDI y 2.0 I - s/Baúl",78851.16
+S6072,Silenc. Tras. R. Megane - 1.6 I  16V - s/Baúl  (00/09),81696.02
+S6094,Silenc. Tras. Renault Sandero 1.6 8V y 16V (13/19),73000.39
+S6120,Silenc. Tras. Renault Fluence - 2.0 (10/18),75254.81
+S6130,Silenc. Tras. Renault Kwid - 1.0 (17 ->),74825.4
+S6200,Silenc. Tras. Chev. Corsa 1.6 s/Baúl (95/08) y Classic 1.4 I,60332.67
+S6201,Silenc. Tras. Chevrolet Corsa - 1.6 I   c/Baúl   (95/09),60869.44
+S6232,Silenc. Tras. Chev. Astra y Astra II - 2.0  s/Baúl  (99/11),68062.13
+S6270,Silenc. Tras. Chevrolet Agile - 1.4 (09/17),61137.83
+S6275,Sil. Tras. Dep. Chevrolet Cruze 1.4T s/Baúl (16/24),104800.56
+S6276,Sil. Tras. Deport. Chevrolet Cruze 1.4T c/Baúl (16/24),107310.1
+S6280,Silenc. Tras. Chevrolet Prisma y Onix 1.4 (13/21),61245.18
+S6400,Silenc. Toyota Pick Up Hilux 4x4 - 2.8 Diesel,122651.39
+S6420,Interm. c/Silenc. Toyota Pick Up Hilux 2.8 (16->),158883.07
+S6800,Silenc. Tras. Citroën C3 1.6 16V (03/13),61889.3
+S6802,Silenc. Tras. Citroën C3 1.6 16V (13/22),52871.61
+S90638,"Silenciador Camion Scania P 94, T/R 114 y T/R 124  (98/15)",303810.44
+S90660,"Silenc. Camion Ford Cargo 2422 E, 2428 E y 2622 E (06 /11)",155018.47
+S90695,Silenc. Camion Mercedes Benz 1938 S Frontal (99/03),350026.13
+S90710,Silenciador Camion Iveco Tector 240 E25 (10/16),109661.61
+S90730,Silenc. Camion Iveco Eurotech y Stralis (06/12),408050.7
+S90731,Silenc. Camion Iveco Eurotech y Stralis (06/12)   s/Interior,380299.48
+S90800,Silenciador Camion VW 19320 y 25370  (08/15),299033.21
+S90900,"Silenc. Camion M. Benz Actros 1841, 2041 y Axor 2035, 2040",414491.18
+SD4000/1,"Cámara Universal Red. p/Diesel  250mm x 4""  Boquilla Ø2"" 1/4",27750.88
+SD4010,"Cámara Universal Oval. p/Diesel   250mm x 5""   Boq. Ø2"" 1/4",30434.72
+SD5000/1,"Cámara Universal Red. p/Diesel  300mm x 4""  Boquilla Ø2"" 1/4",30864.14
+SD5001,"Cámara Universal Red. p/Diesel  400mm x 5""  Boquilla Ø2"" 1/4",41062.72
+SD5001/1,"Cámara Universal Red. p/Diesel  400mm x 4""  Boquilla Ø2"" 1/4",35534.01
+SD5002,"Cámara Universal Red. p/Diesel  500mm x 5""  Boquilla Ø2"" 1/4",48899.53
+SD5004,"Cámara Universal Oval. p/Diesel   400mm x 5""   Boq. Ø2"" 1/4",41760.52
+SD5020,"Cámara Universal Red.    500mm x 7""    Boquilla especial",63016.51
+SE235/1,Silenc. Económico C/Cola F. Falcon 221 (70/82),46376.72
+SG21,Silenc.tras.galv.Chevrolet Monza 1.8,70477.58
+SG30,Silenc. Interm. Galv. Chevette y GMC 500 (92/93),59688.55
+SG31,Silenc. Tras. Galv. Chevette y GMC 500 (92/93),46967.16
+SG32,"Silenc. Interm. Galv. c/caño Corsa 1.6 I, 1.4 I y Diesel",56833.07
+SG32/2,"Silenc. Interm. Galv.  Corsa 1.6 I, 1.4 I y Diesel",54750.29
+SG33,"Silenc. Tras. Galv. Ch Corsa 1.6 I, 1.4 I y Diesel - S/Baúl",58738.09
+SG34,"Silenc. Tras. Galv. Ch Corsa 1.6 I, 1.4 I y Diesel - C/Baúl",60325.61
+SG35,Silenc. Interm. Galv. Pick-up Corsa 1.6 I y 1.7 DSL,66398.15
+SG36,Silenc. Tras. Galv. Pick-up Corsa 1.6 I y 1.7 DSL,70101.84
+SG37,Silenc. Interm. Galva. Ch. Corsa 1.8 I con y s/Baúl (02/11),69618.75
+SG38,Silenc. Tras. Chevrolet Corsa 1.8 I c/Baúl (02/11),82018.08
+SG38/1,Silenc. Tras. Chevrolet Corsa 1.8 I s/Baúl (02/11),77884.97
+SG40,Silenc. Interm. Galv. Chevrolet Pick Up (66/72),56199.56
+SG51,Silenc. Interm. Galv. Ch. Pick Up C-20 y D-20 (93/96),87546.79
+SG56,Silenc. Tras. Galv. Chevrolet Blazer 2.2 MPFI (95/00),129092.6
+SG60,Silenc. Tras. Galv. c/cola Chev. Luv e Isuzu - Diesel 2.5,117713.13
+SG61,Silenc. Tras. Galv. c/Cola Chevrolet S-10 2.8 TD Cab. Doble,106333.65
+SG66,Silenc. Tras. Galv. Chevrolet Vectra 2.0 GLS (95/00),78099.68
+SG67,Silenc. Interm. Galv. Ch. Vectra 2.0 y 2.2 CD 16V,110252.06
+SG68,Silenc. Tras. Galv. Chevrolet Vectra - 2.0 CD 16V (97/03),87815.17
+SG69,Silenc. Tras. Galva. Chevrolet Vectra 2.2 CD 16V (03/06),97101.25
+SG70,Silenc. Tras. Galva. Ch. Vectra 2.0 GT GLS s/Baúl (07/11),94471.09
+SG70/1,Silenc. Tras. Galva. Chevr. Vectra - 2.4 c/Baúl (07/11),95866.69
+SG72,"Silenc. Interm. Galv. Ch. Astra GLS C/Baúl 1.8, 2.0 8V",82769.56
+SG73,"Silenc. Tras. Galv. Ch. Astra GLS C/Baúl 1.8, 2.0 8V",79656.31
+SG74,Silenc. Interm. Galv. Chev. Astra 2.0 y Astra II 2.0 8V,83413.68
+SG74/1,Silenc. Interm. Galva. Chevr. Vectra - 2.4 c/Baúl (07/11),93612.26
+SG75,Silenc. Tras. Galv. Chev. Astra 2.0 y Astra II 2.0 c/Baúl,90445.33
+SG75/1,Silenc. Tras. Galv. Chev. Astra 2.0 y Astra II 2.0 s/Baúl,88781.36
+SG76,Silenc. Interm. Galv. Chevr. Zafira 2.0 16V y 2.0 8V (01/11),91626.22
+SG77,Silenc. Tras. Galv. Chevr. Zafira 2.0 16V y 2.0 8V (01/11),89264.45
+SG78,Silenc. Interm. Galv. Chevrolet Meriva 1.8 I (03/13),76328.35
+SG79,Silenc. Tras. Galv. Chevrolet Meriva 1.8 I (03/13),74503.34
+SG82,Silenc. Interm. Galv. Citroen Xsara 1.8 I 16V (99/00),53730.43
+SG83,Silenc. Tras. Galv. Citroen Xsara 1.8 I 16V (99/00),74020.25
+SG86,Silenc. Interm. Galv. Citroen C3 - 1.6 16V (01/13),81051.9
+SG87,Silenc. Tras. Galv. Citroen C3 - 1.6 16V (01/13),74449.66
+SG90,Silenc. Interm. Galvan. Dodge 1500 (71/73),58507.66
+SG91,Silenc. Interm. Galvan. Citroen Picasso 2.0 16V (01/10),63070.19
+SG92,Silenc. Tras. Galvan. Citroen Picasso 2.0 16V (01/10),72034.21
+SG95,Silenc. Tras. Galv. Citroen C4 - 2.0 16V con baul (07/13),93880.65
+SG100,Silenc. galvan.  VW 1500 (73/92),46591.42
+SG103,Silenc. Intermedio VW Golf 1.8 y GTD (96/99),59420.17
+SG104,Silenc. Intermedio VW Golf 2.0 GTI (96/99),60117.97
+SG105,"Silenc. Trasero Galv. VW Golf 1.8, 2.0 GTI y GTD",69457.72
+SG106,Silenc. Delantero Galv. VW Golf IV 1.6 I (99/12),50670.86
+SG107,Silenc. Trasero Galv. Cola Doble VW Golf IV 1.6 I (99/12),96081.39
+SG108,"Silenc. Delantero VW Bora 1.8 T, 2.0 y 1.9 TDI",50992.92
+SG110,Silenc. Delantero Galv. VW Polo 1.6 I (97/09),54857.65
+SG110/2,"Silenc. Universal Redondo 4"" x 470 mm",42136.25
+SG111,Silenc. Delant. Galv. VW Polo Diesel 1.9,49651.0
+SG112,Silenc. Trasero Galv. VW Polo 1.6 I (97/09),77723.94
+SG113,Silenc. Trasero Galv. VW Polo Diesel 1.9,90928.43
+SG114,Silenc. Delantero VW Fox Y Fox Cross 1.6 (04/10),51153.95
+SG115,Silenc. tras. VW Fox y Fox Cross 1.6 (04/19),77068.17
+SG115/2,"Silenc. Universal Redondo 7"" x 400 mm",69081.99
+SG122,Silenc. Tras. VW Bora 1.8 T,91626.22
+SG123,Silenc. Tras. VW Bora 2.0 y 1.9 TDI,92538.73
+SG125,Silenc. Galvanizado Dodge 1800 y VW 1500 Rural,50295.12
+SG127,"Silenc. Delant. VW Gacel GL, Senda y Gol Nac. - 1.6",51476.01
+SG128,Silenc. Tras. galv. c/cola VW Gacel GL y Senda - 1.6,73376.13
+SG130,"Silenc. Delantero Galvan. VW Carat 1.8, 2.0 (87/91)",55770.15
+SG131,"Silenc. Intermedio Galvan. VW Carat 1.8, 2.0 (87/91)",65646.67
+SG132,"Silenc. Trasero Galvan. VW Carat 1.8, 2.0 (87/91)",70209.2
+SG132/2,Silenc. Universal Ovalado Grande x 400 mm,61728.27
+SG134,Silenc. Tras. Galv. C/Cola VW Gacel y Senda - 1.8,82286.47
+SG138,Silenc.Tras. Cola Doble VW Transporter - 1.9 TD,96510.81
+SG140,"Sil. Interm. VW Saveiro, Senda y Saveiro Dies, Gol Bras.",55501.77
+SG140/2,"Silenc. Universal Redondo 4"" x 400 mm",37842.11
+SG141,Silenc. Tras. Galv. c/cola VW Gol Nac. y Brasilero 1.6,74288.63
+SG143,Silenc. Tras. Galv. c/cola Saveiro 1.6 y 1.6 Diesel,77187.18
+SG145,Silenc. Interm. Galv. VW Gol 1.6 I y 1.8 I (96/98),58937.08
+SG145/1,Silenc. Interm. VW Gol - Diesel 1.6 (96/99),58937.08
+SG145/2,Silenc. Universal Ovalado Chiquito x 400 mm,37466.38
+SG146,"Silenc. Tras. Galv. VW Gol 1.6 I, 1.8 I, 1.6 MI y Diesel 1.6",75952.61
+SG146/1,Silenciador Tras.VW Gol 1.6 MI - Paragolpes Env.,71438.24
+SG146/2,Silenc. Trasero VW Gol 1.6 I (98/11),76596.73
+SG147,Silenc. Del. galv. VW Gol 1.6 MI (98/11) y 1.9 Diesel,56199.56
+SG148,Silenc. Trasero Galv. VW Gol 1.0 I (00/02),77992.33
+SG149,Silenc. Interm. Galv. VW Saveiro 1.6 MI (97/05),71014.35
+SG150,Silenc. Tras. Galv. VW Saveiro 1.6 MI (97/05),71443.76
+SG153,Silenc. Interm. Galv. VW Saveiro 1.9 (06/10),71014.35
+SG154,Silenc. Tras. Galv. VW Saveiro 1.9 (06/10),71658.47
+SG155,Silenc. Interm. Galv. VW Caddy (98/09),60547.38
+SG156,Silenc. Tras. Galv. VW Caddy (98/09),72356.27
+SG158,Silenc. Trasero Galv. VW Gol Trend 1.6,81964.41
+SG159,Silenc. Trasero Galv. VW Gol Voyage,81051.9
+SG161,Silenc. Trasero Galv. Fiat Tempra - 2.0 (93/94),78260.71
+SG162,Silenc. Interm. Galv. Fiat Palio y Siena 1.6,53784.11
+SG162/2,"Silenc. Universal Redondo 4"" x 370 mm",31132.52
+SG163,"Silenc. Tras. Galv. Fiat Palio 1.6 I, 1.6 16V, 1.7 Diesel",66720.21
+SG165,"Silenc. Tras. Galv. Fiat Siena 1.6 I, 1.7 Diesel y 1.7 TD",84594.57
+SG166,Silenc. Interm. Galva. Fiat Palio Weekend 1.6 I y 1.7 TD,62962.84
+SG167,Silenc. Tras. Galv. F. Palio Weekend 1.6 I y 1.7 TD,81642.35
+SG168,Silenc. Interm. c/Turbo Fiat Strada 1.8 (04/10),96027.72
+SG169,Silenc. Trasero Fiat Strada 1.8 (04/10),90391.66
+SG171,Silenc. Interm. F. Palio 1.8 (04/10),71121.7
+SG172,Silenc. Trasero Fiat Palio 1.8 y 1.6 E.torQ,70370.23
+SG178,Silenc. Interm. Fiat Palio Fire 1.4,51905.42
+SG179,Silenc. Tras. Fiat Siena 1.4 Fire (07/18),81092.99
+SG180,Silenc. Tras. Fiat  Palio Fire 1.4 (07/18),57093.07
+SG185,"Silenc. Tras. Galv. c/sobre dif. y cola Fiat 1500, 1600",67632.71
+SG195,Silenc. Interm. Galv. Fiat Duna y Uno,51153.95
+SG195/2,"Silenc. Universal Redondo 4"" x 320 mm",36768.58
+SG196,Silenc. Trasero Galv. Fiat Duna,71229.06
+SG197,Silenc. Tras. Galv. Fiat Duna weekend,82769.56
+SG198,Silenc. Tras. Galv. Fiat Uno,65539.32
+SG204,Silenc. Interm. Galv. Fiat Uno Fiorino 1.7 Diesel,52764.25
+SG204/1,Silenc. Intermedio Fiat Uno Fiorino Fire 1.3,66827.56
+SG204/2,Silenc. Universal Ovalado Chiquito x 300 mm,35426.66
+SG205,Silenc. Tras. Galv. Fiat Uno Fiorino 1.7 Diesel y 1.3 Fire,78260.71
+SG206,Silenc. Interm. Fiat Uno Fire 1.3 I (04/15),63499.6
+SG207,Silenc. Tras. Fiat Uno Fire 1.3 I (04/15),65915.06
+SG208,Silenc. Interm. Galv. Fiat Tipo 1.6 I,66237.12
+SG209,Silenc. Tras. Galv. Fiat Tipo - 1.6 (94/97),81964.41
+SG214,Silenc. Interm. galv. Fiat 147 y Spazio,63231.22
+SG214/1,Silenc.Interm. Galv. Fiat Spazio Tipo 1.4 y Diesel,73000.39
+SG215,Silenc. Tras. Galv. Fiat Spazio Tipo 1.4 y Diesel 1300,59044.43
+SG215/1,Silenc. Interm. Galv. c/cola Fiat Spazio Tipo 1.4,76113.64
+SG216,Silenc. Tras. Galv. Fiat Fiorino 1.4 Tipo y 1300 Diesel,65485.64
+SG222,Silenc. Interm. Galv. Fiat Regatta (85/95),79763.66
+SG223,Silenc. Tras. Galv. Fiat Regatta (85/95),70370.23
+SG224,Silenc. Interm. Galv. Fiat Ducato - Diesel 2.5 y 2.8,91196.81
+SG224/1,Silenc. Tras. Galv. Fiat Ducato - Diesel 2.5 y 2.8,94739.48
+SG225/1,"Silenc. Tras. Galv. c/cola F. Falcon 170, 187 y 188 (62/82)",61674.59
+SG228,Silenc. Interm. Galv. Fiat Idea 1.8 (05/10),73161.42
+SG229,Silenc. Trasero Fiat Idea 1.8 (05/10),79173.22
+SG231,Silenc. Interm Fiat Punto 1.4 Fire,58776.05
+SG232,Silenc. Trasero Fiat Punto 1.4 Fire,74127.6
+SG233,Silenc. Intermedio Fiat Punto 1.8,72409.94
+SG234,Silenc. Trasero Fiat Punto 1.8,76328.35
+SG235/1,Silenc. Tras. Galva. c/cola F. Falcon 221 (70/82),61996.65
+SG240,Silenc. Tras. Galv. F. Falcon (82/92),80676.16
+SG250,Silenc. Interm. Galv. Ford Escort 1.6,60279.0
+SG251,Silenciador Tras. Galv.Ford Escort 1.6,67095.95
+SG252,"Silenc. Interm. Galv. F. Escort - Audi 1.6, 1.8, XR3 (91/94)",55662.8
+SG252/1,"Silenc. Interm. Galv. F. Escort - Audi 1.6, 1.8, XR3 (93/94)",80354.1
+SG253,"Silenc. Tras. Galv. F. Escort - Audi 1.6, 1.8, XR3 (91/94)",63875.34
+SG260,"Silenc. Interm. Galv. F. Orion, Escort y VW Pointer - Audi",77723.94
+SG261,"Silenc. Tras. Galv. F. Orion 1.6, 1.8 I, 2.0 I (94/96)",80300.43
+SG262,Silenc. Tras. Galv. F. Escort Xr3 - 2.0 I (95/96),79280.57
+SG263,Silenc. Int. Galv. Ford Escort Zetec 1.8 16V (97/03),76435.7
+SG264,Silenc. Interm. Galv. F. Escort - Diesel 1.8 S/Baúl,81857.05
+SG265,Silenc. Tras. Galv. Reemp. Estamp. Escort - Zetec 1.8 S/Baúl,75898.93
+SG267,Silenc. Tras. Galv. Reemp. Trian. Escort - Zetec 1.8 S/Baúl,72463.62
+SG268,Silenc. Tras. Galv. Reemp. Trian. F. Escort Dies. 1.8 S/Baúl,73054.07
+SG269,Silenc. Tras. Galv. Reemp. Estamp. Escort Rural - Zetec 1.8,76650.41
+SG270,Silenc. Interm. Galv. F. F100 8 y 6 cil. y Perkins (64/89),58131.93
+SG271,Silenc. Tras. Galv. Reemp. Triang. Escort Rural - Zetec 1.8,76435.7
+SG275,Silenc.Interm. Galv. F100 6 cilind. y Perkins 4 (82/92),62533.42
+SG280,Sil. Interm. Galv. F. F100 6 y 8 cil. y Perkins 4 (72/90),58400.31
+SG285,Silenc. Trasero Ford F100 Max Econo (93/94),119752.84
+SG286,Silenc. Tras. Galv. Ford F100 - Diesel MWM 4 Cil. (93/95),103703.49
+SG287,Silenc. Interm. Galv. Ford F100 - 6 cil. Max Econo (95/96),119001.37
+SG299,Silenc. Tras. Galv. Ford F100 - 4.9 I y MWM Turbo (96/99),107085.13
+SG309,Silenc. Interm. Galv. F. F100 HSD - Maxion 2.5 TD (96/99),89801.21
+SG310,Silenc. Interm. Galv. F. F100 Super Dutty - Cummins TD 3.9,137734.56
+SG313,Silenc. Tras. Galv. Ford Taunus GLX (77/82),63553.28
+SG313/2,"Silenc. Universal Redondo 5"" x 320 mm",39291.39
+SG314,Silenc. Tras. Galv  s/Sobre dif. F. Taunus GLX (77/82),52442.19
+SG315,Silenc. Interm. Galv. Ford Taunus GLX (79/82),72517.3
+SG315/1,Silenc. Interm. Galv. s/caño Ford Taunus GLX (77/82),65056.23
+SG317,Silenc. Interm. Galv. Ford EcoSport 2.0 (03/12),66398.15
+SG318,Silenc. Trasero Galv. Ford EcoSport 2.0 (03/12),76274.67
+SG320,Silenc. Tras. Galv. Ford Galaxy 2.0 (92/95),73054.07
+SG321,Silenc. Interm. Galv. p/cataliz. Ford Galaxy 2.0 I,78904.83
+SG322,"Silenc. Interm. Galv. c/caño F. Fiesta 1.3I, 1.4I y 1.8 Dies",76865.12
+SG322/1,"Silenc. Interm. Galv. Ford Fiesta 1.3I, 1.4I y 1.8 Diesel",50563.5
+SG323,"Silenc. Tras. Galv. F. Fiesta 1.0I, 1.3I, 1.4I y 1.8 Diesel",71712.15
+SG324,Silenc. Interm. Galv. F. Fiesta 1.6I y EcoSport 1.6I (02/07),58579.33
+SG324/1,Silenc. Interm. Galv. F. Fiesta Max 1.6 I y One 1.6,58346.63
+SG325,Silenc. Tras. Galv. Ford Fiesta 1.6 I y TD 1.4 (02/10),62807.32
+SG325/1,Silenc. Tras. Galv. Ford Fiesta Max 1.6 I (05/10),70853.32
+SG326,Silenc. Tras. Galv. Ford Ka - 1.3 I (97/99),75737.9
+SG327,Silenc. Tras. Galv. Ford Ka 1.0 I (97/08),72302.59
+SG328,Silenc. Interm. Galv. Ford Ka 1.6 (08/14),56038.53
+SG329,Silenc. Trasero Galv. Ford Ka 1.0 (08/10),75576.87
+SG330,Silenc. Interm. Galv. Ford Focus 1.8 I y 2.0 I (00/08),95061.54
+SG331,Silenc. Tras. Galv. Ford Focus 1.8 I - s/Baúl (00/05),61674.59
+SG332,Silenc. Tras. Galv. Ford Focus 2.0 I C/Baúl (00/08),63982.69
+SG333,Silenc. Del. Galv. Ford Focus 1.6 (04/12),67525.36
+SG334,Silenc. Interm. Galv. Ford Focus 1.6 (04/12),72409.94
+SG340/1,Silenc. Interm. Reempl. Estampado Ford Sierra 1.6 GL,68813.6
+SG342/1,Silenc. Interm. Reempl. Estampado Ford Sierra 2.3 (84/93),55287.06
+SG343,Silenc. Tras. Galv. Ford Sierra - 2.3 y 1.6 GL,71068.03
+SG346,Silenc.tras.galv.Ford Sierra Rural,71067.48
+SG347,Silenc. Interm. Galv. Ford Courier Pick-up,79656.31
+SG348,Silenc. Interm. Galv. Ford Courier Pick-up,81212.93
+SG355,Silenc. Interm. Galv. c/cola F. Ranger - Maxion 2.5 TD,133172.03
+SG355/1,Silenc. s/caño Interm. Galv. c/cola F. Ranger-Maxion 2.5 TD,104669.68
+SG360,Silenc. Del. Galv. Ford Mondeo 2.0 I Ghia (95/00),88996.06
+SG361,Silenc. Interm. Galv. Ford Mondeo 2.0 I Ghia (95/00),89479.15
+SG362,Silenc. Tras. Galv. Ford Mondeo 2.0 I Ghia (95/00),63070.19
+SG364,Silenc. Tras. Galv. Ford Mondeo - TD y 1.8 I (94/98),86902.67
+SG370,Silenc. Tras. Galv. Ford Ranger - 2.8 (02/04),142726.5
+SG371,Silenc. Interm. Galv. Ford Ranger 3.0 (06/12),67954.77
+SG372,Silenc. Tras. Galv. c/cola Ford Ranger 3.0 (06/12),149865.5
+SG380,"Silenc. Interm. Galv. Renault R19 1.6, 1.7 y diesel 1.9",80032.04
+SG381,Silenc. Tras. Galv. Renault R19 1.6 RN y Diesel 1.9,73000.39
+SG382,"Silenc. Tras. Galv. Renault R19 1.7, 1.6 y 1.9 Diesel",69726.11
+SG383,Silenc. Interm. Galv. Renault R19 RN 1.6 y RT 1.8 (95/97),90499.01
+SG384,Silenc. Tras. Galv. Renault R19 RN 1.6I y RT 1.8I s/Baúl,78904.83
+SG385,Silenc. Tras. Galv. Renault R19 RN 1.6I y RT 1.8I c/Baúl,79924.69
+SG390/1,Silenc. Interm. Reempl. Prec. Orig. R. Clio 1.6 I y 1.4 I,56575.3
+SG391,"Silenc. Tras. Galv. R. Clio 1.4 I, 1.6 I y 1.9 Dies. (94/99)",68706.25
+SG393,Sil. Interm. Galv. R. Clio II -1.6 I y Dies.1.9 Con y S/Baúl,58239.28
+SG394,"Silenc. Tras. R. Clio II 1.6 I, Diesel 1.9 y 1.5 DCI  s/Baúl",81320.29
+SG395,"Silenc. Tras. R. Clio II 1.6 I, Diesel 1.9 y 1.5 DCI  c/Baúl",83037.94
+SG396,Silenc. Tras. Galv. Renault Clio II 1.2 16V s/baúl (03/12),81320.29
+SG396/1,Silenc. Tras. Galv. Renault Clio II 1.2 16V s/baúl (03/09),87600.47
+SG397,Silenc. Interm. Galv. c/Interm. Renault Express 1.9 Diesel,62104.01
+SG398,Silenc. Tras. Galv.  Renault Express 1.9 Diesel,67579.04
+SG406,"Silenc. Tras. Galv. Renault Megane RT, RXE y 1.9 TD",79387.92
+SG406/1,Silenc. Tras. Galv. Renault Megane - 1.6 I 16V (00/09),73391.15
+SG406/2,Silenc. Universal Ovalado Gordo x 400 mm,67042.27
+SG408,Silenc. Interm. Galv. Renault Megane II  c/Baúl  (06/11),68169.48
+SG409,Silenc. Tras. Galv. Renault Megane II  c/Baúl  (06/11),95544.63
+SG409/2,Silenc. Universal Ovalado Grandote x 300 mm,75093.78
+SG410,Silenc. Interm. Doble Galv. R. Laguna RXE - 2.0 (95/02),132957.33
+SG411,Silenc. Tras. Galv. Renault Laguna RXE 2.0 (95/02),85882.81
+SG411/1,Silenc. Tras. Galv. Renault Laguna 1.8 y Diesel 2.2,85882.81
+SG412,Silenc. Interm. Galv. Renault Laguna 1.8 y Diesel 2.2,86634.28
+SG412/2,Silenc. Universal Ovalado Gordo x 400mm c/salida lateral,53408.31
+SG424,Silenc. Tras. Galv. Renault Trafic 1400,64734.17
+SG425,"Silenc. Interm. Galv. Renault Trafic 1400, 2000 y Diesel",42136.25
+SG426,Silenc. Tras. Galv. Renault Trafic 2000 y Diesel,67579.04
+SG429,Silenc. Tras. Galv. Renault Trafic - Diesel 1.9 (99/03),73698.19
+SG431,Silenc. Interm. Galv. Renault Master 2.8 (03/07),64841.52
+SG432,Silenc. Trasero Galv. Renault Master - 2.8 (03/07),86902.67
+SG440,"Silenc. Delant. Galv. Renault 21, 21 Alize y 21 Nevada",58078.25
+SG441/1,Silenc. Interm. Galv. Renault 21 Nevada (90/96),80568.81
+SG441/2,Silenc. Interm. Galv. Reemp. estam. R. 21 Alize,80461.46
+SG442,Silenc. Tras. Galv. Renault 21 (89/95),77992.33
+SG442/1,Silenc. Universal Ovalado Gordo x 450 mm,70638.61
+SG443,Silenc. Tras. Galv. Renault 21 Nevada,80246.75
+SG444,Silenc. Trasero Galv. Renault 21 Alize (94/96),77831.3
+SG447,Silenc. Tras. Galv. Renault Twingo (94/01),65861.38
+SG453,Silenc. Interm. Galv. Renault Logan 1.6 (08/13),65861.38
+SG454,Silenc. Tras. Galv. Renault Logan 1.6 (08/13),72893.04
+SG455,Silenc. Interm. Galv. Renault Sandero 1.6 (08/13),65807.7
+SG456,Silenc. Tras. Galv. Renault Sandero 1.6 (08/13),85614.43
+SG460,Silenc. Trasero Galv. Renault 12 - 1400,55340.74
+SG460/2,Silenc. Universal Ovalado Chico x 400 mm,50187.77
+SG462,Silenc. Tras. Galv. Renault 12 - 1600 Caja 5ta,54857.65
+SG465,Silenc. Tras. Galv. Renault 12 Break,62211.36
+SG467,Silenc. Del. Galv. Renault 18 y Beak GTX y Fuego,77884.97
+SG469,Silenc. Interm. Galv. Renault 18 y Beak GTX,63767.99
+SG469/2,Silenc. Interm. Galv. solo Renault 18 y Beak GTX,39506.09
+SG471,Silenc. Trasero Galv. Renault 18 y Beak GTX,64465.78
+SG475,Silenc. Tras. Galv. Renault 18 - 1400,58561.34
+SG476,Silenc. Tras. Galv. Renault 18 - 1600 Parag. Envolvente,58131.93
+SG480/1,Silenc. Interm. Galv.  R11 (84/95) y R9 (87/96),51905.42
+SG480/2,Silenc. Interm. c/Boq. R11 (84/95) y R9 (8/96),29683.25
+SG482,Silenc. Tras. Galv. Renault 11 TS y TL - 1400,70423.9
+SG482/2,Silenc. Universal Ovalado Gordo x 400 mm,56628.98
+SG483,Silenc. Tras. Galv. Renault 11 - 1600 (87/95),71282.73
+SG485,Silenc. Tras. Galv. Renault 9 - 1400 (87/90),71819.5
+SG486,Silenc. Tras. Galv. Renault 9 y 9 TXE - 1600,68384.19
+SG487,Silenc. Interm. Galv. R. Kangoo - 1.6 I y Dies.1.9 (99/07),63392.25
+SG487/1,Silenc. Interm. Galv. Renault Kangoo 1.6 16V (05/18),56038.53
+SG488,Silenc. Tras. Galv. R. Kangoo - 1.6 y Diesel 1.9,83950.45
+SG490,Silenc. Tras. Galv. Peugeot 404 (66/80),74557.01
+SG503,Silenc. Interm. Galv. Peugeot 406 - 2.0 SV,83360.0
+SG503/1,Silenc. Interm. Galv. Peugeot 406 SV - 2.0 (00/01),91304.16
+SG504,Silenc. Tras. Galv. Peugeot 406 - 2.0 SV (97/01),98443.17
+SG505,Silenc. Interm. Galv. Peugeot 504 (69/82),51207.63
+SG506,Silenc. Tras. Galv. Peugeot 504 (69/82),65270.94
+SG506/2,Silenc. Universal Ovalado Chico x 280 mm,42726.7
+SG507,Silenc. Tras. Galv. s/Sobre Diferenc. Peugeot 504 (69/82),55233.38
+SG509,Silenc. Delan. Galv. Peug. 504 (83/98) y 505 (81/94),41492.13
+SG510,Silenc. Interm. Galv. Peug. 504 (83/98) y 505 (81/94),36875.93
+SG511,Silenc. Tras. Galv. Peugeot 504 (83/90) y 505 (81/92),63177.54
+SG512,Silenc. Tras. Galv. s/Sobre Dif.  P. 504(83/90) y 505(81/92),57058.39
+SG513,Silenc. Tras. Galv. Peugeot 504 (90/98),66773.89
+SG514,Silenc. Tras. Galv. Peugeot 505 (93/94),68169.48
+SG515,Silenc. Interm. Galv. Peugeot Pick Up T5 (73/81),46484.07
+SG522,Silenc. Interm. Galv. Peugeot Pick Up Nafta y Diesel,61674.59
+SG525,Silenc. Interm. Galv. Peugeot 505 Rural,55555.44
+SG526,Silenc. Tras. Galv. Peugeot 505 Rural,71068.03
+SG527,Silenc. Interm. Galv. Peugeot Partner Diesel 1.9 (98/10),51905.42
+SG527/1,Silenc. Interm. Galv. Peugeot Partner 1.4 I (98/09),48845.85
+SG528,Silenc. Tras. Galv. Peug. Partner - 1.4 I y Diesel 1.9,72517.3
+SG533,Silenc. Tras. Galv. Peugeot 504 - Diesel (93/98),77831.3
+SG535,Silenc. Interm. Galv. Peugeot 405 SR (93/99),58615.02
+SG536,Silenc. Tras. Galv. Peugeot 405 SR (93/99),72195.24
+SG538,Silenc. Interm. Galv. Peugeot 106 - 1.4 I (98/02),47235.55
+SG538/2,Silenc. Universal Ovalado Chiquito x 370 mm,37305.35
+SG539,Silenc. Tras. Galv. Peugeot 106 - 1.4 I (98/02),64734.17
+SG540,Silenc.Interm. Galv. Peugeot 306 - 1.8 I C/Baúl,56253.24
+SG540/1,Silenc. Interm. Galv. Peugeot 306 - 1.8 I S/Baúl,55823.83
+SG542,Silenc. Tras. Galv. Peugeot 306 1.8 I C/Baúl (Nafta y Dies),71980.53
+SG543,Silenc. Tras. Galv. Peugeot 306 1.8 I S/Baúl (Nafta y Dies),70907.0
+SG544,Silenc. Interm. Galv. Peugeot 306 - 1.8 MPI 16V (99/03),55555.44
+SG545,Silenc. Tras. Galv. Peugeot 306 - 1.8 MPI 16V S/Baúl (99/03),81105.58
+SG546,Silenc. Tras. Galv. Peugeot 306 - 1.8 MPI 16V C/Baúl (99/03),83628.39
+SG547,Silenc. Interm. Galv. Peugeot 206 - 1.6 I Nacional,64090.05
+SG548,Silenc. Tras. Galv. Peugeot 206 - 1.6 I Nacional,68598.89
+SG549,Silenc. Tras. Galv. Peugeot 206 Diesel 1.9 (99/06),70101.84
+SG551,Silenc. Interm. Galv. Peugeot 206 - 1.6 16V (04/08),55555.44
+SG552,"Silenc. Tras. Galv. Peug. 206 1.6, 1.4 y 207 1.6, 1.4 s/Baúl",65088.15
+SG552/2,"Silenc. Universal Redondo 6"" x 500 mm",65324.61
+SG553,Silenc. Interm. Galv. Peugeot 206 SW - 1.6 16V (05/09),63982.69
+SG554,Silenc. Tras. Galv. Peugeot 206 SW - 1.6 16V (05/09),75254.81
+SG561,Silenc. Interm. Galv. Mercedes Benz Sprinter 310D,112506.48
+SG582,Silenc. Tras. Galv. Toyota Pick Up Hilux 4x2 - 2.8 Diesel,120343.29
+SG582/1,"Silenc. Universal Redondo 7"" x 600 mm",88351.94
+SG583,Silenc. Tras. Galv. C/cola Toyota Hilux 4x4 - 2.8 Diesel,119216.08
+SG584,Silenc. Tras. Galv. Toyota Hilux - Diesel 3.0 Cab. Doble,131293.35
+SG585,Silenc. Intrem. Galv. Toyota Hilux 3.0 TDI Cab. Dob. 4x2,171711.94
+SG2210,"Silenc. Tras. Daewo Tico SL, DX, SX (hasta 2000)",69296.69
+SG2265,Silenc. Interm. Galv. F. Fiesta - 1.3 I (95/96) y Diesel 1.8,62962.84
+SG2265/1,Silenc. Interm. Galv. F. Fiesta - 1.3 I (95/96) y Diesel 1.8,46376.72
+SG2266,Silenc. Tras. Galv. F. Fiesta - 1.3 I (95/96) y Diesel 1.8,65324.61
+SG2305,"Silenc. Tras. Galv. Honda Accord EX, LX (92/96)",111808.68
+SG2360,Silenc. Tras. Galv. Mitsubishi Pick Up - L 200 (95/99),92001.96
+SG2404,Silenc. Tras. Galv. Suzuki Fun - 1.0 I (03/06),64734.17
+SG2405,Silenc. Tras. Galv. Suz. Fun 1.4 I (04/11) y Ch. Celta 1.4,63177.54
+SG2559,Silenc. Interm. Galv. Peugeot 307 2.0 16V (01/06),73590.83
+SG2560,Silenc. Interm. Peu. 307 1.6 16V(01/12) y 308 1.6 16V(12/22),70531.26
+SG2560/1,Silenc. Interm. Peu. 307 1.6 16V(01/12) y 308 1.6 16V(12/22),68706.25
+SG2561,Silenc. Tras. Galv. Peugeot 307 y 308 1.6 16V S/Baúl,82550.83
+SG2562,Silenc. Tras. Galv. Peugeot 307 1.6 16V c/Baúl (01/10),93343.88
+SG2563,Silenc. Tras. Peugeot 307 2.0 16V y HDI S/Baúl,92431.37
+SG2564,Silenc. Interm. Galv. Peugeot 307 2.0 16V (06/12),87117.38
+SG2565,Silenc. Tras. Galv. Peugeot 307 2.0 16V c/Baúl y 408 2.0,94202.71
+SG2580,Silenc. Interm. Galv. c/Intermedia Peugeot 205 XS (94/99),70853.32
+SG2581,Silenc. Tras. Galv. Peugeot 205 XS (94/99),65270.94
+SG2589,"Silenc. Interm. Galv. Peugeot 405 - SRI, SRD, SRDT (93/97)",76382.02
+SG2590,"Silenc. Tras. Galv. Peugeot 405 - SRI, SRD, SRDT (93/97)",99355.68
+SG2650,"Silenc. Interm. Galv. Fiat Uno 70S, SX y 1300 IE (92/94)",56306.92
+SG2651,"Silenc. Tras. Galv. Fiat Uno 70S, SX y 1300 IE (92/94)",66344.47
+SG2816,Silenc. Tras. Galv. Rover 416 SI - 5 Puertas (94/99),114170.46
+SG10085,Silenc. Interm. Galv. Chevrolet Aveo 1.6 (08/14),102415.25
+SG10086,Silenc. Tras. Galv. Chevrolet Aveo 1.6 (08/14),90445.33
+SG10090,Silenc. Interm. Galv. Chevrolet  Agile 1.4 (09/17),62479.74
+SG10091,Silenc. Tras. Galv. Chevrolet  Agile 1.4 (09/17),67149.62
+SG10150,Silenc. Interm. Galv. Chevrolet Montana 1.8 (11/20),71390.09
+SG10151,Silenc. Tras. Galv. Chevrolet Montana 1.8 (11/20),81642.35
+SG10250,Silenc. Interm. Galv. Chevrolet Tracker 1.8 (12/20),106816.75
+SG10251,Silenc. Tras. Galv. Chevrolet Tracker 1.8 (12/20),104132.91
+SG10300,"Silenc. Tras. Galv. Chev. Onix , Prisma y Joy - 1.4 (13/21)",77348.21
+SG10350,Silenc. Tras. Galv. Chevrolet S-10 2.8 (13/17),120128.58
+SG10352,Silenc. Galv. Chevrolet S-10 2.8 TD (18->),159742.03
+SG10800,Silenc. Interm. Galv. Chevrolet Cruze 1.8 (10/15),79763.66
+SG10801,Silenc. Tras. Galv. Chevrolet Cruze 1.8 s/Baúl (10/15),88083.56
+SG10802,Silenc. Tras. Galv. Chevrolet Cruze 1.8 s/Baúl (10/15),90230.63
+SG10901,Silenc. Tras. Galv. Chevrolet Spin 1.8 (12->),88566.65
+SG20116,Silenc. Interm. Galv. VW Polo 1.6 MSI (17->),74234.95
+SG20117,Silenc. Tras. Galv. VW Polo 1.6 MSI (17->),81212.93
+SG20147,Silenc. Interm. Galv. VW Gol Power 1.4 (12/15),61781.95
+SG20148,Silenc. Interm. Galv. VW Gol Power 1.6 (09/11),58561.34
+SG20157,"Silenc. Interm. VW Fox, Suran, Voyage y  Gol Trend - 1.6",48094.37
+SG20160,Silenc. Interm. Galv. VW Saveiro 1.6 (10/22),48094.37
+SG20161,Silenc. Tras. Galv. VW Saveiro 1.6 (10/22) (5ta generac.),89747.54
+SG20162,Silenc. Interm. VW Saveiro 1.6 Ref. Gas (10->),84743.94
+SG20200,Silenc. Interm. Galv. VW UP 1.0 (14/21),75523.2
+SG20700,Silenc. Delant. Galv. VW Amarok 2.0 TDI (10->),92324.02
+SG20701,Silenc. Tras. Galv. VW Amarok 2.0 TDI (10->),81964.41
+SG30168,Silenc. Delant. Galv. Fiat Strada 1.6 16V E.torQ (11/19),86634.28
+SG30173,Silenc. Inter. Galv. Fiat Palio y Siena - 1.6 E.torQ (10/18),72409.94
+SG30174,Sil. Tras. FiaT Palio Etorq.1.6(12->),72678.33
+SG30175,"Reempl. Sil. Interm. Fiat Palio, Strada, Siena y Cronos",48010.93
+SG30176,Silenc. Interm. Galv. Fiat Palio Weekend 1.6 E.torQ (10/17),96618.16
+SG30177,Silenc. Tras. Galv. Fiat Palio Weekend 1.6 E.torQ (10/17),101449.07
+SG30181,Silenc. Interm. Galv. Fiat Palio Weekend Fire 1.4 (09/18),60171.64
+SG30182,Silenc. Tras. Galv. Fiat Palio Weekend Fire 1.4 (09/18),69350.37
+SG30190,Silenc. Interm. Galv. Fiat Fiorino 1.4 Fire (14->),65109.91
+SG30200,Silenc. Interm. Galv. Fiat Uno Evo 1.4 (10/16),56145.89
+SG30401,Silenc. Tras. Galv. Fiat Strada 1.4 Fire (09/15),77723.94
+SG30402,"Silenc. Tras. Reforma Gas Fiat Strada 1.4 I, 1.6 I y 1.8 I",73322.45
+SG30499,Silenc. Delant. Galv. Fiat Cronos 1.3 MT (18->),78743.66
+SG30500,Silenc. Delant. Galv. Fiat Cronos 1.3 AT (18->),79280.47
+SG30501,Silenc. Tras. Galv. Fiat Cronos 1.3 AT y MT (18->),87332.01
+SG30710,Silenc. Tras. Galv. Fiat Doblo 1.4 16V - Reforma Gas,71819.5
+SG30600,Silenc. Fiat Mobi 1.0 8v y 1.0 3 cil. (16 ->)  NUEVO - NUEVO - NUEVO,77029.15
+SG30800,Silenc. Fiat Qubo 1.4 (12-16) NUEVO - NUEVO - NUEVO,116930.47
+SG40100,Silenc. Interm. Galv. Ford Ecosport Kinetic 1.6 (12/17),80998.23
+SG40101,Silenc. Tras. Galv. Ford Ecosport Kinetic 1.6 (12/17),78797.48
+SG40102,Silenc. Tras. Ford Ecosport Kinetic 1.6 (12/17) - Refor. Gas,55770.15
+SG40103,Silenc. Tras. Ford Ecosport Kinetic 1.6 (12/17) - Refor. Gas,66022.36
+SG40105,Silenc. Interm. Galv. Ford Ecosport Kinetic 2.0 (13/17),95920.36
+SG40106,Silenc. Tras. Galv. Ford Ecosport Kinetic 2.0 (13/17),101663.78
+SG40108,Silenc. Delant. Galv. Ford Ecosport 1.5 (17/22),78260.63
+SG40109,Silenc. Tras. Galv. Ford Ecosport 1.5 (17/22),96134.96
+SG40323,Silenc. Tras. Galv. Ford Ecosport 1.6 (08/12) - Reforma Gas,54267.2
+SG40325,Silenc. Tras. Galv. F. Ecosport 1.6 y Fiesta One 1.6 s/Baúl,67793.74
+SG40326,Silenc. Interm. Galv. Ford Fiesta Kinetic - 1.6 16V (10/20),64358.43
+SG40327,Silenc. Tras. Galv. F. Fiesta Kinetic 1.6 16V s/Baúl (10/13),83252.65
+SG40328,Silenc. Tras. Galv. Ford Fiesta Kinetic - 1.6 16V s/Baúl,80354.1
+SG40329,Silenc. Tras. Galv. Ford Ka 1.0 y 1.6 (10/14),75201.14
+SG40340,Silenc. Del. Galv. Ford Focus II - 1.6 y 2.0 (08/13) S/Baúl,77670.27
+SG40341,Silenc. Int. Galv. Ford Focus II - 1.6 y 2.0 (08/13) S/Baúl,70423.9
+SG40343,Silenc. Interm. Galv. Ford Focus III - 2.0 (13/20),88512.97
+SG40344,Silenc. Tras. Galv. Ford Focus III - 2.0 (13/20),94149.03
+SG40374,"Silenc. Galv. Ford Ranger 2.2 XL, XLT y 3.2 XLS (11/23)",135211.75
+SG40400,Silenc. Interm. Galv. Ford Ka - 1.5 (16/21),72517.3
+SG40401,Silenc. Tras. Galv. Ford Ka - 1.5 (16/21),77133.5
+SG50100,Silenc. Tras. Galv. c/cola Renault Kwid 1.0 (17 ->),69618.75
+SG50394,Silenc. Interm. Galv. Renault Clio II 1.6 16V (00/09),47987.02
+SG50399,Silenc. Tras. Galv. Renault Clio Mio 1.2 (12/17),65700.35
+SG50400,Silenc. Interm. Renault Sandero y Logan 1.6 16V (13/19),58346.63
+SG50401,Silenc. Tras. R. Logan y Sandero 1.6 8V y 16V (13/19),67203.3
+SG50403,Silenc. Del. c/Boq.  Renault Sandero y Logan 1.6 16V (13/19),38662.63
+SG50453,"Reempl. Sil. Interm. R. Logan, Sandero, Oroch y Duster",41242.18
+SG50489,"Silenc. Tras. R. Kangoo 1.6 I, 1.6 16V y Dies. 1.9 Ref. Gas",68223.16
+SG50490,Silenc. Del. Galv. Renault Kangoo II 1.6 Sce (18->),61889.21
+SG50491,Silenc. Tras. Galv. Renault Kangoo II 1.6 Sce (18->),84004.02
+SG50492,Silenc. Tras. Renault Kangoo II 1.6 Sce (18->) Reforma Gas,68169.48
+SG50493,Silenc. Tras. Renault Kangoo II 1.6 Sce (18->) Reforma Gas,63338.5
+SG50610,Silenc. Interm. Galv. Renault Fluence 2.0 (10/18),66773.89
+SG50611,Silenc. Tras. Galv. Renault Fluence 2.0 (10/18),96564.48
+SG50700,Silenc. Interm. Galv. Renault Duster 1.6 16V (12/20),65700.35
+SG50701,Silenc. Tras. Galv. Renault Duster 1.6 16V (12/20),94149.03
+SG50702,Silenc. Interm. Galv. Renault Duster 2.0 16V (12/22),71926.85
+SG50703,Silenc. Tras. Galv. Renault Duster 2.0 16V (12/22),90606.36
+SG50704,Silenc. Interm. Galv. Renault Duster 2.0 4x4 (12/18),80998.23
+SG50705,Silenc. Tras. c/cola Renault Oroch 1.6 y 2.0 16V (16/22),84326.18
+SG50706,Silenc. Tras. Galv. Renault Duster 2.0 4x4 (12/18),96564.48
+SG50715,Silenc. Tras. Galv. Renault Duster 1.6 16V(12/20) Refor. Gas,74073.92
+SG50750,Reemp. Silenc. Interm. Renault Duster y Oroch - 2.0 16V,48523.79
+SG60101,Silenc. Tras. Peugeot Partner 1.4 y Diesel 1.9 Reforma Gas,58024.57
+SG60111,Silenc. Tras. Galv. Peugeot Partner 1.6 HDI (10->),75791.58
+SG60112,Silenc. Interm. Galv Peugeot Partner 1.4 (10/17),78368.06
+SG60113,Silenc. Tras. Galv. Peugeot Partner 1.4 (10/17),82018.08
+SG60201,Silenc. Tras. Galv. Peugeot 307 y 308 1.6 16V S/Baúl,71765.82
+SG60300,Silenc. Interm. Galv. Peugeot 408 - 2.0 (11/18),89640.18
+SG60302,Silenc. Del. Galv. Peugeot 408 - 1.6 16V (15/21),63982.69
+SG60560,Silen. Interm. Galv. Peugeot 207 1.6 16V (08/13),43317.14
+SG60561,Silenc. Tras. Galv. Peugeot 207 1.4 y 1.6 c/Baúl,73429.8
+SG60599,Silenc. Interm. Galv. Peugeot 208 - 1.6 16V (13/19),89103.42
+SG60600,Silenc. Tras. Galv. Peugeot 208 1.5 8V y 1.6 16V,89908.57
+SG60602,Silenc. Interm. Galv. Peugeot 208 1.6 16V (19->),82447.5
+SG60603,Silenc. Tras. Galv. Peugeot 208 1.6 16V (19->),92270.34
+SG70100,Silenc. Interm. Galv. Toyota Etios 1.5  s/Baúl  (13 ->),70048.17
+SG70101,Silenc. Interm. Galv. Toyota Etios 1.5  c/Baúl  (13 ->),70101.84
+SG80088,Silenc. Interm. Citroen C3 Picasso y C3 Aircross 1.6 (10/21),79924.69
+SG80089,Silenc. Tras. Citroen C3 Picasso y C3 Aircross 1.6 (10/21),74718.05
+SG80101,Silenc. Interm. Galv. Citroen C3 1.6 16V (13/22),83198.97
+SG80102,Silenc. Tras. Galv. Citroen C3 1.6 16V y 1.5 8V (13/22),105582.18
+SG80600,Silenc. Interm. Galv. Jeep Compass 2.4 (17/21),54213.52
+SG80601,Silenc. Tras. Galv. Jeep Compass 2.4 (17/21),105743.21
+SGE33,"Silenc. Tras. Econ. Chevrolet Corsa 1.6, 1.4 y Diesel s/Baúl",52227.48
+SGE34,"Silenc. Tras. Econ. Chevrolet Corsa 1.6, 1.4 y Diesel c/Baúl",54052.49
+SGE79,Silenc. Tras. Econ. Chevrolet Meriva - 1.8 (03/13),63338.57
+SGE100,Silenc. Tras. Econ.  VW y Dodge 1500,38056.82
+SGE100/2,Silenc. Universal Económico Ovalado Chico x 333 mm,40418.6
+SGE128,"Silenc. Tras. Econ. VW Gacel GL y Senda 1.6, Diesel",61084.15
+SGE141,Silenc. Tras. Econ. VW Gol Nacional y Brasilero 1.6,58453.99
+SGE146,"Silenc. Tras. Econ. VW Gol 1.6I, 1.6 MI y Diesel y 1.8 I",63284.9
+SGE146/1,Silenc. Tras. Econ. VW Gol Power 1.4 y 1.6,67632.71
+SGE163,"Silenc. Tras. Econ. Fiat Palio 1.6 16V, 1.7 Diesel y 1.7 TD",56521.62
+SGE196,Silenc. Tras. Económico Fiat Duna,57863.54
+SGE198,"Silenc. Tras. Económico Fiat Uno 1500, Tipo 1.6",53301.02
+SGE214/1,Silenc. Tras. Econ. Fiat Spazio 1.4 Tipo y Diesel 1300,53086.31
+SGE240,"Silenc. Tras. Econ. Ford Falcon- 188, 221, Max Econo y Rural",53784.11
+SGE253,"Silenc. Tras. Econ. Ford Escort - Audi 1.6, 1.8, XR3 (91/94)",52334.84
+SGE261,"Silenc. Tras. Econ. Ford Orion - 1.6, 1.8, 2.0 (94/96)",63123.87
+SGE262,Silenc. Tras. Econ. Ford Escort 2.0 I XR3 (95/96),62372.39
+SGE270,Silenc. Trasero Económico Ford F100,49865.71
+SGE323,"Silenc. Tras. Econ. Ford Fiesta 1.0, 1.3, 1.4 y Diesel 1.8",55179.71
+SGE325,Silenc. Tras. Econ. Ford Fiesta y Ecosport - 1.6 I (02/07),56360.59
+SGE326,Silenc. Tras. Econ. Ford Ka - 1.3 I (97/99),51529.69
+SGE381,Silenc. Tras. Econ. Renault 19 RN 1600 y Diesel 1.9 S/Baúl,60923.12
+SGE382,"Silenc. Tras. Econ. R.19 RE 1.6, RT 1700 y Dies. 1.9 C/Baúl",61406.21
+SGE391,"Silenc. Tras. Econ. Renault Clio 1.4, 1.6 y Dies 1.9 (94/99)",55340.74
+SGE394,Silenc. Tras. Econ. Renault Clio II - Sin Baúl (00/09),66559.18
+SGE406,"Silenc. Tras. Econ. Renault Megane 1.6, 2.0 y 1.9 TD (97/09)",69243.02
+SGE406/1,Silenc. Tras. Econ. Renault Megane y Scenic 1.6 16V (00/11),69243.02
+SGE460,Silenc. Tras. Econ. Renault 12 1400,47396.58
+SGE462,Silenc. Tras. Econ. Renault 12 - 1600 Caja 5ta,46913.49
+SGE471,Silenc. Tras. Econ. Renault 18 Break GTX,50080.41
+SGE475,Silenc. Tras. Econ. Renault 18 1400,47557.61
+SGE483,Silenc. Tras. Econ. Renault 11 1600,59473.85
+SGE486,Silenc. Tras. Econ. Renault 9 y 9 TXE - 1600,60279.0
+SGE511,Silenc. Tras. Econ. Peugeot 504 (83/90) y 505 (81/92),53784.11
+SGE512,Silenc. Tras. Econ. s/Sobre Dif. P. 504(83/90) y 505(81/92),45356.86
+SGE552,Silenc. Tras. Econ. Peugeot 206 - 1.6 16V y 1.4 8V (04/08),60117.97
+SGE2266,Silenc. Tras. Econ. Ford Fiesta - 1.3 I y Diesel 1.8 (95/96),49436.29
+SJ5200,Silenc. Junior Ford Escort 1.6 (86/90) y (93/94),62104.01
+SJ5205,"Silenc. Junior Ford Escort XR3 1.8 I, 2.0 I (94/96)",71336.41
+SJ5210,Silenc. Junior Ford Escort 1.8 I   s/Baúl   (97/03),70101.84
+SJ5218,Silenc. Junior F. Focus 1.8 I Zetec s/Baúl y 1.6 s/Baúl,62748.13
+SJ5219,Silenc. Junior Ford Focus 1.6 y 2.0 c/Baúl,63767.99
+SJ5222,Silenc. Junior Ford Focus III  2.0 (13/20),86419.58
+SJ5227,Silenc. Junior Ford Ka - 1.3 I (97/02),71175.38
+SJ5228,Silenc. Junior Ford Ka 1.0 y 1.6 (03/08),64090.05
+SJ5229,Silenc. Junior  Ford Ka  1.6 I  (08/10),61674.59
+SJ5232,Silenc. Junior Ford Fiesta 1.3 I (95/96),63875.34
+SJ5235,"Silenc. Junior Ford Fiesta 1.3I, 1.4I (97/99) y Dies (97/02)",61567.24
+SJ5236,Silenc. Junior Ford Fiesta 1.6 I (02/14),60923.12
+SJ5237,Silenc. Junior Ford Fiesta 1.4 TD (02/14 ),67095.95
+SJ5238,Silenc. Junior Ford Ecosport 1.6 I (03/08),63714.31
+SJ5239,Silenc. Junior Ford Fiesta Max 1.6 I (02/14),65485.64
+SJ5241,Silenc. Junior Ford Ecosport 1.6 (08/12),65807.7
+SJ5242,Silenc. Junior Ford Ecosport 2.0 (03/10),73107.74
+SJ5245,Silenc. Junior Ford Ecosport Kinetic 1.6 (12/20),73751.86
+SJ5246,Silenc. Junior Ford Ecosport Kinetic 2.0 (13/17),92324.02
+SJ5247,Silenc. Junior  Ford Ecosport 1.5 (17/22),66988.5
+SJ5250,Silenc. Junior Ford Ka 1.0 (08/10),61674.59
+SJ5251,Silenc. Junior Ford Ka 1.0 y 1.6 (10/14),61137.83
+SJ5252,Silenc. Junior Ford Ka 1.5 (16/20),74020.25
+SJ5260,Silenc. Junior Ford Fiesta Kinetic 1.6 16V  s/Baúl  (10/20),68491.54
+SJ5415,"Silenc. Junior VW Gol 1.6I, 1.8I, 2.0I y 1.6 MI (96/99)",72785.68
+SJ5416,Silenc. Junior VW Gol - 1.6 MI (00/11) y Power 1.4 (12/15),74127.6
+SJ5417,Silenc. Junior VW Gol - 1.0 I Parag. Envolvente (00/03),71336.41
+SJ5418,Silenc. Junior VW Gol 1.0 (99/00),70907.0
+SJ5419,Silenc. Junior VW Gol Trend 1.6 (08/22),71068.03
+SJ5420,Silenc. Junior VW Voyage 1.6 (07/20),74503.34
+SJ5421,Silenc. Junior VW Saviero 1.6 I (10/22),77026.15
+SJ5431,Silenc. Junior VW Polo - 1.6 I (97/09) y Diesel 1.9 (96/09),76382.02
+SJ5433,Silenc. Junior VW Polo 1.6 MSI  (17->),71658.47
+SJ5435,"Silenc. Junior VW Golf 1.8 I, 2.0 I, GTD 1.9 (96/99)",68008.45
+SJ5437,Silenc. Junior VW Golf IV - 1.6 I (99/12),73000.39
+SJ5445,Silenc. Junior VW Fox y Cross Fox 1.6 (04/19),69994.49
+SJ5465,Silenc. Junior VW Bora 2.0 (03/15),77348.21
+SJ5600,"Silenc. Junior Fiat Uno - 1.4, 1.6 (88/98)",65431.97
+SJ5601,"Silenc. Junior Fiat Duna 1.4, 1.6 (88/97)",68867.28
+SJ5603,Silenc. Junior Fiat Uno 1.3 Fire (03/06),66881.24
+SJ5604,Silenc. Junior Fiat Uno Evo 1.4 (10/16),82662.2
+SJ5615,"Silenc. Junior Fiat 147 - 1100, 1300 (83/91) y Tipo (90/96)",62587.1
+SJ5627,"Silenc. Junior Fiat Palio 1.6 16V, 1.7 TD y 1.3 Fire",67793.74
+SJ5628,Silenc. Junior Fiat Siena -1.6 I 16V y 1.7 TD (97/01),70209.2
+SJ5630,Silenc. Junior Fiat Strada 1.8 (04/10),67847.42
+SJ5632,Silenc. Junior Fiat Strada 1.6 16V E.torQ (11/19),70316.55
+SJ5645,Silenc. Junior Fiat Palio 1.8 (04/10),69404.05
+SJ5646,Silenc. Junior Fiat Palio 1.4 Fire (07/14),67632.71
+SJ5648,Silenc. Junior Fiat Palio 1.6 E.torQ (10/11),70155.52
+SJ5649,Silenc. Junior Fiat Palio E.torQ 1.6 (12/17),69565.08
+SJ5650,Silenc. Junior Fiat Punto 1.4 (07/18),69404.05
+SJ5651,Silenc. Junior Fiat Punto 1.8 (07/11),71014.35
+SJ5655,Silenc. Junior Fiat Siena 1.4 Fire (07/10),77509.24
+SJ5670,Silenc. Junior Fiat Cronos 1.3 (18->),72463.57
+SJ5805,Silenc. Junior Peugeot 106 - 1.4 I (98/03),61889.3
+SJ5820,Silenc. Junior Peugeot 306 1.8 I S  s/Baúl (96/98),63123.87
+SJ5821,Silenc. Junior Peugeot 306 - 1.8 I Con Baúl (96/98),65109.91
+SJ5825,Silenc. Junior Peugeot Partner - 1.9 (98/04),62909.16
+SJ5830,Silenc. Junior Peugeot 207 - 1.4 y 1.6 16V (08/16)  Sin Baúl,67149.62
+SJ5831,Silenc. Junior Peugeot 206 - 1.6 I Nacional (00/04),65539.32
+SJ5832,Silenc. Junior Peugeot 206 - Diesel (98/08),64626.81
+SJ5835,Silenc. Junior Peugeot 207 - 1.4 y 1.6 16V (08/15)  Con Baúl,67310.65
+SJ5837,Silenc. Junior Peugeot 208 - 1.5 (13/17) y 1.6 16V (13/19),68169.48
+SJ5839,Silenc. Junior Peugeot 208 - 1.6 16V (19 ->),63606.96
+SJ5840,Silenc. Junior Peugeot 307 - 1.6 16V s/Baúl (01/10),68330.51
+SJ5841,Silenc. Junior Peugeot 307 - 1.6 16V con Baúl (01/10),70692.29
+SJ5842,Silenc. Junior Peugeot 307 HDI 2.0 s/Baúl (01/06),68169.48
+SJ5843,Silenc. Junior Peugeot 308 1.6 16V (12/22),82125.44
+SJ6014,Silenc. Junior Renault Twingo (94/01),61781.95
+SJ6022,Silenc. Junior Renault 9 (84/95),70907.0
+SJ6040,"Silenc. Junior Renault 19 - 1.6, 1.7 y Dies. 1.9  Sin Baúl",72893.04
+SJ6041,"Silenc. Junior Renault 19 - 1.6, 1.7 y Diesel 1.9  Con Baúl",73590.83
+SJ6057,"Silenc. Junior Renault Clio 1.4 I, 1.6 I y Dies. 1.9 (94/99)",71175.38
+SJ6058,"Silenc. Junior R. Clio II - 1.6 I, 1.2 I y Dies. 1.9 s/Baúl",67471.68
+SJ6059,"Silenc. Junior R. Clio II - 1.6 I, 1.2 I y Dies. 1.9 c/Baúl",71604.79
+SJ6061,Silenc. Junior Renault Clio II - 1.2 I 16V Sin Baúl (03/12),70048.17
+SJ6062,Silenc. Junior Renault Clio II - 1.2 I 16V Con Baúl (03/10),79709.98
+SJ6063,Silenc. Junior Renault Clio Mio - 1.2 (12/17),67954.77
+SJ6070,"Silenc. Junior R. Megane 1.6 I 8V, 1.9 TDI y 2.0 I  Sin Baúl",74718.05
+SJ6071,"Silenc. Junior R. Megane 1.6 I 8V, 1.9 TDI y 2.0 I  Con Baúl",77509.24
+SJ6072,Silenc. Junior Renault Megane 1.6 I 16V   Sin Baúl  (00/09),74503.34
+SJ6073,Silenc. Junior Renault Megane 1.6 I 16V   Con Baúl  (00/09),77401.88
+SJ6076,"Silenc. Junior Ren. Megane II - 1.6I, 1.5 DCI c/Baúl (06/11)",76006.29
+SJ6080,Silenc. Junior Renault  Kangoo (99/18),71497.44
+SJ6082,Silenc. Junior Renault Kangoo II - 1.6 Sce (18->),69242.97
+SJ6086,Silenc. Junior Renault Scenic 1.6 I 16V (00/11),74395.98
+SJ6090,Silenc. Junior Renault Logan - 1.6 I 16V (07/13),66344.47
+SJ6091,Silenc. Junior Renault Logan - 1.6  8V y 16V (13/19),69081.99
+SJ6093,Silenc. Junior Renault Sandero - 1.6 (08/13),67095.95
+SJ6094,Silenc. Junior Renault Sandero - 1.6 8V 16V (13/19),67095.95
+SJ6100,Silenc. Junior Renault Symbol - 1.6  16V  (09/14),74503.34
+SJ6110,Silenc. Junior Renault Duster 1.6 (11/20),66559.18
+SJ6120,Silenc. Junior Renault Fluence 2.0 (10/18),84540.89
+SJ6200,Silenc. Junior Chev. Corsa 1.6 I Sin Baúl y Classic 1.4 I,63445.93
+SJ6201,Silenc. Junior Chevrolet Corsa - 1.6 I  Con Baúl   (95/09),66881.24
+SJ6202,Silenc. Junior Chevrolet Corsa II - 1.8 I  Sin Baúl  (99/11),65056.23
+SJ6203,Silenc. Junior Chevrolet Corsa II - 1.8 I  Con Baúl  (02/11),68974.63
+SJ6230,Silenc. Junior Chevrolet  Astra GLS 2.0 I Con Baúl (99/03),78743.8
+SJ6231,Silenc. Junior Chev. Astra CD 2.0 y Astra II 2.0 c/Baúl,78904.83
+SJ6232,Silenc. Junior Chev. Astra y Astra II - 2.0  s/Baúl  (99/11),77187.18
+SJ6240,Silenc. Junior Chevrolet Meriva 1.8 (03/13),65700.35
+SJ6250,Silenc. Junior Chevrolet Vectra 2.0  Sin Baúl  (07/11),77723.94
+SJ6260,Silenc. Junior Chevrolet  Aveo 1.6  (08/14),79387.92
+SJ6270,Silenc. Junior Chevrolet  Agile 1.4  (09/17),62909.16
+SJ6280,Silenc. Junior Chevrolet Prisma y Onix 1.4 (13/21),67471.68
+SJ6450,Silenc. Junior Toyota Etios 1.5  Sin Baúl  (13->),69779.78
+SJ6451,Silenc. Junior Toyota Etios 1.5  Con Baúl  (13->),73000.39
+SJ6600,Silenc. Junior Suzuki Fun 1.0 I (03/11),62318.71
+SJ6601,Silenc. Junior Chevrolet Celta 1.4 (11/15),62265.04
+SJ6800,Silenc. Junior Citroen C3 - 1.6 16V  (03/13),67686.39
+SJ6802,Silenc. Junior Citroen C3 - 1.6 16V (13/22),92324.02
+TD32,Intermedia c/Turbo Chevr. Corsa 1.6 y 1.4 (98/14),49328.94
+TD100,turbo central elimina silenc.original mod.73-92,26086.9
+TD127,Turbo prim. c/intermedio VW Gacel y Senda,50885.57
+TD127/1,turbo intermedio con cola,55126.03
+TD128,Turbo doble VW Gacel 1.6 (83/95),64734.17
+TD170,conjunto completo con salida de motor y turbo,50563.5
+TD192,conjunto armado turbo central y trasero Fiat 128,84540.89
+TD195,Turbo Intermedio Fiat Uno y Duna 1.6 (88/98),43639.2
+TD196,turbo trasero cola original cromada,52281.16
+TD198,turbo trasero cola original cromada,46806.13
+TD214,Conjunto armado turbo central y trasero F. Spazio - Tipo 1.4,68062.13
+TD235,Turbo tras. Cola cromada F. Falcon 221 (70/89),71121.7
+TD252/1,"Turbo tras. Cola Original F. Escort y Audi 1.6, 1.8 y Xr3",40794.33
+TD280,Turbo central F100 fase II (72/81),34782.54
+TD313/1,Turbo tras. Cola original Ford Taunus GLX (77/82),52603.22
+TD315,Turbo del.c/Intermedia F.Taunus GLX,60601.06
+TD410,turbo tras. doble cola cromada   Torino 7 Bancadas,120343.29
+TD420,turbo central doble elimina silenciador original,50134.09
+TD460,Turbo trasero R12 TS,38915.65
+TD460/1,Turbo Tras. Cola Original Cromada R12 1400,38432.56
+TD462/1,Turbo trasero cola original  cromada Mod.91,37895.79
+TD469,Turbo intermedio R18-Break GTX,54696.61
+TD505,turbo central elimina silenciador intermedio,23134.68
+TD510,Turbo central elimina silenciador intermedio,25228.08
+TD512,turbo trasero cola cromada con sobre diferencial,49006.88
+TD800,"Turbo Cental Univer. Ø3"" - Largo: 450mm Boq. Ø1""7/8 y Ø1""3/4",23725.13
+TD800/1,"Turbo Cental Univer. Ø3"" - Largo: 450mm Boq. Ø1""7/8 y Ø1""3/4",26892.06
+TD800/2,"Turbo Cental Univer. Ø3"" - Largo: 450mm   Boq. Ø 2"" 1/8",25067.05
+TD801,"Turbo Cental Univer. Ø3"" - Largo: 550mm Boq. Ø2"" y Ø1""7/8",28931.77
+TD801/1,"Turbo Cental Univer. Ø3"" - Largo: 550mm Boq. Ø2"" y Ø1""7/8",36124.46
+TD801/2,"Turbo Cental Univer. Ø3"" - Largo: 550mm Boq. Ø 2"" 1/8",30595.75
+TD802,"Turbo Cental Univer. Ø3"" - Largo: 650mm Boq. Ø2""1/8 y Ø1""7/8",32528.11
+TD803,"Turbo Cental Univer. Ø3"" - Largo: 650mm Boq. Ø 2"" 1/8",32635.47
+TD804,"Turbo Cental Univer. Ø3"" 1/2 - Largo: 400mm   Boq. Ø 1"" 7/8",28448.68
+TD804/1,"Turbo Cental Univer. Ø3"" 1/2 - Largo: 400mm   Boq. Ø 2"" 1/8",28448.68
+TD805,"Turbo Cental Univer. Ø3"" 1/2 - Largo: 450mm   Boq. Ø 2"" 1/8",34192.09
+TD806,"Turbo Cental Univer. Ø3"" 1/2 - Largo: 550mm   Boq. Ø 2"" 1/8",40848.01
+TD807,"Turbo Cental Univer. Ø3"" 1/2 - Largo: 650mm   Boq. Ø 2"" 1/8",47557.61
+TD50401,Turbo Central Renault Logan y Sandero 1.6 8V (13/19),32635.47
+TD70100,Turbo Trasero Toyota Etios 1.5 s/Baúl (13->),45088.48
+TD70101,Turbo Trasero Toyota Etios 1.5 c/Baúl (13->),48309.08
+A879,"Abrazadera Cadmeada 1""1/4",2386.45
+A880,"Abrazadera Cadmeada 1""3/8",2416.81
+A881,"Abrazadera Cadmeada 1""1/2",2486.65
+A882,"Abrazadera cadmeada 1""5/8",2529.16
+A883,"Abrazadera cadmeada 1""3/4",2602.02
+A884,"Abrazadera cadmeada 1""7/8",2535.93
+A885,"Abrazadera cadmeada 2""",2711.34
+A886,"Abrazadera cadmeada 2""1/8",2687.59
+A887,"Abrazadera cadmeada 2""1/4",2942.49
+A888,"Abrazadera cadmeada 2""3/8",3130.05
+A889,"Abrazadera cadmeada 2""1/2",3199.61
+A890,"Abrazadera cadmeada 2""5/8",3275.79
+A890/1,"Abrazadera cadmeada 2""3/4",4097.77
+A890/2,"Abrazadera cadmeada 2""7/8",4148.01
+A891,"Abrazadera cadmeada 3""",4966.13
+A891/1,"Abrazadera cadmeada 3"" 1/8",5116.83
+A892,"Abrazadera cadmeada 3""1/2",5375.2
+A892/1,"Abrazadera cadmeada 3"" 5/8",5615.61
+A893,"Abrazadera cadmeada 4""",5927.77
+A893/1,"Abrazadera cadmeada 4"" 1/8",6107.18
+A894,"Abrazadera cadmeada 4""1/2",6293.78
+A894/1,"Abrazadera cadmeada 4"" 5/8",6656.2
+A895,"Abrazadera cadmeada 5""",6875.07
+A895/1,"Abrazadera cadmeada 5"" 1/8",7391.78
+A910,Abrazadera p/Multipl.Fiat 128 Juego,6011.79
+A911,Abrazadera p/Multipl.Renault Juego,4133.12
+A912,Abrazadera p/Multipl.Citr”en Juego Chico,3220.6
+A913,Abrazadera p/M£ltipl.Citr”en Juego Grande,3220.6
+A918,Abrazadera p/M£ltipl.R 21 Juego,6172.82
+APA100,Anclaje Porta Auxiliar  S-10 (12 ->),112385.03
+APA200,Anclaje Porta Auxiliar Amarok 2.0 (10 ->),70654.38
+APA201,Anclaje Porta Auxiliar  Amarok 3.0 V6 (18->)  c/Cola Reforma,95224.29
+APA400,Anclaje Porta Auxiliar Ford Ranger (12/22),111392.05
+APA410,Anclaje Porta Auxiliar Ford Ranger (23 ->),97526.16
+APA500,Anclaje Porta Auxiliar Alaskan y Frontier 2.3 (18 ->),102942.06
+APA700,Anclaje Porta Auxiliar Toyota Hilux (16->),114676.52
+AR63,"Arrestallamas p/caño  Ø2"" 1/2",21041.25
+ATR10,"Antirrígido Articulado en 1""3/4",43370.82
+ATR12,"Antirrígido Articulado en 2""",49060.56
+BR55,"BRIDA ACOPLE 2""",8708.47
+BR1023,"BRIDA ACOPLE 3""",13845.03
+BR1024,"BRIDA ACOPLE 2""1/4",10011.8
+BR2007,"BRIDA ACOPLE 2""1/2",10741.87
+C9031,Camara Juki Dribbling,11808.89
+C9032,Camara Mondial S-1,11808.89
+C9033,Camara Mondial M1,11808.89
+C9050,Camara Garelli NOI,11808.89
+C9052,Camara Garelli NOI '92,11808.89
+CA301,Cola ac. inox. red. diam. 60 x 127 mm,29790.6
+CA301/1,Cola ac. inox. red. diam. 60 x 236 mm,40364.92
+CA302,Cola ac. inox. red. diam. 60 x 264 mm,43048.76
+CA303,Cola ac. inox. c/curva diam. 60 x 264 mm,47235.55
+CA304,"Cola ac. inox. red. diam. 3"" x 257 mm",44766.41
+CA305,"Cola ac. inox. c/curva diam. 3"" x 264 mm",50348.8
+CA307,Cola ac. inox. oval. 85 x 60 x 166 mm,37144.32
+CA312,Cola ac. inox. oval. 80 x 72 x 115 mm,47987.02
+CA314,Cola ac. inox. red. diam. 45 x 120 mm,41384.78
+CA315,"Cola ac. inox. red. diam. 3"" x 120 mm",47987.02
+CA315/1,"Cola ac. inox. red. diam. 3"" x 140 mm",55233.38
+CA330,Cola ac. inox. oval. 90 x 55 x 110 mm,53301.02
+CA331,Cola ac. inox. oval. 105 x 70 x 138 mm,51637.04
+CA332,Cola acero inox. oval. 93 x 55 x 120 mm,50670.86
+CA398,"Cola acero inox. red. diam. 3"" x 120",51583.36
+CC15,"Cola Cr. Forr.  Ø2""1/2 x 150mm  Ø entrada 2""- Tipo Turbo",16961.83
+CC16,"Cola Cromada Forr.  Ø2""1/2 x 190mm  Ø entrada 2""- Tipo Iava",17122.89
+CC17,"Cola Cromada Forr.  Ø2""1/2 x 190mm  Ø entrada 2""- Tipo Iava",17659.65
+CC19,"Cola Cromada Simple Ø1"" 3/4 x 190 mm   Tipo BMW",16800.82
+CC20,"Cola Cromada Simple Ø1"" 7/8 x 190 mm   Tipo BMW",16156.7
+CC21,"Cola Cromada Simple Ø2"" x 190 mm   Tipo BMW",16264.06
+CC22,"Cola Cromada Simple Ø2"" 1/8 x 190 mm   Tipo BMW",18733.19
+CC29,"Cola Cromada Curva Simple   Ø2"" 1/4 x 350 mm",23456.74
+CC30,"Cola Cromada Curva Simple    Ø2"" 1/2 x 350 mm",24583.95
+CC31,"Cola Cromada Forr.  Ø3"" x 190mm Ø entrada 2"" 1/8 - Ovalada",21792.76
+CC40,"Cola Cr.  Simple  Øext. entrada 2"" 1/8 x 160 mm  Ovalada",16371.41
+CC42,"Cola Crom.Ov.Simple 2""x170mm",16371.41
+CC50,"Cola Cromada Forr. Ø3"" x 175mm Ø entrada 2"" 1/8 - Tipo Lotus",22490.56
+CC55,"Cola Cromada Forr.  Ø3"" x 140mm Ø entrada 2"" 1/8 - Ovalada",21094.97
+CC55/1,"Cola Cromada Forr. Ø3"" x 140mm Øentrada 2"" 1/8 Int. Perfor.",21148.64
+CC56,"Cola Cromada Forr.  Ø3"" x 140mm Ø entrada 2"" 1/8 - Redonda",21094.97
+CC56/1,"Cola Cromada Forr. Ø3""x140mm Øext. ent. 2""1/8 Int. Perf. Red",21148.64
+CC60,"Cola Crom. Forr. Ventilada Ø2""1/2 x 145mm  Ø Ext. entrada 2""",16961.86
+CC61,"Cola Crom. Forr. Ventilada Ø3"" x 145mm Ø Ext. entrada 2"" 1/8",20611.87
+CC500,"Cola Crom. Ø Int. entr. 2""1/2 - Ø Ext. salida 3""1/2 (Recta)",22758.94
+CC501,"Cola Crom. ØInt. ent. 2""1/2- ØExt. salida 3""1/2 Rulo adentro",22758.94
+CC510,"Cola Crom. Ø Int. entr. 3"" - Ø Ext. salida 4"" (Recta)",28448.68
+CC511,"Cola Crom. Ø Int. entr. 3"" - Ø Ext. salida 4"" (Rulo adentro)",28448.68
+CC520,"Cola Crom. Ø Int. entr. 3""1/2 - Ø Ext. salida 4""1/2 (Recta)",31293.55
+CC521,"Cola Crom. ØInt. ent. 3""1/2- ØExt. salida 4""1/2 Rulo adentro",31293.55
+CC530,"Cola Crom. Ø Int. entr. 4"" - Ø Ext. salida 5"" (Recta)",33655.33
+CC531,"Cola Crom. Ø Int. entr. 4"" - Ø Ext. salida 5"" (Rulo adentro)",33655.33
+CC540,"Cola Crom. Ø Int. entr. 4""1/2 - Ø Ext. salida 5""1/2 (Recta)",40096.54
+CC541,"Cola Crom. ØInt. ent. 4""1/2- ØExt. salida 5""1/2 Rulo adentro",40096.54
+CF1,"Caño Flexible Hierro Galvanizado 1""3/4 x 0.5 mtrs",19846.47
+CF2,"Caño Flexible Hierro Galvanizado 1""3/4 x 1 mtrs",39607.75
+CF3,"Caño Flexible Hierro Galvanizado 1""3/4 x 1.5 mtrs",59454.23
+CF4,"Caño Flexible Hierro Galvanizado 1""7/8 x 0.5 mtrs",21209.32
+CF5,"Caño Flexible Hierro Galvanizado 1""7/8 x 1 mtrs",42418.63
+CF6,"Caño Flexible Hierro Galvanizado 1""7/8 x 1.5 mtrs",63627.99
+CF7,"Caño Flexible Hierro Galvanizado 2"" x 0.5 mtrs",22572.16
+CF8,"Caño Flexible Hierro Galvanizado 2"" x 1 mtrs",45144.34
+CF9,"Caño Flexible Hierro Galvanizado 2"" x 1.5 mtrs",67716.51
+CF10,"Caño Flexible Hierro Galvanizado 3"" x 0.5 mtrs",33815.67
+CF11,"Caño Flexible Hierro Galvanizado 3"" x 1 mtrs",67631.33
+CF12,"Caño Flexible Hierro Galvanizado 3"" x 1.5 mtrs",101447.0
+CF13,"Caño Flexible Hierro Galvanizado 3""1/2 x 0.5 mtrs",39352.23
+CF14,"Caño Flexible Hierro Galvanizado 3""1/2 x 1 mtrs",78704.46
+CF15,"Caño Flexible Hierro Galvanizado 3""1/2 x 1.5 mtrs",118056.71
+CF16,"Caño Flexible Hierro Galvanizado 4"" x 0.5 mtrs",45059.16
+CF17,"Caño Flexible Hierro Galvanizado 4"" x 1 mtrs",90033.13
+CF18,"Caño Flexible Hierro Galvanizado 4"" x 1.5 mtrs",135092.3
+CF19,"Caño Flexible Hierro Galvanizado 4""1/2 x 0.5 mtrs",50595.72
+CF20,"Caño Flexible Hierro Galvanizado 4""1/2 x 1 mtrs",101191.48
+CF21,"Caño Flexible Hierro Galvanizado 4""1/2 x 1.5 mtrs",151787.2
+CF22,"Caño Flexible Hierro Galvanizado 5"" x 0.5 mtrs",56302.66
+CF23,"Caño Flexible Hierro Galvanizado 5"" x 1 mtrs",112520.15
+CF24,"Caño Flexible Hierro Galvanizado 5"" x 1.5 mtrs",168822.79
+CR860,"Caño recto Ø 1"" 1/4 - 31.75 mm",28341.33
+CR861,"Caño recto Ø 1"" 3/8 - 34.92 mm",31776.64
+CR862,"Caño recto Ø 1"" 1/2 - 38.1 mm",27214.12
+CR863,"Caño recto Ø 1"" 5/8 - 41.27 mm",35265.63
+CR864,"Caño recto Ø 1"" 3/4 - 44.45 mm",38056.82
+CR865,"Caño recto Ø 1"" 7/8 - 47.62 mm",40311.24
+CR866,"Caño recto Ø 2"" - 50.8 mm",42780.37
+CR867,"Caño recto Ø 2"" 1/4 - 57.15 mm",48577.46
+CR868,"Caño recto Ø 2"" 1/2 - 63.5 mm",52334.84
+CR869,"Caño recto Ø 3"" - 76.2 mm",64304.75
+CR870,"Caño recto Ø 3"" 1/2 - 88.9 mm",85882.81
+CR871,"Caño recto Ø 4""  - 101.60 mm",100912.3
+CR872,"Caño recto Ø 4"" 1/2 - 114.30 mm",113096.93
+CR873,"Caño recto Ø 5"" - 127 mm",130966.81
+CS9031,Camara con Sordina Juki Dribbling,12345.65
+CS9032,Camara con Sordina Mondial S-1,12345.65
+CS9050,Camara con Sordina Garelli NOI,12345.65
+CS9052,Camara con Sil.  Garelli NOI'92,12345.65
+CU840,"Cupla Ø1"" 1/2 - Largo: 100mm - Aboq. a Ø1"" 5/8",5636.06
+CU841,"Cupla Ø1"" 5/8 - Largo: 120mm - Aboq. a Ø1"" 3/4",5958.12
+CU842,"Cupla Ø1"" 3/4 - Largo: 120mm - Aboq. a Ø1"" 7/8",6065.47
+CU843,"Cupla Ø1"" 7/8 - Largo: 120mm - Aboq. a Ø2""",6172.83
+CU844,"Cupla Ø2"" - Largo: 120mm - Aboq. a Ø2"" 1/8",6280.18
+CU845,"Cupla Ø2"" 1/4 - Largo: 120mm - Aboq. a Ø2"" 3/8",6548.56
+CU846,"Cupla Ø2"" 1/2 - Largo: 160mm - Aboq. a Ø2"" 3/8",7407.39
+CU847,"Cupla Ø3"" - Largo: 160mm - Aboq. a Ø3"" 1/8",8051.51
+CU848,"Cupla Ø3"" 1/2 - Largo: 180mm - Aboq. a Ø3"" 5/8",9876.52
+CU849,"Cupla Ø4"" - Largo: 180mm - Aboq. a Ø4"" 1/8",10842.7
+CU850,"Cupla Ø4"" 1/2 - Largo: 200mm - Aboq. a Ø4"" 5/8",12399.33
+CU851,"Cupla Ø5"" - Largo: 200mm - Aboq. a Ø5"" 1/8",13082.31
+CUD880,"Cupla Doble Ø1"" 1/2 - Largo: 160 mm",7085.33
+CUD881,"Cupla Doble Ø1"" 5/8 - Largo: 180 mm",7783.12
+CUD882,"Cupla Doble Ø1"" 3/4 - Largo: 180 mm",8158.85
+CUD883,"Cupla Doble Ø1"" 7/8 - Largo: 180 mm",8427.23
+CUD884,"Cupla Doble Ø2"" - Largo: 180 mm",8749.3
+CUD885,"Cupla Doble Ø2"" 1/4 - Largo: 180 mm",9447.09
+CUD886,"Cupla Doble Ø2"" 1/2 - Largo: 220 mm",11272.11
+CUD887,"Cupla doble  3""",13097.11
+CUD888,"Cupla Doble Ø3"" 1/2 - Largo: 240 mm",17552.27
+CUD889,"Cupla Doble Ø4"" - Largo: 240 mm",20075.08
+CUD890,"Cupla Doble Ø4"" 1/2 - Largo: 260 mm",24369.2
+CUD891,"Cupla doble  5""",25952.29
+D9300,Salida motor Yamaha FZ-16,30721.96
+D9400,Salida motor Yamaha Crypton T105,23595.23
+E920,Espárrago p/Múltiple  Fiat 600,536.77
+E921,Espárrago p/Múltiple  Fiat 125 - 1500 - R12,536.77
+E924,Espárrago p/Múltiple  Ford Sae - Torino 7 banc.,751.47
+E925,Espárrago p/Múltiple  Chevrolet,644.12
+E926,Espárrago p/Múltiple  Dodge 1500 - Perkins,1073.54
+E927,Espárrago p/Múltiple  Torino 4 banc.,1073.54
+E928,Espárrago p/Múltiple  Peugeot,966.18
+E929,Espárrago p/Múltiple  F100 - Falcon,751.47
+E930,Espárrago p/Múltiple  F100 - Fase II,1502.95
+E931,Espárrago p/Múltiple  Ford Taunus,1556.63
+E932,Espárrago p/Múltiple  Toyota,966.18
+E933,Espárrago p/Múltiple  R11,1610.3
+E934,Espárrago p/Múltiple  Renault R19,3113.25
+E935,Espárrago p/Múltiple  Rastrojero,1073.54
+FLEX50,"Flexible Ø1"" 3/4 x 100 mm con boquilla",36768.58
+FLEX50/1,"Flexible Ø1"" 3/4 x 100 mm",25764.84
+FLEX51,"Flexible Ø1"" 3/4 x 200 mm con boquilla",42619.34
+FLEX52,"Flexible Ø2"" x 100 mm con boquilla",39989.18
+FLEX52/1,"Flexible Ø2"" x 100 mm",27375.15
+FLEX53,"Flexible Ø2"" x 200 mm con boquilla",57970.9
+FLEX54,"Flexible Ø2"" 1/2 x 200 mm con boquilla",68169.48
+FLEX55,"Flexible Ø3"" x 200 mm con boquilla",77831.3
+FLEX55/1,"Flexible Ø3"" x 100 mm",63875.34
+FLEX56,"Flexible Ø3"" 1/2 x 230 mm con boquilla",159956.73
+FLEX57,"Flexible Ø4"" x 220 mm con boquilla",187868.65
+JMU9000,Junta M£ltiple Toyota Hilux 3.0 (01/05),7336.87
+JMU9001,Junta M£ltiple Fiat 147 Tipo.Uno y Duna 1.4 y 1.6,8478.17
+JMU9002,Junta M£ltiple Chevrolet Astra. Vectra 2.0 8V,8478.17
+JMU9003,Junta M£ltiple Chevrolet Corsa 1.6 18V,9290.19
+JMU9004,Junta M£ltiple Chevrolet Astra. Vectra 2.0 16V,10760.75
+JMU9005,Junta M£ltiple Renault Megane 1.6 8v,7826.0
+JMU9006,Junta M£ltiple Volkswagen Gol Power 1.6,7826.0
+JMU9007,Junta M£ltiple Volkswagen Gol Trend 1.6,7826.0
+JMU9008,Junta M£ltiple Fiat Palio Fire 1.4 8V,6749.93
+JMU9009,Junta M£ltiple Peugeot 206 1.6 16V,7336.87
+JMU9010,Junta M£ltiple Fiat Palio 1.6 Etorq,9782.5
+JMU9011,Junta M£ltiple Peugeot 207 1.4 y 208 1.5,8478.17
+JMU9012,Junta M£ltiple Renault Clio Mio 1.2,7826.0
+JMU9013,Junta M£ltiple Ford Focus II 2.0 (08/13),10760.75
+JMU9014,Junta M£ltiple Ford Fiesta. Focus y Ecosport 1.6,8695.55
+JMU9015,Junta M£ltiple Volkswagen Bora 2.0,10434.67
+JMU9016,Junta M£ltiple Ford Fiesta y Ka - 1.0 y 1.6,7826.0
+JMU9017,Junta M£ltiple Ford Focus III 2.0,10325.98
+JMU9018,Junta M£ltiple Chevrolet Cruze 1.8,10760.75
+JSA102,Junta Bedford,5634.72
+JSA107,Junta Chevrolet aro amianto,4930.38
+JSA111,Junta Dodge 1500,1565.21
+JSA111/1,Junta Dodge 1500 Laminada,4010.83
+JSA113,Junta Estanciera,1715.2
+JSA113/1,Junta Estanciera Laminada,4010.83
+JSA114,Junta Fiat 1100,1076.08
+JSA115,Junta Fiat 600,880.42
+JSA116,Junta Fiat 1500 - 1600,1565.21
+JSA117,Junta Fiat 125,1565.21
+JSA117/1,Junta Fiat 125 Laminada,4989.08
+JSA125,Junta F100 - Salida Motor,1721.72
+JSA125/1,Junta F100 - Salida Motor Laminada,4411.91
+JSA126,Junta F100 - Acople conexi¢n,1721.72
+JSA126/1,Junta F100 - Acople Conexi¢n Laminada,4411.91
+JSA129,Junta Falcon 188 c/Brida,1565.21
+JSA133,"Junta Falcon 188-221-Aro hierro 2""",4597.77
+JSA140,Junta Jeep,1565.21
+JSA143,Junta Mercedes Benz 3500-1112-1114,2739.1
+JSA143/1,Junta Mercedes Benz 608,1858.67
+JSA147,Junta Peugeot 403 - 1 Boca,736.95
+JSA148,Junta Peugeot 404 - 1 Boca,932.6
+JSA149,Junta Peugeot 404 y 504 - 2 Bocas,1565.21
+JSA149/1,Junta Peug.404 y 504 - 2 Bocas Laminada,4010.83
+JSA152,Junta Perkins 6 Cil.Motor 6-354 aro,4930.66
+JSA156,Junta Rastrojero-52 HP-P63(61/68),1565.21
+JSA157,Junta Rastrojero Indenor Plana,1226.89
+JSA158,Junta Renault R12,1565.21
+JSA158/1,Junta Renault R12 Laminada,4010.83
+JSA163,Junta Torino 380 TS,2836.92
+JSA165,Junta Opel K180,1682.59
+JSA165/1,Junta Opel K180 - Laminada,4989.08
+JSA166,Junta Torino 7 bancadas,2836.92
+JSA169,Junta Mercedes Benz 1514-1517,3423.87
+JSA170,Junta Peugeot 505 y 504 - 2 Bocas(82/84),1858.67
+JSA170/1,Junta Peug.505 y 504-2 Bocas(82/84)Lam.,4989.08
+JSA171,Junta Dodge D-100-4 agujeros,2445.62
+JSA186,Junta Toyota,2445.62
+JSA187,Junta R18 - Fuego - Trafic,1858.67
+JSA187/1,Junta R18 - Fuego - Trafic Laminada,5282.54
+JSA189,Junta Fiat 147 Diesel,1565.21
+JSA190,Junta Volkswagen Gacel,1565.21
+JSA190/1,Junta Volkswagen Gacel Laminada,4989.08
+JSA191,Junta Peugeot Motor 2000,2054.33
+JSA192,Junta Peugeot 405 Diesel Ligero,1858.67
+JSA193,Junta Volkswagen kombi,1840.35
+JSA194,Junta Datsun 1600-1800-2000,2445.62
+JSA196,Junta Ford Sierra,1813.02
+JSA198,Junta Ford Escort Plana,1682.59
+JSA201,Junta Fiat Uno Motor Tipo,1565.21
+JSA201/1,Junta Fiat Uno Motor Tipo Laminada,4010.83
+JSA202,Junta Corsa-Fiat Uno y Duna-Aro Hierro,4597.77
+JSA203,"Junta Ford Max Econo Aro Hierro 1""7/8",4597.77
+JSA204,Junta R18 Juniors,1565.21
+JSA205,Junta Nissan,2445.62
+JSA205/1,Junta Nissan 6 Cilindros,2325.91
+JSA206,Junta Mercedes Benz 1215,4499.95
+JSA208,Junta Fiat Duna-Aro Amianto Int.,1076.08
+JSA209,Junta R19 Aro hierro chico,4597.84
+JSA213,Junta Ford Orion,3554.3
+JSA215,Junta Peugeot 405 y 205 Anillo,1565.22
+JSA216,Junta Volkswagen Senda Diesel,1565.21
+JSA217,Junta Chevette,2054.33
+JSA218,Junta Ford Fiesta,1813.02
+JSA219,Junta Peugeot 306,2836.92
+JSA220,Junta R19 1700/1800 Anillo,1369.54
+JSA222,Junta Volkswagen Gol GLI,1682.59
+JSA225,Junta Fiat Palio,1565.21
+JSA226,Junta Indenor XD2 Ligero,1565.21
+JSA227,Junta Chevrolet Monza 1800,3326.04
+JSA228,Junta Peugeot 405,1565.21
+JSA229,Junta Renault Clio / Fiat toro 2.0 td,1565.21
+JSA230,Junta Renault Cl¡o Inyecci¢n-Acople,1565.21
+JSA231,Junta Fiat Palio - Siena Torque,1565.21
+JSA234,Junta Peugeot 205 Inyecci¢n,1858.67
+JSA235,Junta Ford Mondeo Aro Hierro,4294.14
+JSA236,Junta MWM 229,3717.35
+JSA237,Junta Chevrolet Blazer Diesel,2152.15
+JSA238,Junta Chevrolet Blazer Nafta,2152.15
+JSA239,Junta Dodge Ne¢n Aro Hierro,2453.8
+JSA240,Junta Volkswagen Gol 1.8I,1565.21
+JSA241,Junta Volkswagen Gol 2.0 I,2739.1
+JSA242,Junta Mercedes Benz 1522,6589.6
+JSA243,Junta Mercedes Benz 1215 intermedio,3423.87
+JSA244,Junta Mercedes Benz 710,3423.87
+JSA248,Junta sal.catal.VW Golf D,2836.92
+JSA249,Junta sal.escape Polo Diesel,2106.5
+JSA250,Junta sal.Ford Focus-Fiesta,1565.21
+JSA251,Junta Sal.Esc.Renault Megane,2999.96
+JSA252,Junta Sal.Esc.Peugeot 405/ Escort,1565.21
+JSA254,Junta Sal.Esc.Fiat 619-N1,4108.65
+JSA255,Junta Sal.Esc.Turbo M.Benz 1517,2811.64
+JSA256,Junta Sal.Esc.M.Benz 355,3423.87
+JSA257,Junta Sal.Esc.Toyota 62mm x 78mm.,4402.12
+JSA257/1,Junta Aro Univ.40x52x4.5mm,4891.25
+JSA258,Junta Sal.Esc.Toyota 49mm.x 36mm.,4089.66
+JSA258/1,Junta Aro Univ.43x55x5.25mm,5380.37
+JSA259,Junta Aro Univ.44.5x57x4.5mm.,4891.25
+JSA259/1,Junta Aro Univ.50.7x62x4.5mm,6117.33
+JSA260,Junta Aro Univ.56x67x5.25mm.,6117.33
+JSA261,Junta Aro Univ.60x70x5.26mm.,6847.75
+JSA262,Junta Aro Univ.71x82x5.20mm.,7630.35
+JSA268,Junta sal.Esc.Peugeot 405 TD,2739.1
+JSA269,Junta Peug.206-207/Citroen C3 1600-16V,3717.35
+JSA270,Junta VW Bora 2.0 - Acople equipo,2054.4
+JSA271,Junta VW Bora 1.8 Turbo,3554.3
+JSA272,Junta Sal. Esc. Renault-Ford (Megane-Mondeo-Focus),2934.75
+JSA273,Junta Salida de Escape Fiat (Uno. Palio - 1.0-1.3),1565.21
+JSA275,Junta Ford ranger 3.2 td,2739.1
+JSA276,Ranger 3.2 td,2054.33
+JSA278,Junta Toyota hilux 2.8 td,1565.21
+JSA279,Junta Peugeot 1.6 thp,1826.07
+JSA281,Junta Chevrolet S-10 2.8 td,1565.21
+JSA283,Junta VW polo 1.6 msi,1565.21
+JSA285,Junta Amarok v6,2739.1
+JSA286,Junta Chevrolet S-10 2.8 TD,3423.87
+JSA287,Junta Peugeot Boxer 2.2 HDI,3423.87
+JSA288,Junta Volkswagen Up 1.0,1630.42
+JSU1,Junta Chevrolet C20 /Ac.Prens.,4426.76
+JSU2,Junta Chevrolet Chevette/Ac.Prens.,3085.44
+JSU3,Jta.Ch.Corsa-Monsa-Vectra/P.306/405/Ac.Prens.,3206.51
+JSU4,Jta.Chrysler Neon 2.2L/2.5L c/conv./Ac.Prens.,7540.8
+JSU5,Jun. Chrys. caravan/ Shadow/ Sidwa,5528.36
+JSU6,Junta Daewo Espero Acero Prensado,3564.69
+JSU7,Junta Deutz F3L/4/651 Ac.Prensado,7197.74
+JSU8,Junta Fiat Duna/Uno/Ducato-Acero Prensado,2915.02
+JSU9,Junta Ford Escort-Acero Prensado,3085.44
+JSU10,Junta Ford Escort Motor Zetec-Ac.Prensado,4707.69
+JSU11,Junta Ford Explorer/Ranger Ac.Prensado,4190.58
+JSU12,Junta Ford Falcon Acero Prensado,3520.65
+JSU13,Junta Ford Fiesta Acero Prensado,4330.82
+JSU14,Junta Ford Galaxy Acero Prensado,3085.44
+JSU15,Junta Ford Max Econo Acero Prensado,3520.65
+JSU16,Junta Ford Mondeo Acero Prensado,5984.07
+JSU17,Junta Ford F100/F150 mwn-acero,4185.55
+JSU18,Junta Ford F14000 MWM Diesel-Ac.Prensado,3630.32
+JSU19,Junta Ford F4000 MWM Diesel Ac.Prensado,3434.62
+JSU20,Junta Jeep Cherokee-Ac.Prensado,3992.09
+JSU21,Junta Peugeot 205 Acero Prensado,5047.7
+JSU22,Junta Peugeot 405 SR Acero Prensado,4426.76
+JSU23,Jta.Citr”en C3/Peugeot 206-Naf-Ac.Prensado,3085.44
+JSU24,Junta Peugeot 306 Turbo Diesel-Ac.Prensado,4190.58
+JSU25,Junta Rastrojero Acero Prensado,3085.44
+JSU26,Jta.Ren.R-9/R-11/R-19/Traffic 1.6L-Ac.Prens.,3992.09
+JSU27,Jta.Renault 19/Clio 1.7L/1.8L-Ac.Prens.,5047.7
+JSU28,Jta.Renault Clio II-Ac.Prensado,3085.44
+JSU29,Junta Renault Laguna Ac.Prensado,7273.81
+JSU30,Junta Renault Megane Bic-Ac.Prensado,3992.09
+JSU31,Jta.Volkswagen Transporter-Ac.Prensado,5984.07
+JSU32,Junta Peugeot 405 SRI-Acero Prensado,4707.69
+JSU36,Jta Volksw.Polo/Caddy Dies-Ac.Prensado,5440.63
+JSU37,Jta.VW Gol/Gol Country/Saveiro/Santana-Ac.Prens.,3352.92
+JSU38,Junta Chevr.Vectra/Calibra,3697.28
+JSU39,Jta Chevrolet Corsa 4Cil.1.7L Dies-Ac.Prens.,2064.36
+JSU40,Jta.Chevr.Corsa II/Meriva TD1.7L/N1.0L,1882.64
+JSU41,Jta.Toy.Hilux Corolla/Celica/Hilux-Runner 4x2,2227.09
+JSU42,Jta.Toy.Hilux 4x4 4x2/Rav4/Camry/Dyna-Ac.Prens.,2395.97
+JSU43,Junta Toyota Hilux-Hilux Sw 4-Ac.Prensado,2572.39
+JSU44,Jta.Toy.Corolla/Land Cruiser Prado/Rav4/Corona,2115.04
+JSU45,Junta Toyota Hilux-08/Lan Cruiser-Ac.Prens.,4707.69
+JSU46,Jta.Toyota Corolla/Rav 4-Acero Prensado,3645.07
+JSU47,Jta.Toyota Corolla-Acero Prensado,4440.21
+JSU48,Jta.Toyota Corolla-Acero Prensado,4198.36
+JSU50,Jta.VW Gacel/Senda/Saveiro/Santana-Ac.Prens.,3085.44
+JSU51,Jta.Honda Accord/Civic/Prelude/Cr-v/Odissey-Ac.Pre,2395.97
+JSU53,Junta Renault Kwid 1.0L 12 V,3085.44
+JSU55,Junta Renault Master,3476.95
+JSU56,Jta.Nissan Tiida,3464.01
+JSU57,Jta.Nissan Tiida,3993.22
+JSU58,Jta.Perkins 4-236  4-248,2448.43
+JSU59,Jta.Chery Tiggo 2.0N 16V,5984.07
+JSU62,Sal. esc. FORD RANGER (70.5mm ;89mm),5653.78
+M9006,Silenc.Zanella Sol 70.New Fire.Sol Plus 98 y Top,43387.21
+M9007,Silenciador Zanella Cargo,43387.21
+M9032,Silenciador(Original)Mondial S-1,46988.52
+M9033,Silenciador Mondial M1,46302.55
+M9034,Silenc.Juki Pista 70/50.Siambreta 50 Y Aurora 50,49732.37
+M9035,Silenciador Mondial 100 Jet,48874.92
+M9200,Silenc.Yamaha Jog 50 Mod.90-92-Addly 50 y AT 50S,49560.88
+M9201,Silenc.Yamaha Axis 90.JOG Artistic 50.JOG R y Next,49046.41
+M9210,Silenciador Yamaha Mint y Razz,49903.86
+M9250,Silenciador Honda Dax 70,45788.08
+M9255,Silenciador Honda Elite y Tact 50,49389.39
+M9256,Silenciador Honda Dio,47502.99
+M9280,Silenciador Suzuki AE 50,50418.33
+M9282,Silenciador Suzuki Address 60,50246.84
+M9283,Silenciador Suzuki Address 100,46302.55
+M9284,Silenciador Suzuki FA,42872.73
+M9400,Silenciador Yamaha Kripton,49732.37
+M9450,Silenciador Kawasaki Kazer 110,49389.39
+M9500,Sil.Honda NF100 Wave y Guerrero G110 DL(3 rayos),46474.04
+M9502,Silenciador Honda C 105 Biz,45788.08
+M9600,Silenciador Guerrero G 110 DL,47674.48
+M9602,Silenciador Guerrero G-100 Trip,49046.41
+M9700,Silenciador Mondial LD 110,47674.48
+M9800,Silenciador Motomel Eco 70,47331.5
+M9900,Silenciador Gilera Smash 110,45445.1
+ME9000,Silenciador Economico Zanella V2-V3,34298.19
+ME9001,Silenciador Economico Zanella Due,32583.28
+ME9002,Silenciador Economico Zanella Pocket,35155.64
+ME9003,Silenc.Economico Zanella DUE '91.Fire y Sol Full,33097.75
+ME9004,Silenciador Economico Zanella V.R.,35327.13
+ME9005,Silenc.Econ.Zanella Sol Plus y New Fire Plus 5T,33612.22
+ME9030,Silenciador Economico Juki J2L,36184.59
+ME9031,Silenciador Economico Juki Dribbling,36184.59
+ME9050,Silenciador Economico Garelli NOI,36870.55
+ME9051,Silenciador Economico Garelli Team,36870.55
+ME9052,Silenciador Economico Garelli NOI '92,37385.02
+ME9053,Silenciador Economico Garelli NOI Matic,36699.06
+ME9070,Silenciador Economico Pumita,36184.59
+ME9071,Silenciador Economico Pumita Fifty,36184.59
+ME9080,Silenciador Economico Da Dalt,36013.1
+ME9081,Silenciador Da Dalt 3T-Standar R16.R12 y Ciclocarg,36527.57
+ME9082,Silenciador Economico Da Dalt B/G,36527.57
+ME9090,Silenciador Economico Kirdy,35498.62
+ME9091,Silenciador Economico Jialing,36184.59
+ME9095,Silenciador Economico Daelim,36870.55
+PA100,Porta Auxiliar S-10. Ranger y Hilux,406740.1
+PA200,Porta Auxiliar VW Amarok,398465.26
+PA400,Porta Auxiliar Ford Ranger (23 ->),419889.17
+REPUE2,REPUESTOS CORTADORA,20397.17
+S9000,"Sordina chica diam.1""1/2",9661.82
+S9001,"Sordina grande diam.2""1/4",9661.82
+SEU1,Sellador para Ca¤os de Escape,3619.66
+SEU2,Sellador Sachet (Regidor),5260.32
+SO920,Soporte Ami 8- Aro,1878.69
+SO921,Soporte Fiat 1500-125-Trasero Corto,1825.01
+SO922,Soporte Fiat 1500 - 125 Gancho corto,4461.71
+SO923,Soporte Fiat 128 - Gancho largo,4664.52
+SO924,Soporte Fiat 128 - Trasero,2535.06
+SO925,Soporte Ford Falcon Corto,3690.86
+SO926,Soporte Ford Falcon Largo,3690.86
+SO927,Soporte Ford Taunus,1449.27
+SO928,Soporte Duna - Uno Delantero y Opel - Aro,1180.89
+SO929,Soporte Peugeot 404 - Carretel,4938.26
+SO931,Soporte Peugeot 504 - Aro,4765.92
+SO931/1,Soporte Peugeot Reforma,3220.61
+SO932,Soporte Peugeot Tira Corta - 2 agujeros,3447.69
+SO933,Soporte Renault 4L -R6 - R12,3447.69
+SO933/1,Soporte Renault 4L-R6-R12- Reforma,3381.63
+SO934,Soporte Renault R12 - Grande,4056.1
+SO934/1,Soporte Renault R21 Salida Motor,4056.1
+SO935,Soporte Torino IKA,3954.7
+SO936,Soporte Torino TSX,9393.43
+SO937,Soporte Universal p/abrazaderas,4918.03
+SO938,Universal doble soporte de goma,7461.07
+SO939,Soporte Pick-Up F100 - Delantero (66/82),11272.12
+SO941,Soporte Pick-Up F100 Delantero (82/86),11808.89
+SO942,Soporte Pick-Up F100 - Trasero (66/82),11808.89
+SO943,Soporte Pick-Up F100 - Trasero (82/87),15405.23
+SO944,Soporte R18 Delantero y Trafic Trasero,1610.3
+SO945,Soporte R18 Trasero y Trafic Delantero,1341.92
+SO946,Soporte Dodge Tira 3 Agujeros,1717.66
+SO947,Soporte Duna - Uno - Trasero y Regatta inter.,1663.98
+SO948,Soporte Dodge Reforma,1878.69
+SO950,Soporte Citr”en Visa,1610.3
+SO951,Tira de goma 50 cm de largo,4884.58
+SO955,Soporte Ford Sierra,3143.48
+SO956,Soporte Aro Gacel,1180.89
+SO957,Soporte Chapa Salida R12,1502.95
+SO964,Soporte Chapa Caja 505 c/porta resorte,12675.32
+SO965,Soporte R11 Delantero y R21 Intermedio,1449.27
+SO966,Soporte Regatta-R11-R21 tras. y Duna-Uno inter.,1449.27
+SO970,Mensula Fiat 125,16908.18
+SO971,Soporte Aro Fiat 147,1234.57
+SO972,Soporte Fiat 147 Ganchos,2636.47
+SO973,"Regat¢n p/jaula antivuelco 2 1/2""",1395.6
+SO975,Soporte Chapa Block - F100,4723.55
+SO976,Soporte Pick-Up F100 - Trasero (88/92),15405.23
+SO978,"Regat¢n p/jaula antivuelco 3""",1395.6
+SO979,Mensula Fiat 147,10896.38
+SO981,Soporte R19,1073.54
+SO982,Soporte R12 Reforma (3 piezas),1341.92
+SO983,Soporte Universal Doble,8822.03
+SO984,Soporte para Cami¢n c/tornillo - 40mm,12371.12
+SO985,Soporte Clio y Twingo,1582.07
+SO987,Soporte Gol Nuevo y Pointer,2940.68
+SO988,Soporte Ford Escort - Orion,6548.56
+SO989,Soporte F100 - Intermedio (93/96),12399.33
+SO991,Soporte Ford Transit,1663.98
+SO992,Soporte Pick-Up F100 - Trasero (98),5636.06
+SO993,Soporte Fiat Palio Delantero y Tras. Siena tras.,1234.57
+SO996,Soporte 405 Intermedio y Trasero,3042.08
+SO997,Soporte Renault Express y Fiorino,1610.3
+SO998,Soporte Ford Ka,1395.6
+SO1000,Soporte Peugeot 306 Delantero,1288.24
+SO1001,Soporte Peugeot 306 Trasero,1395.6
+SO1003,Soporte R12 Caja,3166.93
+SO1004,Soporte Renault Megane,2058.1
+SO1005,Soporte Polo - Golf Trasero,6172.83
+SO1006,Soporte Gol Nuevo - Seat,1878.69
+SO1007,Soporte Ford Escort Zetec delant. y tras.,1288.24
+SO1009,Soporte Ford Fiesta tras. Eco Sport,1610.3
+SO1010,Soporte Corsa - Blazer,1771.33
+SO1011,Soporte para Cami¢n c/tornillo - 60mm.,13385.14
+SO1012,Soporte para Cami¢n c/tornillo 75mm.,13993.56
+SO1013,Soporte de Goma Ford Focus,1878.69
+SO1014,Soporte de goma Ford Ranger,1986.04
+SU100,Supresor error catalizador curvo,11218.43
+SU101,Supresor error catalizador recto,10681.67
+SU102,Supresor error catalizador curvo c/rosca macho,17230.23
+SU103,Supresor error catalizador recto c/rosca macho,16478.75
+TB940,Tuerca bronce p/Múltipl. Rastrojero,2039.72
+TB941,Tuerca bronce p/Múltipl. Peugeot,2039.72
+TB942,Tuerca bronce p/Múltipl. F 100 - Falcon,2039.72
+TB943,Tuerca bronce p/Múltipl. F100 - Torino 7 banc.,2039.72
+TB944,Tuerca bronce p/Múltipl. Chevrolet,1878.69
+TB945,Tuerca bronce p/Múltipl. Torino - Dodge,1878.69
+TB946,Tuerca bronce p/Múltipl. R12 - Fiat,1502.95
+TB947,Tuerca bronce p/Múltipl. Toyota,2254.42
+TB948,Tuerca bronce p/Múltipl. Taunus,3005.9
