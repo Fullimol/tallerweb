@@ -8,38 +8,34 @@
     </div>
 
     @if (productos.length === 0) {
-      <div class="alert alert-warning mb-0">
-        No hay productos cargados todavía. Volvé a la página principal y esperá que cargue el CSV.
-      </div>
+    <div class="alert alert-warning mb-0">
+      No hay productos cargados todavía. Volvé a la página principal y esperá que cargue el CSV.
+    </div>
     } @else {
-      <div class="mb-3">
-        <input
-          class="form-control"
-          placeholder="Filtrar por código o producto..."
-          [(ngModel)]="filtro"
-        />
-        <div class="text-secondary mt-2">
-          Mostrando {{ productosFiltrados.length }} de {{ productos.length }}
-        </div>
+    <div class="mb-3">
+      <input class="form-control" placeholder="Filtrar por código o producto..." [(ngModel)]="filtro" />
+      <div class="text-secondary mt-2">
+        Mostrando {{ productosFiltrados.length }} de {{ productos.length }}
       </div>
+    </div>
     }
   </div>
 
   <!-- LISTA SCROLLEABLE -->
   @if (productos.length > 0) {
-    <div class="flex-grow-1 overflow-auto">
-      <div class="d-flex flex-column gap-2 pb-3">
-        @for (p of productosFiltrados; track p.codigo) {
-          <div class="border rounded p-2 bg-light">
-            <div class="fw-bold">{{ p.codigo }}</div>
-            <div>{{ p.producto }}</div>
-            <div class="text-secondary">
-              ${{ p.precio_c_iva | number:'1.2-2' }}
-            </div>
-          </div>
-        }
+  <div class="flex-grow-1 overflow-auto">
+    <div class="d-flex flex-column gap-2 pb-3">
+      @for (p of productosFiltrados; track p.codigo) {
+      <div class="border rounded p-2 bg-light">
+        <div class="fw-bold">{{ p.codigo }}</div>
+        <div>{{ p.producto }}</div>
+        <div class="text-danger">
+          ${{ p.precio_c_iva | number:'1.2-2' }}
+        </div>
       </div>
+      }
     </div>
+  </div>
   }
 
 </div>

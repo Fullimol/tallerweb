@@ -1,34 +1,32 @@
 <div class="container-fluid p-0">
     @if (isLoading) {
-
     <div class="d-flex flex-column justify-content-center align-items-center" style="height: 100vh;">
         <h1 class="text-center fw-bold">Taller Web</h1>
         <img src="/logo.png" alt="Logo" class="mb-4" style="max-width: 180px;" />
 
-        <div class="spinner-border text-danger" role="status">
-        </div>
+        <div class="spinner-border text-danger" role="status"></div>
     </div>
     } @else {
 
     <div class="container py-3">
-        <div class="text-center">
-            <img src="/logo.png" alt="Logo" style="max-width: 50px;" />
-            <p class="fw-bold">Taller Web</p>
+        <div class="text-center box-logo-taller">
+            <img src="/logo.png" alt="Logo" style="max-width: 80px;" />
+            <p class="fw-bold text-danger fst-italic">Taller Web</p>
         </div>
 
-        <!-- Buscar -->
-        <div class="card mb-3">
+        <div class="card mb-3 card-buscador-taller">
             <div class="card-body">
-                <h5 class="card-title mb-3">🔎 Buscar código y agregar</h5>
+                <h5 class="card-title mb-3 text-center">🔎 Buscar código y agregar</h5>
 
                 <div class="row g-2 align-items-center">
                     <div class="col-12 col-md">
-                        <input type="text" class="form-control" placeholder="código SIN guión NI espacios..."
+                        <input type="text" class="form-control form-control-lg" placeholder="SIN guión NI espacios..."
                             [(ngModel)]="codigoBuscado" (keyup.enter)="buscarYAgregar()" />
                     </div>
 
                     <div class="col-12 col-md-auto d-grid">
-                        <button type="button" class="btn btn-success" (click)="buscarYAgregar()">
+                        <button type="button" class="btn btn-success btn-lg btn-agregar-taller"
+                            (click)="buscarYAgregar()">
                             <i class="bi bi-plus-circle"></i> Agregar
                         </button>
                     </div>
@@ -40,51 +38,42 @@
             </div>
         </div>
 
-        <!-- Tabla -->
-        <div class="card" *ngIf="seleccionados.length > 0">
+        <div class="card card-tabla-taller" *ngIf="seleccionados.length > 0">
             <div class="card-body">
-                <div class="d-flex flex-column flex-md-row justify-content-md-between align-items-md-center gap-2 mb-2">
-                    <h5 class="card-title m-0">​✔️ Piezas seleccionadas</h5>
+                <div class="d-flex flex-column flex-md-row justify-content-md-between align-items-md-center gap-2 mb-3">
+                    <h5 class="card-title m-0 text-center">✔️ Piezas seleccionadas</h5>
 
                     <div class="d-flex flex-column flex-sm-row gap-2">
-
-
-                        <button type="button" class="btn btn-danger" (click)="vaciar()">
+                        <button type="button" class="btn btn-danger btn-sm boton-vaciar" (click)="vaciar()">
                             <i class="bi bi-x-circle"></i> Vaciar todo
                         </button>
                     </div>
                 </div>
 
-                <div class="table-responsive">
-                    <table class="table table-sm align-middle">
-                        <thead class="table-light">
-                            <tr>
-                                <th style="width: 140px;">Código</th>
-                                <th>Producto</th>
-                                <th class="text-end" style="width: 160px;">Precio</th>
-                                <th style="width: 80px;"></th>
-                            </tr>
-                        </thead>
+                <div class="lista-productos-taller">
 
-                        <tbody>
-                            <tr *ngFor="let item of seleccionados">
-                                <td class="font-monospace">{{ item.codigo }}</td>
-                                <td class="procutoItem">{{ item.producto }}</td>
-                                <td class="text-end">{{ item.precio_c_iva | number:'1.2-2' }}</td>
-                                <td class="text-end">
-                                    <button type="button" class="btn btn-sm btn-danger"
-                                        (click)="eliminarItem(item.codigo)">
-                                        <i class="bi bi-x"></i>
-                                    </button>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
+                    <div *ngFor="let item of seleccionados" class="item-fila-taller">
+
+                        <div class="item-codigo font-monospace">Código: {{ item.codigo }}</div>
+
+                        <div class="item-nombre text-dark">{{ item.producto }}</div>
+
+                        <div class="item-acciones-taller">
+                            <div class="item-precio">$ {{ item.precio_c_iva | number:'1.2-2' }}</div>
+                            <button type="button" class="btn btn-danger btn-eliminar-taller"
+                                (click)="eliminarItem(item.codigo)">
+                                <i class="bi bi-x-lg"></i>
+                            </button>
+                        </div>
+                        <hr />
+                    </div>
+
                 </div>
 
-                <div class="d-flex flex-column flex-md-row justify-content-center gap-2 mt-2">
-                    <div class="btn btn-light text-start fs-2 text-center">
-                        <span class="fw-semibold">Total:</span>
+                <div class="d-flex flex-column flex-md-row justify-content-center gap-2 ">
+                    <div class="btn btn-light text-start fs-2 text-center shadow-sm w-100 style-total-taller fw-bold">
+                        <span class="fw-semibold">Total</span>
+                        <br />
                         $ {{ totalSinIva | number:'1.2-2' }}
                     </div>
                 </div>

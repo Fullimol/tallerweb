@@ -63,7 +63,7 @@ async ngOnInit() {
 
 
   private async cargarDesdeRepoYGuardar() {
-    this.mensaje = 'Cargando lista de precios...';
+    // this.mensaje = 'Cargando lista de precios...';
 
     try {
       const csvText = await this.descargarCsv(this.CSV_URL);
@@ -76,7 +76,7 @@ async ngOnInit() {
       this.guardarProductosEnLocalStorage();
       this.guardarArchivosEnLocalStorage();
 
-      this.mensaje = `​✅ Piezas cargadas: ${this.totalProductos}`;
+      // this.mensaje = `​✅ Piezas cargadas: ${this.totalProductos}`;
     } catch (e) {
       this.mensaje = 'No se pudo descargar la lista.';
       throw e; // 👈 clave

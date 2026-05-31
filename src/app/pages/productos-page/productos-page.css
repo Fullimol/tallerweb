@@ -1,0 +1,152 @@
+/* ==========================================================================
+   ESTILOS DE ACCESIBILIDAD (LETRA GRANDE PARA GENTE MAYOR)
+   ========================================================================== */
+body,
+p,
+span {
+    font-size: 1.25rem !important;
+}
+
+/* ==========================================================================
+   CONTENEDOR 1: BUSCADOR
+   ========================================================================== */
+.card-buscador-taller {
+    background-color: #e2e2e9 !important;
+    /* Fondo gris-azul diferenciado */
+    border: 1px solid #d0d7de !important;
+    border-radius: 10px;
+}
+
+.card-buscador-taller input.form-control {
+    margin-top: 20px !important;
+    font-size: 1.35rem !important;
+    padding: 12px !important;
+}
+
+.btn-agregar-taller {
+    font-size: 1.35rem !important;
+    font-weight: bold !important;
+    padding: 12px !important;
+    margin-top: 30px !important;
+    /* Separación del input */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.08) !important;
+}
+
+@media (min-width: 768px) {
+    .btn-agregar-taller {
+        margin-top: 0 !important;
+    }
+}
+
+/* ==========================================================================
+   CONTENEDOR 2: LISTADO DE PRODUCTOS (FLEXBOX RESPONSIVE)
+   ========================================================================== */
+.boton-vaciar {
+    margin-top: 10px !important;
+    font-size: 1.1rem !important;
+    padding: 8px 16px !important;
+    font-weight: bold !important;
+    border-radius: 6px !important;
+}
+
+.card-tabla-taller {
+    background-color: #e2e2e9 !important;
+    /* Fondo gris claro diferenciado */
+    border: 1px solid #e1e4e6 !important;
+    border-radius: 10px;
+}
+
+/* Cada fila individual de producto */
+.item-fila-taller {
+    padding: 15px 10px;
+    border-bottom: 1px solid #dee2e6;
+    display: flex;
+    flex-direction: column;
+    /* En celular se apila verticalmente */
+    gap: 6px;
+}
+
+/* Código del producto */
+.item-codigo {
+    font-size: 1.2rem !important;
+    color: #6c757d;
+    font-weight: 600;
+}
+
+/* Detalle del producto (Usa todo el ancho libre y letra grande) */
+.item-nombre {
+    font-size: 1.4rem !important;
+    /* Letra bien grande y legible */
+    font-weight: 700;
+    width: 100%;
+    word-wrap: break-word;
+}
+
+/* Contenedor inferior para alinear precio y botón a la derecha */
+.item-acciones-taller {
+    display: flex;
+    justify-content: flex-end;
+    /* Empuja todo a la derecha */
+    align-items: center;
+    gap: 15px;
+    margin-top: 4px;
+}
+
+/* Precio destacado */
+.item-precio {
+    font-size: 1.5rem !important;
+    /* Precio grande */
+    font-weight: 800 !important;
+    color: #64262d !important;
+    /* Rojo resaltado */
+}
+
+/* Botón quitar pieza */
+.btn-eliminar-taller {
+    font-size: 0.8rem !important;
+    padding: 8px 16px !important;
+    font-weight: bold !important;
+    border-radius: 6px !important;
+}
+
+/* Cuadro del total */
+.style-total-taller {
+    background-color: #a0ccf5 !important;
+    /* Fondo gris-azul diferenciado */
+    max-width: 350px;
+    font-size: 2rem !important;
+    border: 1px solid #ddd !important;
+    padding-top: 0px !important;
+}
+
+.style-total-taller span {
+    font-size: 1.6rem !important;
+}
+
+/* ==========================================================================
+   COMPORTAMIENTO EN PANTALLAS GRANDES (PC / TABLET)
+   ========================================================================== */
+@media (min-width: 768px) {
+    .item-fila-taller {
+        flex-direction: row;
+        /* En PC se vuelve una fila horizontal */
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .item-codigo {
+        width: 150px;
+        margin-bottom: 0;
+    }
+
+    .item-nombre {
+        flex-grow: 1;
+        /* Ocupa el espacio del medio */
+        width: auto;
+    }
+
+    .item-acciones-taller {
+        width: auto;
+        margin-top: 0;
+    }
+}
