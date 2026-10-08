@@ -33,7 +33,7 @@ export class ProductosPage {
   // ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
   // cambiar la fecha esta cada vez que se actualice el CSV en el repo/deploy 
   // (USAR LA FECHA DE PRECIOS QUE INDICA EL PDF DE "TUBOSILEN" )
-  private readonly CSV_VERSION = '04-08-2026'; 
+  private readonly CSV_VERSION = '08-10-2026'; 
   fechaVersion = this.CSV_VERSION;
   // ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
